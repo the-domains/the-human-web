@@ -4,7 +4,7 @@
         <description><![CDATA[the-human-web]]></description>
         <link>https://thegrid.ai/the-human-web/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 06 Mar 2016 15:55:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Mar 2016 15:55:14 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-human-web/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Rise of the Supertemp]]></title>
@@ -12,6 +12,20 @@
             <link>https://hbr.org/2012/05/the-rise-of-the-supertemp</link>
             <guid isPermaLink="false">c8984f53-ae67-4c94-9c05-339f285ce074</guid>
             <pubDate>Sun, 06 Mar 2016 15:52:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A practical intelligence amplification hack that really works: how to use your phone's TTS engine to give your brain a boost]]></title>
+            <description><![CDATA[<article><h1>A practical intelligence amplification hack that really works: how to use your phone's TTS engine to give your brain a boost</h1><p>Liraz Siri - Fri, 2014/08/08 - 00:54 - | Latest by Ron The future is already here - it's just not very evenly distributed. - William Gibson Today I decided it was time I shared a unique, literally mind bending experience I've been having.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7fd34f143f317a502da1f2bb3183db7897708fec.png"></article>]]></description>
+            <link>https://www.turnkeylinux.org/blog/practical-intelligence-amplification</link>
+            <guid isPermaLink="false">50d61bcf-515c-4ebe-a11c-ee4fac8a478d</guid>
+            <pubDate>Sun, 06 Mar 2016 15:52:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bret Victor - Seeing Spaces]]></title>
+            <description><![CDATA[<article><h1>Bret Victor - Seeing Spaces</h1><p>Read the poster: http://worrydream.com/SeeingSpaces What if we designed a new kind of "maker space" -- a space that isn't just for putting pieces together, but also for seeing and understanding a project's behavior in powerful ways?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f34eb06354af90782425c8c8f2b5434eb9149490.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=klTjiXjqHrQ</link>
+            <guid isPermaLink="false">6f72c5fd-bd56-4ad1-b123-3a5389ffadbf</guid>
+            <pubDate>Sun, 06 Mar 2016 15:52:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Video Speed Controller]]></title>
@@ -61,20 +75,6 @@
             <link>http://www.lukew.com/ff/entry.asp?1958</link>
             <guid isPermaLink="false">5ccdb0a4-bd59-4fd3-939b-13a2a72ca9de</guid>
             <pubDate>Sun, 06 Mar 2016 15:52:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[When One App Rules Them All: The Case of WeChat and Mobile in China]]></title>
-            <description><![CDATA[<article><h1>When One App Rules Them All: The Case of WeChat and Mobile in China</h1><p>This post is all about WeChat, but it's also about more than just WeChat. While seemingly just a messaging app, WeChat is actually more of a portal, a platform, and even a mobile operating system depending on how you look at it.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/aa77245244c8c8be8b2d5178040171c9e2cd213a.jpg"></article>]]></description>
-            <link>http://a16z.com/2015/08/06/wechat-china-mobile-first/</link>
-            <guid isPermaLink="false">8e0d0c6d-ac71-489a-adf7-6d0c71d3b915</guid>
-            <pubDate>Sun, 06 Mar 2016 15:52:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Redefining work]]></title>
-            <description><![CDATA[<article><h1>Redefining work</h1><p>The most modern definition of work is "an exchange in which the participants benefit from the interaction". Interestingly, cooperation is also described as "an exchange in which the participants benefit from the interaction". The way we view work life is influenced by the way we view the world.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3bfebfa368de41a577380ab00fc7475109ecd212.jpg"></article>]]></description>
-            <link>https://thegrid.ai/the-human-web/redefining-work/index.html</link>
-            <guid isPermaLink="false">ce9e0292-0658-41e7-9986-970fca4ef286</guid>
-            <pubDate>Sun, 06 Mar 2016 15:52:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
