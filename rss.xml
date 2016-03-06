@@ -4,7 +4,7 @@
         <description><![CDATA[the-human-web]]></description>
         <link>https://thegrid.ai/the-human-web/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 06 Mar 2016 15:55:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Mar 2016 15:55:54 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-human-web/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Rise of the Supertemp]]></title>
@@ -12,6 +12,27 @@
             <link>https://hbr.org/2012/05/the-rise-of-the-supertemp</link>
             <guid isPermaLink="false">c8984f53-ae67-4c94-9c05-339f285ce074</guid>
             <pubDate>Sun, 06 Mar 2016 15:52:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Conflict-free replicated data type]]></title>
+            <description><![CDATA[<article><h1>Conflict-free replicated data type</h1><p>In distributed computing, a conflict-free replicated data type (abbreviated CRDT) is a type of specially-designed data structure used to achieve strong eventual consistency (SEC) and monotonicity (absence of rollbacks). There are two alternative routes to ensuring SEC: operation-based CRDTs and state-based CRDTs.</p></article>]]></description>
+            <link>https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type</link>
+            <guid isPermaLink="false">a2e6cc44-d99c-4ffb-908a-134538ea71cb</guid>
+            <pubDate>Sun, 06 Mar 2016 15:52:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ethereum Frontier]]></title>
+            <description><![CDATA[<article><h1>Ethereum Frontier</h1><p>Ether is the internal 'fuel' of Ethereum. Programs running on Ethereum need to pay the network for the resources they consume. Volunteers earn this ether by validating transactions, securing the network.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1c79eed53b26b0e991d75afd63ad6151fbf32397.jpg"></article>]]></description>
+            <link>https://www.ethereum.org/</link>
+            <guid isPermaLink="false">04beb463-d983-4531-8aea-ab21f73f2624</guid>
+            <pubDate>Sun, 06 Mar 2016 15:52:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tor]]></title>
+            <description><![CDATA[<article><h1>Tor</h1><p>Tor makes it possible for users to hide their locations while offering various kinds of services, such as web publishing or an instant messaging server. Using Tor "rendezvous points," other Tor users can connect to these hidden services, each without knowing the other's network identity.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/45f5a711868131f9d286b8a8f5580ed3cd6c23af.png"></article>]]></description>
+            <link>https://www.torproject.org/docs/hidden-services.html.en</link>
+            <guid isPermaLink="false">af98fb4a-e6e8-4b83-9d42-04cd39041932</guid>
+            <pubDate>Sun, 06 Mar 2016 15:52:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Sprint Reader - Speed Reading Extension]]></title>
@@ -53,27 +74,6 @@
             <description><![CDATA[<article><h1>A practical intelligence amplification hack that really works: how to use your phone's TTS engine to give your brain a boost</h1><p>Liraz Siri - Fri, 2014/08/08 - 00:54 - | Latest by Ron The future is already here - it's just not very evenly distributed. - William Gibson Today I decided it was time I shared a unique, literally mind bending experience I've been having.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7fd34f143f317a502da1f2bb3183db7897708fec.png"></article>]]></description>
             <link>https://www.turnkeylinux.org/blog/practical-intelligence-amplification</link>
             <guid isPermaLink="false">50d61bcf-515c-4ebe-a11c-ee4fac8a478d</guid>
-            <pubDate>Sun, 06 Mar 2016 15:52:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bret Victor - Seeing Spaces]]></title>
-            <description><![CDATA[<article><h1>Bret Victor - Seeing Spaces</h1><p>Read the poster: http://worrydream.com/SeeingSpaces What if we designed a new kind of "maker space" -- a space that isn't just for putting pieces together, but also for seeing and understanding a project's behavior in powerful ways?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f34eb06354af90782425c8c8f2b5434eb9149490.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=klTjiXjqHrQ</link>
-            <guid isPermaLink="false">6f72c5fd-bd56-4ad1-b123-3a5389ffadbf</guid>
-            <pubDate>Sun, 06 Mar 2016 15:52:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Video Speed Controller]]></title>
-            <description><![CDATA[<article><h1>Video Speed Controller</h1><p>Speed up, slow down, advance and rewind any HTML5 video with quick shortcuts.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/66de9c915411e595f804733327001cb1b41698f7.jpg"></article>]]></description>
-            <link>https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk?hl=en</link>
-            <guid isPermaLink="false">34ca3cb9-cc45-4c01-9903-02c272e9cc62</guid>
-            <pubDate>Sun, 06 Mar 2016 15:52:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mentat Wiki: Home Page]]></title>
-            <description><![CDATA[<article><h1>Mentat Wiki: Home Page</h1><p>This wiki is a collaborative environment for exploring ways to become a better thinker. Topics that can be explored here include MemoryTechniques, MentalMath, CriticalThinking, BrainStorming, ShorthandSystems, NotebookSystems, and SmartDrug s. Other relevant topics are also welcome.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0210ef35b0c128beb29ba4971a915bf9388dba3c.png"></article>]]></description>
-            <link>http://www.ludism.org/mentat</link>
-            <guid isPermaLink="false">2744618a-a8e0-418c-8f85-f151e9c3eaeb</guid>
             <pubDate>Sun, 06 Mar 2016 15:52:29 GMT</pubDate>
         </item>
     </channel>
