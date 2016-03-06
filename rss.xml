@@ -4,7 +4,7 @@
         <description><![CDATA[the-human-web]]></description>
         <link>https://thegrid.ai/the-human-web/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 06 Mar 2016 15:55:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Mar 2016 15:55:32 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-human-web/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Rise of the Supertemp]]></title>
@@ -12,27 +12,6 @@
             <link>https://hbr.org/2012/05/the-rise-of-the-supertemp</link>
             <guid isPermaLink="false">c8984f53-ae67-4c94-9c05-339f285ce074</guid>
             <pubDate>Sun, 06 Mar 2016 15:52:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tor]]></title>
-            <description><![CDATA[<article><h1>Tor</h1><p>Tor makes it possible for users to hide their locations while offering various kinds of services, such as web publishing or an instant messaging server. Using Tor "rendezvous points," other Tor users can connect to these hidden services, each without knowing the other's network identity.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/45f5a711868131f9d286b8a8f5580ed3cd6c23af.png"></article>]]></description>
-            <link>https://www.torproject.org/docs/hidden-services.html.en</link>
-            <guid isPermaLink="false">af98fb4a-e6e8-4b83-9d42-04cd39041932</guid>
-            <pubDate>Sun, 06 Mar 2016 15:52:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sprint Reader - Speed Reading Extension]]></title>
-            <description><![CDATA[<article><h1>Sprint Reader - Speed Reading Extension</h1><p>Speed reading made easy, train yourself to read 1800+ words per minute. Rapid serial visual presentation (RSVP) at its best!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c76639b5a281bfe7f9e9caa19f4dd687d693038d.jpg"></article>]]></description>
-            <link>https://chrome.google.com/webstore/detail/sprint-reader-speed-readi/kejhpkmainjkpiablnfdppneidnkhdif?hl=en</link>
-            <guid isPermaLink="false">f63f0775-c034-42d9-9848-f35f1d3cbcab</guid>
-            <pubDate>Sun, 06 Mar 2016 15:52:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Accelerando]]></title>
-            <description><![CDATA[<article><h1>Accelerando</h1><p>This free ebook edition is made available by kind consent of my publishers, Ace and Orbit, under a Creative Commons license with certain restrictions attached. In particular, you may not create derivative works or use the work for commercial gain.</p></article>]]></description>
-            <link>http://www.antipope.org/charlie/blog-static/fiction/accelerando/accelerando-intro.html</link>
-            <guid isPermaLink="false">3273ad20-b7d5-449d-b628-262753ea5f57</guid>
-            <pubDate>Sun, 06 Mar 2016 15:52:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Outline of transhumanism]]></title>
@@ -74,6 +53,27 @@
             <description><![CDATA[<article><h1>Video Speed Controller</h1><p>Speed up, slow down, advance and rewind any HTML5 video with quick shortcuts.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/66de9c915411e595f804733327001cb1b41698f7.jpg"></article>]]></description>
             <link>https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk?hl=en</link>
             <guid isPermaLink="false">34ca3cb9-cc45-4c01-9903-02c272e9cc62</guid>
+            <pubDate>Sun, 06 Mar 2016 15:52:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mentat Wiki: Home Page]]></title>
+            <description><![CDATA[<article><h1>Mentat Wiki: Home Page</h1><p>This wiki is a collaborative environment for exploring ways to become a better thinker. Topics that can be explored here include MemoryTechniques, MentalMath, CriticalThinking, BrainStorming, ShorthandSystems, NotebookSystems, and SmartDrug s. Other relevant topics are also welcome.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0210ef35b0c128beb29ba4971a915bf9388dba3c.png"></article>]]></description>
+            <link>http://www.ludism.org/mentat</link>
+            <guid isPermaLink="false">2744618a-a8e0-418c-8f85-f151e9c3eaeb</guid>
+            <pubDate>Sun, 06 Mar 2016 15:52:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bret Victor - Inventing on Principle]]></title>
+            <description><![CDATA[<article><h1>Bret Victor - Inventing on Principle</h1><p>Extra information and links to references can be found here: http://worrydream.com/dbx/ Bret Victor's talk from Dropbox's DBX conference. Many important computer pioneers and successful people of all sorts have a singular passion. This passion doesn't have to be a beautiful thing you want to bring into the world; it can be and often is an injustice to be stamped out.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a8117409a0d3a6f2c9c139c1934bde788e0ffece.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=EGqwXt90ZqA</link>
+            <guid isPermaLink="false">5999b7c5-efe2-43f6-b929-b60c10c52e1a</guid>
+            <pubDate>Sun, 06 Mar 2016 15:52:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bret Victor - The Future of Programming]]></title>
+            <description><![CDATA[<article><h1>Bret Victor - The Future of Programming</h1><p>Much of the overall message and style of the talk was inspired by Alan Kay. For more talks with a similar message, I highly recommend: Alan Kay -- Programming and Scaling http://www.tele-task.de/archive/lecture/overview/5819/ Gerry Sussman -- We Really Don't Know How To Compute!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7c5871d83ad4a3f7baac944f0bf20d3ed78b7a44.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=IGMiCo2Ntsc</link>
+            <guid isPermaLink="false">bf1dddeb-347b-42df-87b5-f085f0de15ea</guid>
             <pubDate>Sun, 06 Mar 2016 15:52:29 GMT</pubDate>
         </item>
     </channel>
