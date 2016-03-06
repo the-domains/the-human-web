@@ -5,10 +5,10 @@ author:
     avatar: {}
 related: []
 publisher:
-  url: 'https://github.com'
   name: GitHub
-  favicon: 'https://assets-cdn.github.com/favicon.ico'
   domain: github.com
+  url: 'https://github.com'
+  favicon: 'https://assets-cdn.github.com/favicon.ico'
 keywords:
   - hashing
   - human
@@ -25,13 +25,15 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'https://github.com/thehumanweb/notes/wiki/InfoPackage'
 title: thehumanweb/notes
-datePublished: '2016-03-06T15:43:54.522Z'
-dateModified: '2016-03-06T15:42:41.312Z'
+datePublished: '2016-03-06T16:40:54.719Z'
+dateModified: '2016-03-06T16:40:34.609Z'
 sourcePath: _posts/2016-03-06-thehumanwebnotes.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+starred: true
+authors: []
 _context: 'http://schema.org'
 _type: MediaObject
 
