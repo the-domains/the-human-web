@@ -22,12 +22,12 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'https://hbr.org/2012/05/the-rise-of-the-supertemp'
 title: The Rise of the Supertemp
-datePublished: '2016-03-06T15:52:27.327Z'
-dateModified: '2016-03-06T15:51:47.206Z'
+datePublished: '2016-03-06T16:47:43.234Z'
+dateModified: '2016-03-06T16:43:36.541Z'
 inFeed: true
 hasPage: false
 inNav: false
-starred: true
+starred: false
 authors: []
 sourcePath: _posts/2016-03-06-the-rise-of-the-supertemp.md
 published: true
