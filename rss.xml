@@ -4,7 +4,7 @@
         <description><![CDATA[thehumanweb]]></description>
         <link>https://thegrid.ai/the-human-web/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 06 Mar 2016 17:55:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Mar 2016 17:55:53 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-human-web/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[thehumanweb/notes]]></title>
@@ -12,6 +12,13 @@
             <link>https://github.com/thehumanweb/notes/wiki/InfoPackage</link>
             <guid isPermaLink="false">d567b2fe-b470-460c-aa79-ec5b5ae63788</guid>
             <pubDate>Sun, 06 Mar 2016 16:40:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>http://doublethinkco.github.io/webthree-umbrella-cross/images/target_dependency_graph.svg</p>]]></description>
+            <link>https://thegrid.ai/the-human-web/httpdoublethinkcogithubiowebthree-umbrella-crossimage/index.html</link>
+            <guid isPermaLink="false">997c5c90-9851-44eb-8a66-2f0091c0e4b8</guid>
+            <pubDate>Sun, 06 Mar 2016 17:54:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Conflict-free replicated data type</h1><p>In distributed computing, a conflict-free replicated data type (abbreviated CRDT) is a type of specially-designed data structure used to achieve strong eventual consistency (SEC) and monotonicity (absence of rollbacks). There are two alternative routes to ensuring SEC: operation-based CRDTs and state-based CRDTs.</p></article>]]></description>
             <link>https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type</link>
             <guid isPermaLink="false">a2e6cc44-d99c-4ffb-908a-134538ea71cb</guid>
-            <pubDate>Sun, 06 Mar 2016 15:52:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ethereum Frontier]]></title>
-            <description><![CDATA[<article><h1>Ethereum Frontier</h1><p>Ether is the internal 'fuel' of Ethereum. Programs running on Ethereum need to pay the network for the resources they consume. Volunteers earn this ether by validating transactions, securing the network.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ea055a22900a5ecc69a8a75c3c52547845c911a7.jpg"></article>]]></description>
-            <link>https://www.ethereum.org/</link>
-            <guid isPermaLink="false">04beb463-d983-4531-8aea-ab21f73f2624</guid>
             <pubDate>Sun, 06 Mar 2016 15:52:30 GMT</pubDate>
         </item>
     </channel>
