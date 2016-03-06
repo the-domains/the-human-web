@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[the-human-web]]></title>
         <description><![CDATA[the-human-web]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/the-human-web/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 06 Mar 2016 15:44:00 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 06 Mar 2016 15:44:05 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/the-human-web/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[thehumanweb/notes]]></title>
+            <description><![CDATA[<article><h1>thehumanweb/notes</h1><p>We believe that a number of industry disrupting technologies are at our doorstep, exciting technologies that will allow us to connect in more effective and meaningful ways. We believe that with this comes an opportunity to rethink our technological path, to examine our way of life, and what it means to be a human in the 21st century.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c89b5137fbdb7e3e167414063823fa1a2b76d21d.jpg"></article>]]></description>
+            <link>https://github.com/thehumanweb/notes/wiki/InfoPackage</link>
+            <guid isPermaLink="false">d567b2fe-b470-460c-aa79-ec5b5ae63788</guid>
+            <pubDate>Sun, 06 Mar 2016 15:43:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[thehumanweb/notes]]></title>
             <description><![CDATA[<article><h1>thehumanweb/notes</h1><p>Contribute to notes development by creating an account on GitHub.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c89b5137fbdb7e3e167414063823fa1a2b76d21d.jpg"></article>]]></description>
