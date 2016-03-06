@@ -4,7 +4,7 @@
         <description><![CDATA[the-human-web]]></description>
         <link>https://thegrid.ai/the-human-web/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 06 Mar 2016 15:54:15 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Mar 2016 15:54:23 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-human-web/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Rise of the Supertemp]]></title>
@@ -12,6 +12,13 @@
             <link>https://hbr.org/2012/05/the-rise-of-the-supertemp</link>
             <guid isPermaLink="false">c8984f53-ae67-4c94-9c05-339f285ce074</guid>
             <pubDate>Sun, 06 Mar 2016 15:52:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[When One App Rules Them All: The Case of WeChat and Mobile in China]]></title>
+            <description><![CDATA[<article><h1>When One App Rules Them All: The Case of WeChat and Mobile in China</h1><p>This post is all about WeChat, but it's also about more than just WeChat. While seemingly just a messaging app, WeChat is actually more of a portal, a platform, and even a mobile operating system depending on how you look at it.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/aa77245244c8c8be8b2d5178040171c9e2cd213a.jpg"></article>]]></description>
+            <link>http://a16z.com/2015/08/06/wechat-china-mobile-first/</link>
+            <guid isPermaLink="false">8e0d0c6d-ac71-489a-adf7-6d0c71d3b915</guid>
+            <pubDate>Sun, 06 Mar 2016 15:52:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Redefining work]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Tell Me Who You Are</h1><p>It isn't easy to see through the tangled mess of identity, although the search for it and the politics surrounding it is at the centre of so much of the modern world, from #BlackLivesMatter through to Edward Snowden.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5fce6c317c0e038e53c2f1a1469b0338712f0aa6.png"></article>]]></description>
             <link>https://thegrid.ai/the-human-web/tell-me-who-you-are/index.html</link>
             <guid isPermaLink="false">82231764-7b9f-4c5f-acbf-22464a373b95</guid>
-            <pubDate>Sun, 06 Mar 2016 15:52:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<article></article>]]></description>
-            <link>http://consc.net/papers/extended.html</link>
-            <guid isPermaLink="false">141e8824-48d7-43e9-b7b6-eab9e9c75346</guid>
             <pubDate>Sun, 06 Mar 2016 15:52:27 GMT</pubDate>
         </item>
     </channel>
