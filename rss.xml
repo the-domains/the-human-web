@@ -4,8 +4,22 @@
         <description><![CDATA[the-human-web]]></description>
         <link>https://thegrid.ai/the-human-web/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 06 Mar 2016 15:53:26 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Mar 2016 15:53:27 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-human-web/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[How Children Learn (Classics in Child Development)]]></title>
+            <description><![CDATA[<article><h1>How Children Learn (Classics in Child Development)</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/178c63d23834e9a09fcf270c81e9d7064577390d.jpg"></article>]]></description>
+            <link>http://www.amazon.com/Children-Learn-Classics-Child-Development/dp/0201484048</link>
+            <guid isPermaLink="false">b5e0b0d9-4448-4dea-8f04-b1a0e6e9105a</guid>
+            <pubDate>Sun, 06 Mar 2016 15:52:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is your phone part of your mind? | David Chalmers | TEDxSydney]]></title>
+            <description><![CDATA[<article><h1>Is your phone part of your mind? | David Chalmers | TEDxSydney</h1><p>David Chalmers is Distinguished Professor of Philosophy and Director of the Centre for Consciousness at the Australian National University. Chalmers is interested in the relationship between mind, brain and reality. He is best known for formulating the "hard problem" of consciousness and for his arguments against materialism.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4bc82d2d4056d2df128fd100e0158544e154504e.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=ksasPjrYFTg</link>
+            <guid isPermaLink="false">1516591a-de3e-4ad9-a949-eae90dccd69b</guid>
+            <pubDate>Sun, 06 Mar 2016 15:52:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Susan Blackmore: Memes and "temes"]]></title>
             <description><![CDATA[<article><h1>Susan Blackmore: Memes and "temes"</h1><p>http://www.ted.com Susan Blackmore studies memes: ideas that replicate themselves from brain to brain like a virus. She makes a bold new argument: Humanity has spawned a new kind of meme, the teme, which spreads itself via technology -- and invents ways to keep itself alive</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/eb515465bd4666c192dfdcfab504ba9e4dad2e9a.jpg"></article>]]></description>
@@ -61,20 +75,6 @@
             <link>http://aftershokz.com/</link>
             <guid isPermaLink="false">7c5f0a09-3639-455a-a86e-48f8973d7188</guid>
             <pubDate>Sun, 06 Mar 2016 15:52:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[BIOWATCH |]]></title>
-            <description><![CDATA[<article><h1>BIOWATCH |</h1><p>BIOWATCH has developed a highly secure form of wearable authentication that is invisible to users.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/005aa2c3259b79046d4f3f9669964b11326a6af9.jpg"></article>]]></description>
-            <link>http://biowatch.ch/</link>
-            <guid isPermaLink="false">d9c7ad68-7510-4d88-8ba3-3e851dc4e932</guid>
-            <pubDate>Sun, 06 Mar 2016 15:52:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[thehumanweb/notes]]></title>
-            <description><![CDATA[<article><h1>thehumanweb/notes</h1><p>We believe that a number of industry disrupting technologies are at our doorstep, exciting technologies that will allow us to connect in more effective and meaningful ways. We believe that with this comes an opportunity to rethink our technological path, to examine our way of life, and what it means to be a human in the 21st century.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c89b5137fbdb7e3e167414063823fa1a2b76d21d.jpg"></article>]]></description>
-            <link>https://github.com/thehumanweb/notes/wiki/InfoPackage</link>
-            <guid isPermaLink="false">d567b2fe-b470-460c-aa79-ec5b5ae63788</guid>
-            <pubDate>Sun, 06 Mar 2016 15:43:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
