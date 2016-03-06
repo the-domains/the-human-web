@@ -4,8 +4,15 @@
         <description><![CDATA[the-human-web]]></description>
         <link>https://thegrid.ai/the-human-web/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 06 Mar 2016 15:53:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Mar 2016 15:53:26 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-human-web/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Susan Blackmore: Memes and "temes"]]></title>
+            <description><![CDATA[<article><h1>Susan Blackmore: Memes and "temes"</h1><p>http://www.ted.com Susan Blackmore studies memes: ideas that replicate themselves from brain to brain like a virus. She makes a bold new argument: Humanity has spawned a new kind of meme, the teme, which spreads itself via technology -- and invents ways to keep itself alive</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/eb515465bd4666c192dfdcfab504ba9e4dad2e9a.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=fQ_9-Qx5Hz4</link>
+            <guid isPermaLink="false">176d21e6-9493-406b-a57d-9294985578dc</guid>
+            <pubDate>Sun, 06 Mar 2016 15:52:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Meme Machine (Popular Science)]]></title>
             <description><![CDATA[<article><h1>The Meme Machine (Popular Science)</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9f66958213e710cc684ca2c539c05257099ab281.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>thehumanweb/notes</h1><p>We believe that a number of industry disrupting technologies are at our doorstep, exciting technologies that will allow us to connect in more effective and meaningful ways. We believe that with this comes an opportunity to rethink our technological path, to examine our way of life, and what it means to be a human in the 21st century.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c89b5137fbdb7e3e167414063823fa1a2b76d21d.jpg"></article>]]></description>
             <link>https://github.com/thehumanweb/notes/wiki/InfoPackage</link>
             <guid isPermaLink="false">d567b2fe-b470-460c-aa79-ec5b5ae63788</guid>
-            <pubDate>Sun, 06 Mar 2016 15:43:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[thehumanweb/notes]]></title>
-            <description><![CDATA[<article><h1>thehumanweb/notes</h1><p>Contribute to notes development by creating an account on GitHub.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c89b5137fbdb7e3e167414063823fa1a2b76d21d.jpg"></article>]]></description>
-            <link>https://github.com/thehumanweb/notes</link>
-            <guid isPermaLink="false">8b4eaaf9-71ce-4d19-ad86-32c2c83c270e</guid>
             <pubDate>Sun, 06 Mar 2016 15:43:54 GMT</pubDate>
         </item>
     </channel>
