@@ -4,7 +4,7 @@
         <description><![CDATA[the-human-web]]></description>
         <link>https://thegrid.ai/the-human-web/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 06 Mar 2016 15:53:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Mar 2016 15:54:08 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-human-web/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Rise of the Supertemp]]></title>
@@ -12,6 +12,34 @@
             <link>https://hbr.org/2012/05/the-rise-of-the-supertemp</link>
             <guid isPermaLink="false">c8984f53-ae67-4c94-9c05-339f285ce074</guid>
             <pubDate>Sun, 06 Mar 2016 15:52:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rapture3D HRTF Demo]]></title>
+            <description><![CDATA[<article><h1>Rapture3D HRTF Demo</h1><p>Rapture3D is an OpenAL driver that can produce 3D headphone surround sound using HRTFs. It has several HRTF profiles to choose from. This video demonstrates the "Amber" and "Yellow" profiles. I've used a program called "EFX10Show" to move some sound sources around the listener.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/04d8ebffb629765da8d1e684d63eb5cd93bd5353.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=KKkI0W0_2Qg</link>
+            <guid isPermaLink="false">6b581c9f-d762-49ab-b339-af6f779f541c</guid>
+            <pubDate>Sun, 06 Mar 2016 15:52:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Liquid Democracy: True Democracy for the 21st Century]]></title>
+            <description><![CDATA[<article><h1>Liquid Democracy: True Democracy for the 21st Century</h1><p>Liquid Democracy, also called Delegative Democracy, is a powerful voting model for collective decision making in large communities. Liquid Democracy combines the advantages of Direct Democracy and Representative Democracy and creates a truly democratic voting system that empowers voters to either vote on issues directly, or to delegate ones voting power to a trusted party.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/db92e0056502dbec0541f4a0eb1f9932cda8a2c9.jpg"></article>]]></description>
+            <link>https://thegrid.ai/the-human-web/liquid-democracy-true-democracy-for-the-21st-century/index.html</link>
+            <guid isPermaLink="false">f31541d5-6023-425a-83fc-9dd1586e8366</guid>
+            <pubDate>Sun, 06 Mar 2016 15:52:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A message from George Orwell to everyone on the Internet]]></title>
+            <description><![CDATA[<article><h1>A message from George Orwell to everyone on the Internet</h1><p>George Orwell returns via the Juice Channeling Portal to deliver an important message to everyone on the Internets. Please share with fellow netizens. This is just a little something to tide us over until I'm ready to upload new content to the Juice Media! Till the next transmission, Giordano ☛ CREDITS: * Written by Giordano Nanni.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/89642c8564bcf7be28146353ffade0f48e3e50a5.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=c4EEa0HAqzQ</link>
+            <guid isPermaLink="false">c7188937-337f-45b5-a011-95fba293d33c</guid>
+            <pubDate>Sun, 06 Mar 2016 15:52:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Keynote: Decentralise Everything. Aral Barkan - London 2015]]></title>
+            <description><![CDATA[<article><h1>Keynote: Decentralise Everything. Aral Barkan - London 2015</h1><p>Get inspired by Aral Barkan and learn more about ind.ie and the Heartbeat project that aims to protect human rights and democracy in the digital age. I am indie. I love the Internet. I love modern technology. I love to share, to learn, to grow, to connect... I don't love being your product.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/14190c2d2d4caf2dbf156ecc0d08c3fab71e2f15.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=ctVOEeowc9U</link>
+            <guid isPermaLink="false">c9f3a54a-9bd6-4959-964a-5e85a10d31d8</guid>
+            <pubDate>Sun, 06 Mar 2016 15:52:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[draft-grothoff-iesg-special-use-p2p-names-01 - Special-Use Domain Names of Peer-to-Peer Systems]]></title>
@@ -46,34 +74,6 @@
             <description><![CDATA[<article><h1>Is your phone part of your mind? | David Chalmers | TEDxSydney</h1><p>David Chalmers is Distinguished Professor of Philosophy and Director of the Centre for Consciousness at the Australian National University. Chalmers is interested in the relationship between mind, brain and reality. He is best known for formulating the "hard problem" of consciousness and for his arguments against materialism.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4bc82d2d4056d2df128fd100e0158544e154504e.jpg"></article>]]></description>
             <link>https://www.youtube.com/watch?v=ksasPjrYFTg</link>
             <guid isPermaLink="false">1516591a-de3e-4ad9-a949-eae90dccd69b</guid>
-            <pubDate>Sun, 06 Mar 2016 15:52:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Susan Blackmore: Memes and "temes"]]></title>
-            <description><![CDATA[<article><h1>Susan Blackmore: Memes and "temes"</h1><p>http://www.ted.com Susan Blackmore studies memes: ideas that replicate themselves from brain to brain like a virus. She makes a bold new argument: Humanity has spawned a new kind of meme, the teme, which spreads itself via technology -- and invents ways to keep itself alive</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/eb515465bd4666c192dfdcfab504ba9e4dad2e9a.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=fQ_9-Qx5Hz4</link>
-            <guid isPermaLink="false">176d21e6-9493-406b-a57d-9294985578dc</guid>
-            <pubDate>Sun, 06 Mar 2016 15:52:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Meme Machine (Popular Science)]]></title>
-            <description><![CDATA[<article><h1>The Meme Machine (Popular Science)</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9f66958213e710cc684ca2c539c05257099ab281.jpg"></article>]]></description>
-            <link>http://www.amazon.com/Meme-Machine-Popular-Science-ebook/dp/B00814M2BW/</link>
-            <guid isPermaLink="false">aa80db15-6cf5-4f49-9e19-164c9b0c6bf9</guid>
-            <pubDate>Sun, 06 Mar 2016 15:52:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[NAM (Non-Audible Murmur) Microphone from the Nara Institute of Science and Technology : DigInfo]]></title>
-            <description><![CDATA[<article><h1>NAM (Non-Audible Murmur) Microphone from the Nara Institute of Science and Technology : DigInfo</h1><p>DigInfo - http://www.diginfo.tv Nara Institute of Science and Technology Body Attachment Type Microphone for Sensing Non-Audible Murmur (NAM) Related Links : - http://expo.nikkeibp.co.jp/innovation/english/index.html (Innovation JAPAN 2009)</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6b6e9731b6665582878179621d78e4ccf06e22fa.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=I5dVILReCHQ</link>
-            <guid isPermaLink="false">18f2597a-a01d-448e-bfaf-bda6c1687f24</guid>
-            <pubDate>Sun, 06 Mar 2016 15:52:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[NFC Passport Reader - Android Apps on Google Play]]></title>
-            <description><![CDATA[<article><h1>NFC Passport Reader - Android Apps on Google Play</h1><p>NFC Passport Reader reads and verifies embedded chips in electronic passports.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/85ef9dbb00a30914260663a2ecdba9df4c622626.jpg"></article>]]></description>
-            <link>https://play.google.com/store/apps/details?id=nl.innovalor.nfciddocshowcase&amp;hl=en</link>
-            <guid isPermaLink="false">7f163a02-ab93-4f40-a87a-63df8cf6481d</guid>
             <pubDate>Sun, 06 Mar 2016 15:52:26 GMT</pubDate>
         </item>
     </channel>
