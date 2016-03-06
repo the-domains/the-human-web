@@ -4,8 +4,15 @@
         <description><![CDATA[the-human-web]]></description>
         <link>https://thegrid.ai/the-human-web/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 06 Mar 2016 15:53:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Mar 2016 15:53:03 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-human-web/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[VR Interface Design Pre-Visualisation Methods]]></title>
+            <description><![CDATA[<article><h1>VR Interface Design Pre-Visualisation Methods</h1><p>Video References: http://aperturesciencellc.com/vr/references.pdf Corresponding Writeup: http://aperturesciencellc.com/vr/VisualDesignMethodsforVR_MikeAlger.pdf Previous Video: http://youtube.com/watch?v=n3b8hZ5NV2E Virtual reality provides new opportunities for user interactions with computer applications. The process of designing a comprehensive interaction paradigm will require a significant amount of consideration and development. My work outlines a few beginning design considerations related to zones for content, types of interaction, and interface design methods.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7e7227ff37abd02644676e427dc73a5fe0d5b3d8.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=id86HeV-Vb8</link>
+            <guid isPermaLink="false">bec5b4d0-40b6-477d-b95c-8ecc87742307</guid>
+            <pubDate>Sun, 06 Mar 2016 15:52:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Magic Mirror on the Wall, "Is Pi or ESP, Fairest of All?"]]></title>
             <description><![CDATA[<article><h1>Magic Mirror on the Wall, "Is Pi or ESP, Fairest of All?"</h1><p>"What's the weather like, honey?" "I don't know. Let me check the mirror." The mirror? Both [Dylan Pierce] and [Dani Eichorn] have mirror projects that display the weather. They took two different approaches which makes for an interesting comparison. [Dylan] uses a Rapsberry Pi with an actual monitor behind the mirror.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/78cc95f5b69b1e1464c55ea8f0a7d281269bf7b8.jpg"></article>]]></description>
