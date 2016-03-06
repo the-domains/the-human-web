@@ -4,7 +4,7 @@
         <description><![CDATA[the-human-web]]></description>
         <link>https://thegrid.ai/the-human-web/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 06 Mar 2016 15:55:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Mar 2016 16:33:35 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-human-web/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Rise of the Supertemp]]></title>
@@ -12,6 +12,27 @@
             <link>https://hbr.org/2012/05/the-rise-of-the-supertemp</link>
             <guid isPermaLink="false">c8984f53-ae67-4c94-9c05-339f285ce074</guid>
             <pubDate>Sun, 06 Mar 2016 15:52:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Contextual Runtimes]]></title>
+            <description><![CDATA[<article><h1>Contextual Runtimes</h1><p>Benedict Evans is such a great analyst and his insight into the web>mobile transition has been consistently prescient and helpful to investors, including USV and me personally. A couple days ago, he penned " 16 mobile thesis " which is a must read for anyone building a mobile/internet company or investing in that sector.</p></article>]]></description>
+            <link>http://avc.com/2015/12/contextual-runtimes/</link>
+            <guid isPermaLink="false">de7adc03-ed51-41a9-8f42-7cfdf312296e</guid>
+            <pubDate>Sun, 06 Mar 2016 16:33:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[DEVCON1: IPFS - Juan Batiz-Benet]]></title>
+            <description><![CDATA[<article><h1>DEVCON1: IPFS - Juan Batiz-Benet</h1><p>DEVCON1 2:30pm Day 1 A look into using IPFS with Juan Batiz-Benet to distribute datastructures for various Ethereum use cases, from off-chain data, to the chain itself. IPFS A look into using IPFS to distribute datastructures for various Ethereum use cases, from off-chain data, to the chain itself.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/46870492a906309c49b32c62f540cb9e5ec5e985.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=ewpIi1y_KDc</link>
+            <guid isPermaLink="false">96063364-7d64-4281-8799-450eb0c942ba</guid>
+            <pubDate>Sun, 06 Mar 2016 15:52:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Stanford Seminar - Juan Benet of Protocol Labs]]></title>
+            <description><![CDATA[<article><h1>Stanford Seminar - Juan Benet of Protocol Labs</h1><p>"IPFS and the Permanent Web"- Juan Benet of Protocol Labs Support for the Stanford Colloquium on Computer Systems Seminar Series provided by the Stanford Computer Forum. Speaker Abstract and Bio can be found here: http://ee380.stanford.edu/Abstracts/151021.html Colloquium on Computer Systems Seminar Series (EE380) presents the current research in design, implementation, analysis, and use of computer systems. Topics range from integrated circuits to operating systems and programming languages.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/24541a069752f9ec5406af2138bf94dba58d9312.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=HUVmypx9HGI</link>
+            <guid isPermaLink="false">dc1b529d-3abf-430b-82df-11e53c33ef5a</guid>
+            <pubDate>Sun, 06 Mar 2016 15:52:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tor onion services: more useful than you think]]></title>
@@ -54,27 +75,6 @@
             <link>http://www.antipope.org/charlie/blog-static/fiction/accelerando/accelerando-intro.html</link>
             <guid isPermaLink="false">3273ad20-b7d5-449d-b628-262753ea5f57</guid>
             <pubDate>Sun, 06 Mar 2016 15:52:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Outline of transhumanism]]></title>
-            <description><![CDATA[<article><h1>Outline of transhumanism</h1><p>Transhumanism is an international intellectual and cultural movement that affirms the possibility and desirability of fundamentally transforming the human condition by developing and making widely available technologies to eliminate aging and to greatly enhance human intellectual, physical, and psychological capacities.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dad98fe0d980621d5ea56190830d6e721b94c6a6.png"></article>]]></description>
-            <link>https://en.wikipedia.org/wiki/Outline_of_transhumanism</link>
-            <guid isPermaLink="false">1807cb35-d42b-4831-ab9f-126dcdeaa01b</guid>
-            <pubDate>Sun, 06 Mar 2016 15:52:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2045 Initiative]]></title>
-            <description><![CDATA[<article><h1>2045 Initiative</h1><p>Strategic Social Initiative</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a34ff3171f2b6d4dfc608216431039f0031dd6f7.jpg"></article>]]></description>
-            <link>http://2045.com/</link>
-            <guid isPermaLink="false">0bef6d7c-8dc5-4518-8ba7-e5a38872d441</guid>
-            <pubDate>Sun, 06 Mar 2016 15:52:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Mother of All Demos, presented by Douglas Engelbart (1968)]]></title>
-            <description><![CDATA[<article><h1>The Mother of All Demos, presented by Douglas Engelbart (1968)</h1><p>"The Mother of All Demos is a name given retrospectively to Douglas Engelbart's December 9, 1968, demonstration of experimental computer technologies that are now commonplace. The live demonstration featured the introduction of the computer mouse, video conferencing, teleconferencing, hypertext, word processing, hypermedia, object addressing and dynamic file linking, bootstrapping, and a collaborative real-time editor."</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5c9e55051d4b9a3bd247c8b097486b7de3a60d6e.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=yJDv-zdhzMY</link>
-            <guid isPermaLink="false">2b9d8051-8b3d-4b2c-97b6-653f2f360878</guid>
-            <pubDate>Sun, 06 Mar 2016 15:52:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
