@@ -4,7 +4,7 @@
         <description><![CDATA[the-human-web]]></description>
         <link>https://thegrid.ai/the-human-web/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 06 Mar 2016 15:54:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Mar 2016 15:53:58 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-human-web/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Rise of the Supertemp]]></title>
@@ -12,13 +12,6 @@
             <link>https://hbr.org/2012/05/the-rise-of-the-supertemp</link>
             <guid isPermaLink="false">c8984f53-ae67-4c94-9c05-339f285ce074</guid>
             <pubDate>Sun, 06 Mar 2016 15:52:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rapture3D HRTF Demo]]></title>
-            <description><![CDATA[<article><h1>Rapture3D HRTF Demo</h1><p>Rapture3D is an OpenAL driver that can produce 3D headphone surround sound using HRTFs. It has several HRTF profiles to choose from. This video demonstrates the "Amber" and "Yellow" profiles. I've used a program called "EFX10Show" to move some sound sources around the listener.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/04d8ebffb629765da8d1e684d63eb5cd93bd5353.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=KKkI0W0_2Qg</link>
-            <guid isPermaLink="false">6b581c9f-d762-49ab-b339-af6f779f541c</guid>
-            <pubDate>Sun, 06 Mar 2016 15:52:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Liquid Democracy: True Democracy for the 21st Century]]></title>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>Is your phone part of your mind? | David Chalmers | TEDxSydney</h1><p>David Chalmers is Distinguished Professor of Philosophy and Director of the Centre for Consciousness at the Australian National University. Chalmers is interested in the relationship between mind, brain and reality. He is best known for formulating the "hard problem" of consciousness and for his arguments against materialism.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4bc82d2d4056d2df128fd100e0158544e154504e.jpg"></article>]]></description>
             <link>https://www.youtube.com/watch?v=ksasPjrYFTg</link>
             <guid isPermaLink="false">1516591a-de3e-4ad9-a949-eae90dccd69b</guid>
+            <pubDate>Sun, 06 Mar 2016 15:52:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Susan Blackmore: Memes and "temes"]]></title>
+            <description><![CDATA[<article><h1>Susan Blackmore: Memes and "temes"</h1><p>http://www.ted.com Susan Blackmore studies memes: ideas that replicate themselves from brain to brain like a virus. She makes a bold new argument: Humanity has spawned a new kind of meme, the teme, which spreads itself via technology -- and invents ways to keep itself alive</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/eb515465bd4666c192dfdcfab504ba9e4dad2e9a.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=fQ_9-Qx5Hz4</link>
+            <guid isPermaLink="false">176d21e6-9493-406b-a57d-9294985578dc</guid>
             <pubDate>Sun, 06 Mar 2016 15:52:26 GMT</pubDate>
         </item>
     </channel>
