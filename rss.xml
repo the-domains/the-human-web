@@ -4,7 +4,7 @@
         <description><![CDATA[the-human-web]]></description>
         <link>https://thegrid.ai/the-human-web/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 06 Mar 2016 15:53:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Mar 2016 15:54:15 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-human-web/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Rise of the Supertemp]]></title>
@@ -12,6 +12,27 @@
             <link>https://hbr.org/2012/05/the-rise-of-the-supertemp</link>
             <guid isPermaLink="false">c8984f53-ae67-4c94-9c05-339f285ce074</guid>
             <pubDate>Sun, 06 Mar 2016 15:52:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Redefining work]]></title>
+            <description><![CDATA[<article><h1>Redefining work</h1><p>The most modern definition of work is "an exchange in which the participants benefit from the interaction". Interestingly, cooperation is also described as "an exchange in which the participants benefit from the interaction". The way we view work life is influenced by the way we view the world.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3bfebfa368de41a577380ab00fc7475109ecd212.jpg"></article>]]></description>
+            <link>https://thegrid.ai/the-human-web/redefining-work/index.html</link>
+            <guid isPermaLink="false">ce9e0292-0658-41e7-9986-970fca4ef286</guid>
+            <pubDate>Sun, 06 Mar 2016 15:52:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rethinking CS Education | Alan Kay, CrossRoads 2015]]></title>
+            <description><![CDATA[<article><h1>Rethinking CS Education | Alan Kay, CrossRoads 2015</h1><p>Alan Kay talks about alternative approaches to teach Computer Science in schools.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9ff34f34785ca643b99e04145bb1cb72d80725a7.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=N9c7_8Gp7gI</link>
+            <guid isPermaLink="false">47f01cae-b78c-4cbd-a71b-eb5b58bb3f1f</guid>
+            <pubDate>Sun, 06 Mar 2016 15:52:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rapture3D HRTF Demo]]></title>
+            <description><![CDATA[<article><h1>Rapture3D HRTF Demo</h1><p>Rapture3D is an OpenAL driver that can produce 3D headphone surround sound using HRTFs. It has several HRTF profiles to choose from. This video demonstrates the "Amber" and "Yellow" profiles. I've used a program called "EFX10Show" to move some sound sources around the listener.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/04d8ebffb629765da8d1e684d63eb5cd93bd5353.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=KKkI0W0_2Qg</link>
+            <guid isPermaLink="false">6b581c9f-d762-49ab-b339-af6f779f541c</guid>
+            <pubDate>Sun, 06 Mar 2016 15:52:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Liquid Democracy: True Democracy for the 21st Century]]></title>
@@ -54,27 +75,6 @@
             <link>http://consc.net/papers/extended.html</link>
             <guid isPermaLink="false">141e8824-48d7-43e9-b7b6-eab9e9c75346</guid>
             <pubDate>Sun, 06 Mar 2016 15:52:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How Children Learn (Classics in Child Development)]]></title>
-            <description><![CDATA[<article><h1>How Children Learn (Classics in Child Development)</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/178c63d23834e9a09fcf270c81e9d7064577390d.jpg"></article>]]></description>
-            <link>http://www.amazon.com/Children-Learn-Classics-Child-Development/dp/0201484048</link>
-            <guid isPermaLink="false">b5e0b0d9-4448-4dea-8f04-b1a0e6e9105a</guid>
-            <pubDate>Sun, 06 Mar 2016 15:52:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is your phone part of your mind? | David Chalmers | TEDxSydney]]></title>
-            <description><![CDATA[<article><h1>Is your phone part of your mind? | David Chalmers | TEDxSydney</h1><p>David Chalmers is Distinguished Professor of Philosophy and Director of the Centre for Consciousness at the Australian National University. Chalmers is interested in the relationship between mind, brain and reality. He is best known for formulating the "hard problem" of consciousness and for his arguments against materialism.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4bc82d2d4056d2df128fd100e0158544e154504e.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=ksasPjrYFTg</link>
-            <guid isPermaLink="false">1516591a-de3e-4ad9-a949-eae90dccd69b</guid>
-            <pubDate>Sun, 06 Mar 2016 15:52:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Susan Blackmore: Memes and "temes"]]></title>
-            <description><![CDATA[<article><h1>Susan Blackmore: Memes and "temes"</h1><p>http://www.ted.com Susan Blackmore studies memes: ideas that replicate themselves from brain to brain like a virus. She makes a bold new argument: Humanity has spawned a new kind of meme, the teme, which spreads itself via technology -- and invents ways to keep itself alive</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/eb515465bd4666c192dfdcfab504ba9e4dad2e9a.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=fQ_9-Qx5Hz4</link>
-            <guid isPermaLink="false">176d21e6-9493-406b-a57d-9294985578dc</guid>
-            <pubDate>Sun, 06 Mar 2016 15:52:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
