@@ -4,7 +4,7 @@
         <description><![CDATA[the-human-web]]></description>
         <link>https://thegrid.ai/the-human-web/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 06 Mar 2016 15:55:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Mar 2016 15:55:04 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-human-web/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Rise of the Supertemp]]></title>
@@ -12,6 +12,13 @@
             <link>https://hbr.org/2012/05/the-rise-of-the-supertemp</link>
             <guid isPermaLink="false">c8984f53-ae67-4c94-9c05-339f285ce074</guid>
             <pubDate>Sun, 06 Mar 2016 15:52:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Video Speed Controller]]></title>
+            <description><![CDATA[<article><h1>Video Speed Controller</h1><p>Speed up, slow down, advance and rewind any HTML5 video with quick shortcuts.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/66de9c915411e595f804733327001cb1b41698f7.jpg"></article>]]></description>
+            <link>https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk?hl=en</link>
+            <guid isPermaLink="false">34ca3cb9-cc45-4c01-9903-02c272e9cc62</guid>
+            <pubDate>Sun, 06 Mar 2016 15:52:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Mentat Wiki: Home Page]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Redefining work</h1><p>The most modern definition of work is "an exchange in which the participants benefit from the interaction". Interestingly, cooperation is also described as "an exchange in which the participants benefit from the interaction". The way we view work life is influenced by the way we view the world.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3bfebfa368de41a577380ab00fc7475109ecd212.jpg"></article>]]></description>
             <link>https://thegrid.ai/the-human-web/redefining-work/index.html</link>
             <guid isPermaLink="false">ce9e0292-0658-41e7-9986-970fca4ef286</guid>
-            <pubDate>Sun, 06 Mar 2016 15:52:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rethinking CS Education | Alan Kay, CrossRoads 2015]]></title>
-            <description><![CDATA[<article><h1>Rethinking CS Education | Alan Kay, CrossRoads 2015</h1><p>Alan Kay talks about alternative approaches to teach Computer Science in schools.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9ff34f34785ca643b99e04145bb1cb72d80725a7.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=N9c7_8Gp7gI</link>
-            <guid isPermaLink="false">47f01cae-b78c-4cbd-a71b-eb5b58bb3f1f</guid>
             <pubDate>Sun, 06 Mar 2016 15:52:28 GMT</pubDate>
         </item>
     </channel>
