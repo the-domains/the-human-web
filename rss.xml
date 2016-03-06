@@ -4,7 +4,7 @@
         <description><![CDATA[the-human-web]]></description>
         <link>https://thegrid.ai/the-human-web/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 06 Mar 2016 16:33:35 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Mar 2016 16:34:45 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-human-web/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Rise of the Supertemp]]></title>
@@ -12,6 +12,12 @@
             <link>https://hbr.org/2012/05/the-rise-of-the-supertemp</link>
             <guid isPermaLink="false">c8984f53-ae67-4c94-9c05-339f285ce074</guid>
             <pubDate>Sun, 06 Mar 2016 15:52:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://hal.inria.fr/inria-00555588/document</link>
+            <guid isPermaLink="false">3ecc4d30-c499-448e-9735-253783e0425a</guid>
+            <pubDate>Sun, 06 Mar 2016 16:33:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Contextual Runtimes]]></title>
@@ -67,13 +73,6 @@
             <description><![CDATA[<article><h1>Sprint Reader - Speed Reading Extension</h1><p>Speed reading made easy, train yourself to read 1800+ words per minute. Rapid serial visual presentation (RSVP) at its best!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c76639b5a281bfe7f9e9caa19f4dd687d693038d.jpg"></article>]]></description>
             <link>https://chrome.google.com/webstore/detail/sprint-reader-speed-readi/kejhpkmainjkpiablnfdppneidnkhdif?hl=en</link>
             <guid isPermaLink="false">f63f0775-c034-42d9-9848-f35f1d3cbcab</guid>
-            <pubDate>Sun, 06 Mar 2016 15:52:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Accelerando]]></title>
-            <description><![CDATA[<article><h1>Accelerando</h1><p>This free ebook edition is made available by kind consent of my publishers, Ace and Orbit, under a Creative Commons license with certain restrictions attached. In particular, you may not create derivative works or use the work for commercial gain.</p></article>]]></description>
-            <link>http://www.antipope.org/charlie/blog-static/fiction/accelerando/accelerando-intro.html</link>
-            <guid isPermaLink="false">3273ad20-b7d5-449d-b628-262753ea5f57</guid>
             <pubDate>Sun, 06 Mar 2016 15:52:30 GMT</pubDate>
         </item>
     </channel>
