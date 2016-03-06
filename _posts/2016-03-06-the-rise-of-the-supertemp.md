@@ -1,11 +1,10 @@
 ---
-author: []
-related: []
-publisher:
-  name: Harvard Business Review
-  domain: hbr.org
-  url: 'https://hbr.org'
-  favicon: 'https://hbr.org/resources/images/favicon.ico'
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://hbr.org/2012/05/the-rise-of-the-supertemp'
+inLanguage: en
+starred: false
 keywords:
   - talent
   - independent
@@ -18,19 +17,20 @@ keywords:
   - temporary
   - permanently
 description: "Ed Trevisani hangs with his young sons when they come home from school. He volunteers as a Boy Scout leader, serves on nonprofit boards, and teaches management at Philadelphia-area universities. He's even been known to sit on the back porch in the middle of the workday."
-inLanguage: en
+datePublished: '2016-03-06T16:49:38.929Z'
+dateModified: '2016-03-06T16:49:28.649Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'https://hbr.org/2012/05/the-rise-of-the-supertemp'
 title: The Rise of the Supertemp
-datePublished: '2016-03-06T16:47:43.234Z'
-dateModified: '2016-03-06T16:43:36.541Z'
-inFeed: true
-hasPage: false
-inNav: false
-starred: false
-authors: []
 sourcePath: _posts/2016-03-06-the-rise-of-the-supertemp.md
 published: true
+authors: []
+publisher:
+  name: Harvard Business Review
+  domain: hbr.org
+  url: 'https://hbr.org'
+  favicon: 'https://hbr.org/resources/images/favicon.ico'
 _context: 'http://schema.org'
 _type: MediaObject
 
