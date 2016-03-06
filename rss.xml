@@ -4,7 +4,7 @@
         <description><![CDATA[the-human-web]]></description>
         <link>https://thegrid.ai/the-human-web/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 06 Mar 2016 15:54:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Mar 2016 15:54:37 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-human-web/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Rise of the Supertemp]]></title>
@@ -12,6 +12,20 @@
             <link>https://hbr.org/2012/05/the-rise-of-the-supertemp</link>
             <guid isPermaLink="false">c8984f53-ae67-4c94-9c05-339f285ce074</guid>
             <pubDate>Sun, 06 Mar 2016 15:52:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bret Victor - The Humane Representation of Thought]]></title>
+            <description><![CDATA[<article><h1>Bret Victor - The Humane Representation of Thought</h1><p>Closing keynote at the UIST and SPLASH conferences, October 2014.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/abdb89dfc1239f6ff83081bfe41083dd554856e0.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=agOdP2Bmieg</link>
+            <guid isPermaLink="false">caa1c200-c8e1-4765-85bb-116efea79bb7</guid>
+            <pubDate>Sun, 06 Mar 2016 15:52:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[2016 will be the year of conversational commerce - Chris Messina]]></title>
+            <description><![CDATA[<article><h1>2016 will be the year of conversational commerce - Chris Messina</h1><p>Nearly a year ago today, I wrote a post inventorying the forebears to what I believe has become the dominant trend of consumer computing apps in 2016, a trend that I dubbed Conversational Commerce and have tracked with the hashtag #ConvComm.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d9aede278846405d109c9b5694b0abcea76e181a.jpg"></article>]]></description>
+            <link>https://thegrid.ai/the-human-web/2016-will-be-the-year-of-conversational-commerce-chris-mes/index.html</link>
+            <guid isPermaLink="false">1ed021fa-4971-4d74-ab9a-155ff995052f</guid>
+            <pubDate>Sun, 06 Mar 2016 15:52:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[LukeW | Exploring the Just-in-Time Social Web]]></title>
@@ -61,20 +75,6 @@
             <link>https://www.youtube.com/watch?v=c4EEa0HAqzQ</link>
             <guid isPermaLink="false">c7188937-337f-45b5-a011-95fba293d33c</guid>
             <pubDate>Sun, 06 Mar 2016 15:52:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Keynote: Decentralise Everything. Aral Barkan - London 2015]]></title>
-            <description><![CDATA[<article><h1>Keynote: Decentralise Everything. Aral Barkan - London 2015</h1><p>Get inspired by Aral Barkan and learn more about ind.ie and the Heartbeat project that aims to protect human rights and democracy in the digital age. I am indie. I love the Internet. I love modern technology. I love to share, to learn, to grow, to connect... I don't love being your product.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/14190c2d2d4caf2dbf156ecc0d08c3fab71e2f15.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=ctVOEeowc9U</link>
-            <guid isPermaLink="false">c9f3a54a-9bd6-4959-964a-5e85a10d31d8</guid>
-            <pubDate>Sun, 06 Mar 2016 15:52:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[draft-grothoff-iesg-special-use-p2p-names-01 - Special-Use Domain Names of Peer-to-Peer Systems]]></title>
-            <description><![CDATA[<article><h1>draft-grothoff-iesg-special-use-p2p-names-01 - Special-Use Domain Names of Peer-to-Peer Systems</h1><p>Internet Engineering Task Force C. Grothoff Internet-Draft M. Wachs Intended status: Informational TU Munich Expires: June 8, 2014 H. Wolf, Ed. GNU consensus J. Appelbaum Tor Project Inc. December 05, 2013 Special-Use Domain Names of Peer-to-Peer Systems draft-grothoff-iesg-special-use-p2p-names-01 Abstract This document describes common Special-Use Domain Names pseudo Top- Level Domain names designed to help harden name resolution security, provide censorship resistance, and protect the users' privacy on the Internet.</p></article>]]></description>
-            <link>http://tools.ietf.org/search/draft-grothoff-iesg-special-use-p2p-names-01</link>
-            <guid isPermaLink="false">88acd6f2-3b62-4c99-8f59-4897f8d84563</guid>
-            <pubDate>Sun, 06 Mar 2016 15:52:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
