@@ -4,7 +4,7 @@
         <description><![CDATA[thehumanweb]]></description>
         <link>https://thegrid.ai/the-human-web/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 06 Mar 2016 18:00:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Mar 2016 18:00:34 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-human-web/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[thehumanweb/notes]]></title>
@@ -12,6 +12,13 @@
             <link>https://github.com/thehumanweb/notes/wiki/InfoPackage</link>
             <guid isPermaLink="false">d567b2fe-b470-460c-aa79-ec5b5ae63788</guid>
             <pubDate>Sun, 06 Mar 2016 16:40:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Oraclize, the provably-honest oracle service]]></title>
+            <description><![CDATA[<article><h1>Oraclize, the provably-honest oracle service</h1><p>This talk at an Ethereum meetup in London on 2nd March 2016 features long time blockchain expert Thomas Bertani, founder and CEO of Oraclize. Thomas started his career with important contributions in the fields of high performance computing. Today he works mainly on Bitcoin and Ethereum as an entrepreneur and consultant.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2028d33c803d9b5cb84b4530da97fc9cc8891abd.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=VZiJBKltUIY</link>
+            <guid isPermaLink="false">8b47637a-0c61-44f0-a55e-b230010c29d8</guid>
+            <pubDate>Sun, 06 Mar 2016 18:00:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
