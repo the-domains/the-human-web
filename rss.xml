@@ -4,7 +4,7 @@
         <description><![CDATA[the-human-web]]></description>
         <link>https://thegrid.ai/the-human-web/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 06 Mar 2016 15:54:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Mar 2016 15:54:45 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-human-web/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Rise of the Supertemp]]></title>
@@ -12,6 +12,20 @@
             <link>https://hbr.org/2012/05/the-rise-of-the-supertemp</link>
             <guid isPermaLink="false">c8984f53-ae67-4c94-9c05-339f285ce074</guid>
             <pubDate>Sun, 06 Mar 2016 15:52:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bret Victor - The Future of Programming]]></title>
+            <description><![CDATA[<article><h1>Bret Victor - The Future of Programming</h1><p>Much of the overall message and style of the talk was inspired by Alan Kay. For more talks with a similar message, I highly recommend: Alan Kay -- Programming and Scaling http://www.tele-task.de/archive/lecture/overview/5819/ Gerry Sussman -- We Really Don't Know How To Compute!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7c5871d83ad4a3f7baac944f0bf20d3ed78b7a44.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=IGMiCo2Ntsc</link>
+            <guid isPermaLink="false">bf1dddeb-347b-42df-87b5-f085f0de15ea</guid>
+            <pubDate>Sun, 06 Mar 2016 15:52:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bret Victor - The Humane Representation of Thought]]></title>
+            <description><![CDATA[<article><h1>Bret Victor - The Humane Representation of Thought</h1><p>Closing keynote at the UIST and SPLASH conferences, October 2014.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/abdb89dfc1239f6ff83081bfe41083dd554856e0.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=agOdP2Bmieg</link>
+            <guid isPermaLink="false">caa1c200-c8e1-4765-85bb-116efea79bb7</guid>
+            <pubDate>Sun, 06 Mar 2016 15:52:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[2016 will be the year of conversational commerce - Chris Messina]]></title>
@@ -60,20 +74,6 @@
             <description><![CDATA[<article><h1>Liquid Democracy: True Democracy for the 21st Century</h1><p>Liquid Democracy, also called Delegative Democracy, is a powerful voting model for collective decision making in large communities. Liquid Democracy combines the advantages of Direct Democracy and Representative Democracy and creates a truly democratic voting system that empowers voters to either vote on issues directly, or to delegate ones voting power to a trusted party.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/db92e0056502dbec0541f4a0eb1f9932cda8a2c9.jpg"></article>]]></description>
             <link>https://thegrid.ai/the-human-web/liquid-democracy-true-democracy-for-the-21st-century/index.html</link>
             <guid isPermaLink="false">f31541d5-6023-425a-83fc-9dd1586e8366</guid>
-            <pubDate>Sun, 06 Mar 2016 15:52:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A message from George Orwell to everyone on the Internet]]></title>
-            <description><![CDATA[<article><h1>A message from George Orwell to everyone on the Internet</h1><p>George Orwell returns via the Juice Channeling Portal to deliver an important message to everyone on the Internets. Please share with fellow netizens. This is just a little something to tide us over until I'm ready to upload new content to the Juice Media! Till the next transmission, Giordano ☛ CREDITS: * Written by Giordano Nanni.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/89642c8564bcf7be28146353ffade0f48e3e50a5.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=c4EEa0HAqzQ</link>
-            <guid isPermaLink="false">c7188937-337f-45b5-a011-95fba293d33c</guid>
-            <pubDate>Sun, 06 Mar 2016 15:52:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Keynote: Decentralise Everything. Aral Barkan - London 2015]]></title>
-            <description><![CDATA[<article><h1>Keynote: Decentralise Everything. Aral Barkan - London 2015</h1><p>Get inspired by Aral Barkan and learn more about ind.ie and the Heartbeat project that aims to protect human rights and democracy in the digital age. I am indie. I love the Internet. I love modern technology. I love to share, to learn, to grow, to connect... I don't love being your product.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/14190c2d2d4caf2dbf156ecc0d08c3fab71e2f15.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=ctVOEeowc9U</link>
-            <guid isPermaLink="false">c9f3a54a-9bd6-4959-964a-5e85a10d31d8</guid>
             <pubDate>Sun, 06 Mar 2016 15:52:28 GMT</pubDate>
         </item>
     </channel>
