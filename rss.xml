@@ -4,7 +4,7 @@
         <description><![CDATA[thehumanweb]]></description>
         <link>https://thegrid.ai/the-human-web/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 06 Mar 2016 16:57:38 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Mar 2016 17:55:40 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-human-web/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[thehumanweb/notes]]></title>
@@ -12,6 +12,13 @@
             <link>https://github.com/thehumanweb/notes/wiki/InfoPackage</link>
             <guid isPermaLink="false">d567b2fe-b470-460c-aa79-ec5b5ae63788</guid>
             <pubDate>Sun, 06 Mar 2016 16:40:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>https://www.youtube.com/watch?v=VZiJBKltUIY</p>]]></description>
+            <link>https://thegrid.ai/the-human-web/httpswwwyoutubecomwatchvvzijbkltuiy/index.html</link>
+            <guid isPermaLink="false">aeac3f1c-f218-45c6-9bd8-eedfcddb40c8</guid>
+            <pubDate>Sun, 06 Mar 2016 17:54:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Augmenting Human Intellect: A Conceptual Framework - 1962 (AUGMENT,3906,) - Doug Engelbart Institute]]></title>
