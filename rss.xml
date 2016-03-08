@@ -4,7 +4,7 @@
         <description><![CDATA[thehumanweb]]></description>
         <link>https://thegrid.ai/the-human-web/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 07 Mar 2016 19:58:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2016 09:06:07 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-human-web/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[thehumanweb/notes]]></title>
@@ -12,6 +12,13 @@
             <link>https://github.com/thehumanweb/notes/wiki/InfoPackage</link>
             <guid isPermaLink="false">d567b2fe-b470-460c-aa79-ec5b5ae63788</guid>
             <pubDate>Sun, 06 Mar 2016 16:40:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ethereum Project]]></title>
+            <description><![CDATA[<article><h1>Ethereum Project</h1><p>Ethereum is a decentralized platform that runs smart contracts: applications that run exactly as programmed without any possibility of downtime, censorship, fraud or third party interference. These apps run on a custom built blockchain, an enormously powerful shared global infrastructure that can move value around and represent the ownership of property.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2563b5a1a55b4847444dc626ef49eb4e27132350.jpg"></article>]]></description>
+            <link>https://ethereum.org/</link>
+            <guid isPermaLink="false">58a5a020-b40f-4ba0-9a4c-8575170906b9</guid>
+            <pubDate>Tue, 08 Mar 2016 09:05:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Is group chat making you sweat? - Signal v. Noise]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Tor onion services: more useful than you think</h1><p>We'll update you on what's going on with Tor onion services, aka Tor hidden services.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef9e3eb5a688dc4dd89a81009357c951882bdd6c.jpg"></article>]]></description>
             <link>https://media.ccc.de/v/32c3-7322-tor_onion_services_more_useful_than_you_think#video</link>
             <guid isPermaLink="false">0e07700a-4399-42b9-aa78-ddb1edc2714f</guid>
-            <pubDate>Sun, 06 Mar 2016 15:52:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Conflict-free replicated data type]]></title>
-            <description><![CDATA[<article><h1>Conflict-free replicated data type</h1><p>In distributed computing, a conflict-free replicated data type (abbreviated CRDT) is a type of specially-designed data structure used to achieve strong eventual consistency (SEC) and monotonicity (absence of rollbacks). There are two alternative routes to ensuring SEC: operation-based CRDTs and state-based CRDTs.</p></article>]]></description>
-            <link>https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type</link>
-            <guid isPermaLink="false">a2e6cc44-d99c-4ffb-908a-134538ea71cb</guid>
             <pubDate>Sun, 06 Mar 2016 15:52:30 GMT</pubDate>
         </item>
     </channel>
