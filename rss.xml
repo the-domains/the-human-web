@@ -4,7 +4,7 @@
         <description><![CDATA[thehumanweb]]></description>
         <link>https://thegrid.ai/the-human-web/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 08 Mar 2016 09:06:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2016 10:33:11 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-human-web/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[thehumanweb/notes]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Sun, 06 Mar 2016 16:40:54 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Aral Balkan]]></title>
+            <description><![CDATA[<article><h1>Aral Balkan</h1><p>This is the original English version of an op-ed I wrote for Zeit Online. It is the first in a new series to take a critical look at technology as part of their 20th-year celebrations. This piece is based on a talk I gave at Bucerius Lab in Hamburg last month titled Digital Emancipation: Ownership of the Self in the Digital Age.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9ff9d0818ed7480d13bd1e424c9e2e0ea92c8c88.png"></article>]]></description>
+            <link>https://ar.al/notes/the-nature-of-the-self-in-the-digital-age/</link>
+            <guid isPermaLink="false">a87450fe-6a7e-42c2-b97f-d362595a15a4</guid>
+            <pubDate>Tue, 08 Mar 2016 10:32:15 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Ethereum Project]]></title>
-            <description><![CDATA[<article><h1>Ethereum Project</h1><p>Ethereum is a decentralized platform that runs smart contracts: applications that run exactly as programmed without any possibility of downtime, censorship, fraud or third party interference. These apps run on a custom built blockchain, an enormously powerful shared global infrastructure that can move value around and represent the ownership of property.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2563b5a1a55b4847444dc626ef49eb4e27132350.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Ethereum Project</h1><p>Ethereum is a decentralized platform that runs smart contracts: applications that run exactly as programmed without any possibility of downtime, censorship, fraud or third party interference. These apps run on a custom built blockchain, an enormously powerful shared global infrastructure that can move value around and represent the ownership of property.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ea055a22900a5ecc69a8a75c3c52547845c911a7.jpg"></article>]]></description>
             <link>https://ethereum.org/</link>
             <guid isPermaLink="false">58a5a020-b40f-4ba0-9a4c-8575170906b9</guid>
             <pubDate>Tue, 08 Mar 2016 09:05:09 GMT</pubDate>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Stanford Seminar - Juan Benet of Protocol Labs</h1><p>"IPFS and the Permanent Web"- Juan Benet of Protocol Labs Support for the Stanford Colloquium on Computer Systems Seminar Series provided by the Stanford Computer Forum. Speaker Abstract and Bio can be found here: http://ee380.stanford.edu/Abstracts/151021.html Colloquium on Computer Systems Seminar Series (EE380) presents the current research in design, implementation, analysis, and use of computer systems. Topics range from integrated circuits to operating systems and programming languages.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/24541a069752f9ec5406af2138bf94dba58d9312.jpg"></article>]]></description>
             <link>https://www.youtube.com/watch?v=HUVmypx9HGI</link>
             <guid isPermaLink="false">dc1b529d-3abf-430b-82df-11e53c33ef5a</guid>
-            <pubDate>Sun, 06 Mar 2016 15:52:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tor onion services: more useful than you think]]></title>
-            <description><![CDATA[<article><h1>Tor onion services: more useful than you think</h1><p>We'll update you on what's going on with Tor onion services, aka Tor hidden services.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef9e3eb5a688dc4dd89a81009357c951882bdd6c.jpg"></article>]]></description>
-            <link>https://media.ccc.de/v/32c3-7322-tor_onion_services_more_useful_than_you_think#video</link>
-            <guid isPermaLink="false">0e07700a-4399-42b9-aa78-ddb1edc2714f</guid>
             <pubDate>Sun, 06 Mar 2016 15:52:30 GMT</pubDate>
         </item>
     </channel>
