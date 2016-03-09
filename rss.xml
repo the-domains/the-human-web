@@ -4,7 +4,7 @@
         <description><![CDATA[thehumanweb]]></description>
         <link>https://thegrid.ai/the-human-web/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Mar 2016 17:58:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Mar 2016 17:59:22 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-human-web/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[thehumanweb/notes]]></title>
@@ -12,6 +12,13 @@
             <link>https://github.com/thehumanweb/notes/wiki/InfoPackage</link>
             <guid isPermaLink="false">d567b2fe-b470-460c-aa79-ec5b5ae63788</guid>
             <pubDate>Sun, 06 Mar 2016 16:40:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Ultimate Guide to Estonian E-residency, Banking and Taxes - Nomad Gate]]></title>
+            <description><![CDATA[<article><h1>The Ultimate Guide to Estonian E-residency, Banking and Taxes - Nomad Gate</h1><p>The internet seems to have been buzzing a lot about Estonia in the last year, and a lot of it is due to the innovative new e-residency program that was launched in a limited form in December 2014, and has been rolling out additions and improvements ever since.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d62e9e796d1b3e9d5aa4e2fffbd8074858dd8fcf.png"></article>]]></description>
+            <link>https://thegrid.ai/the-human-web/the-ultimate-guide-to-estonian-e-residency-banking-and-taxe/index.html</link>
+            <guid isPermaLink="false">3dacf2a4-b37a-4f5c-a5bb-6bfd660ed750</guid>
+            <pubDate>Wed, 09 Mar 2016 17:57:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Possibility of a Better Internet: Tor, Smart Contracts, and MicroPayments]]></title>
@@ -68,13 +75,6 @@
             <link>http://avc.com/2015/12/contextual-runtimes/</link>
             <guid isPermaLink="false">de7adc03-ed51-41a9-8f42-7cfdf312296e</guid>
             <pubDate>Sun, 06 Mar 2016 16:33:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[DEVCON1: IPFS - Juan Batiz-Benet]]></title>
-            <description><![CDATA[<article><h1>DEVCON1: IPFS - Juan Batiz-Benet</h1><p>DEVCON1 2:30pm Day 1 A look into using IPFS with Juan Batiz-Benet to distribute datastructures for various Ethereum use cases, from off-chain data, to the chain itself. IPFS A look into using IPFS to distribute datastructures for various Ethereum use cases, from off-chain data, to the chain itself.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/46870492a906309c49b32c62f540cb9e5ec5e985.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=ewpIi1y_KDc</link>
-            <guid isPermaLink="false">96063364-7d64-4281-8799-450eb0c942ba</guid>
-            <pubDate>Sun, 06 Mar 2016 15:52:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
