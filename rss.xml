@@ -4,7 +4,7 @@
         <description><![CDATA[thehumanweb]]></description>
         <link>https://thegrid.ai/the-human-web/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Mar 2016 11:49:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Mar 2016 17:58:33 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-human-web/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[thehumanweb/notes]]></title>
@@ -12,6 +12,13 @@
             <link>https://github.com/thehumanweb/notes/wiki/InfoPackage</link>
             <guid isPermaLink="false">d567b2fe-b470-460c-aa79-ec5b5ae63788</guid>
             <pubDate>Sun, 06 Mar 2016 16:40:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Possibility of a Better Internet: Tor, Smart Contracts, and MicroPayments]]></title>
+            <description><![CDATA[<article><h1>The Possibility of a Better Internet: Tor, Smart Contracts, and MicroPayments</h1><p>The Possibility of a Better Internet: Tor, Smart Contracts, and MicroPayments I'm a user of Tor, the privacy protection software that slows the seemingly endless forces of internet data collection. This past week, Motherboard revealed that Carnegie Mellon University worked with federal agents to attack the privacy protections of the Tor network.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ca22f2b699264d9d25d618393a5553e786be3cdb.jpg"></article>]]></description>
+            <link>https://thegrid.ai/the-human-web/the-possibility-of-a-better-internet-tor-smart-contracts/index.html</link>
+            <guid isPermaLink="false">c9f6aa03-8bfa-4d00-82cc-4c38e30b458e</guid>
+            <pubDate>Wed, 09 Mar 2016 17:57:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Starter guide: (almost) all the links you'll need to start understanding ethereum. * /r/ethereum]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>DEVCON1: IPFS - Juan Batiz-Benet</h1><p>DEVCON1 2:30pm Day 1 A look into using IPFS with Juan Batiz-Benet to distribute datastructures for various Ethereum use cases, from off-chain data, to the chain itself. IPFS A look into using IPFS to distribute datastructures for various Ethereum use cases, from off-chain data, to the chain itself.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/46870492a906309c49b32c62f540cb9e5ec5e985.jpg"></article>]]></description>
             <link>https://www.youtube.com/watch?v=ewpIi1y_KDc</link>
             <guid isPermaLink="false">96063364-7d64-4281-8799-450eb0c942ba</guid>
-            <pubDate>Sun, 06 Mar 2016 15:52:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Stanford Seminar - Juan Benet of Protocol Labs]]></title>
-            <description><![CDATA[<article><h1>Stanford Seminar - Juan Benet of Protocol Labs</h1><p>"IPFS and the Permanent Web"- Juan Benet of Protocol Labs Support for the Stanford Colloquium on Computer Systems Seminar Series provided by the Stanford Computer Forum. Speaker Abstract and Bio can be found here: http://ee380.stanford.edu/Abstracts/151021.html Colloquium on Computer Systems Seminar Series (EE380) presents the current research in design, implementation, analysis, and use of computer systems. Topics range from integrated circuits to operating systems and programming languages.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/24541a069752f9ec5406af2138bf94dba58d9312.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=HUVmypx9HGI</link>
-            <guid isPermaLink="false">dc1b529d-3abf-430b-82df-11e53c33ef5a</guid>
             <pubDate>Sun, 06 Mar 2016 15:52:30 GMT</pubDate>
         </item>
     </channel>
