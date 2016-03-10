@@ -4,7 +4,7 @@
         <description><![CDATA[thehumanweb]]></description>
         <link>https://thegrid.ai/the-human-web/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 10 Mar 2016 17:06:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2016 18:49:48 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-human-web/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[thehumanweb/notes]]></title>
@@ -12,6 +12,20 @@
             <link>https://github.com/thehumanweb/notes/wiki/InfoPackage</link>
             <guid isPermaLink="false">d567b2fe-b470-460c-aa79-ec5b5ae63788</guid>
             <pubDate>Sun, 06 Mar 2016 16:40:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Thinking Through Law and Code, Again - Lawrence Lessig - COALA's Blockchain Workshops - Sydney 2015]]></title>
+            <description><![CDATA[<article><h1>Thinking Through Law and Code, Again - Lawrence Lessig - COALA's Blockchain Workshops - Sydney 2015</h1><p>This talk took place at the Sydney 2015 Blockchain Workshops organised by COALA http://coala.global/ http://sydney.blockchainworkshops.org/</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0ea7ec6f2a70ae0dae253e16c612ed6ae96cf6d0.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=pcYJTIbhYF0</link>
+            <guid isPermaLink="false">0e7c1dfc-c08d-4b74-995c-1300d10170fa</guid>
+            <pubDate>Thu, 10 Mar 2016 18:47:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Headphones use ear canals to carry out ID checks - BBC News]]></title>
+            <description><![CDATA[<article><h1>Headphones use ear canals to carry out ID checks - BBC News</h1><p>NEC has announced that it is developing earbuds that can confirm an owner's identity. The Japanese firm says the technology works by playing a sound and then checking how it resonates in the wearer's ear canal. This provides a biometric check that serves as an alternative to a fingerprint sensor or eye scanner.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/09fa45cc773eceb96210e7f91ad8bc55d66e4c71.jpg"></article>]]></description>
+            <link>http://www.bbc.co.uk/news/technology-35766069</link>
+            <guid isPermaLink="false">120f7fd0-4114-41c8-8d84-716397f56ab8</guid>
+            <pubDate>Thu, 10 Mar 2016 17:06:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Understanding Serenity, Part I: Abstraction - Ethereum Blog]]></title>
@@ -61,20 +75,6 @@
             <link>https://m.signalvnoise.com/is-group-chat-making-you-sweat-744659addf7d#.wa86vy7cr</link>
             <guid isPermaLink="false">a3f692ac-eb02-4d65-b953-46c5568ce444</guid>
             <pubDate>Mon, 07 Mar 2016 19:57:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Oraclize, the provably-honest oracle service]]></title>
-            <description><![CDATA[<article><h1>Oraclize, the provably-honest oracle service</h1><p>This talk at an Ethereum meetup in London on 2nd March 2016 features long time blockchain expert Thomas Bertani, founder and CEO of Oraclize. Thomas started his career with important contributions in the fields of high performance computing. Today he works mainly on Bitcoin and Ethereum as an entrepreneur and consultant.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2028d33c803d9b5cb84b4530da97fc9cc8891abd.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=VZiJBKltUIY</link>
-            <guid isPermaLink="false">8b47637a-0c61-44f0-a55e-b230010c29d8</guid>
-            <pubDate>Sun, 06 Mar 2016 18:00:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Augmenting Human Intellect: A Conceptual Framework - 1962 (AUGMENT,3906,) - Doug Engelbart Institute]]></title>
-            <description><![CDATA[<article><h1>Augmenting Human Intellect: A Conceptual Framework - 1962 (AUGMENT,3906,) - Doug Engelbart Institute</h1><p>The style of Section III seems to make for easier reading. If Section II begins to seem unrewardingly difficult, the reader may find it helpful to skip from Section II-B directly to Section III. If it serves its purpose well enough, Section III will provide a context within which the reader can go back and finish Section II with less effort.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/34290f04e983355224cd1b0687d3af77608f237c.gif"></article>]]></description>
-            <link>http://www.dougengelbart.org/pubs/augment-3906.html</link>
-            <guid isPermaLink="false">ebcbb852-6ecb-48a6-b3f9-fb02b9773d1f</guid>
-            <pubDate>Sun, 06 Mar 2016 16:33:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
