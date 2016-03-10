@@ -4,7 +4,7 @@
         <description><![CDATA[thehumanweb]]></description>
         <link>https://thegrid.ai/the-human-web/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Mar 2016 17:59:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2016 17:06:34 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-human-web/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[thehumanweb/notes]]></title>
@@ -12,6 +12,20 @@
             <link>https://github.com/thehumanweb/notes/wiki/InfoPackage</link>
             <guid isPermaLink="false">d567b2fe-b470-460c-aa79-ec5b5ae63788</guid>
             <pubDate>Sun, 06 Mar 2016 16:40:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Headphones use ear canals to carry out ID checks - BBC News]]></title>
+            <description><![CDATA[<article><h1>Headphones use ear canals to carry out ID checks - BBC News</h1><p>NEC has announced that it is developing earbuds that can confirm an owner's identity. The Japanese firm says the technology works by playing a sound and then checking how it resonates in the wearer's ear canal. This provides a biometric check that serves as an alternative to a fingerprint sensor or eye scanner.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/09fa45cc773eceb96210e7f91ad8bc55d66e4c71.jpg"></article>]]></description>
+            <link>http://www.bbc.co.uk/news/technology-35766069</link>
+            <guid isPermaLink="false">120f7fd0-4114-41c8-8d84-716397f56ab8</guid>
+            <pubDate>Thu, 10 Mar 2016 17:06:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Understanding Serenity, Part I: Abstraction - Ethereum Blog]]></title>
+            <description><![CDATA[<article><h1>Understanding Serenity, Part I: Abstraction - Ethereum Blog</h1><p>Special thanks to Gavin Wood for prompting my interest into abstraction improvements, and Martin Becze, Vlad Zamfir and Dominic Williams for ongoing discussions. For a long time we have been public about our plans to continue improving the Ethereum protocol over time and our long development roadmap, learning from our mistakes that we either did ...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ab25511acc1b28e2913ec9da1bfdf68b6b5cfa20.jpg"></article>]]></description>
+            <link>https://blog.ethereum.org/2015/12/24/understanding-serenity-part-i-abstraction/</link>
+            <guid isPermaLink="false">e7d1b1ea-1578-4c5c-9ce6-89b70f2c0462</guid>
+            <pubDate>Thu, 10 Mar 2016 17:06:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Ultimate Guide to Estonian E-residency, Banking and Taxes - Nomad Gate]]></title>
@@ -61,20 +75,6 @@
             <link>https://www.youtube.com/watch?v=VZiJBKltUIY</link>
             <guid isPermaLink="false">8b47637a-0c61-44f0-a55e-b230010c29d8</guid>
             <pubDate>Sun, 06 Mar 2016 18:00:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Augmenting Human Intellect: A Conceptual Framework - 1962 (AUGMENT,3906,) - Doug Engelbart Institute]]></title>
-            <description><![CDATA[<article><h1>Augmenting Human Intellect: A Conceptual Framework - 1962 (AUGMENT,3906,) - Doug Engelbart Institute</h1><p>The style of Section III seems to make for easier reading. If Section II begins to seem unrewardingly difficult, the reader may find it helpful to skip from Section II-B directly to Section III. If it serves its purpose well enough, Section III will provide a context within which the reader can go back and finish Section II with less effort.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/34290f04e983355224cd1b0687d3af77608f237c.gif"></article>]]></description>
-            <link>http://www.dougengelbart.org/pubs/augment-3906.html</link>
-            <guid isPermaLink="false">ebcbb852-6ecb-48a6-b3f9-fb02b9773d1f</guid>
-            <pubDate>Sun, 06 Mar 2016 16:33:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Contextual Runtimes]]></title>
-            <description><![CDATA[<article><h1>Contextual Runtimes</h1><p>Benedict Evans is such a great analyst and his insight into the web>mobile transition has been consistently prescient and helpful to investors, including USV and me personally. A couple days ago, he penned " 16 mobile thesis " which is a must read for anyone building a mobile/internet company or investing in that sector.</p></article>]]></description>
-            <link>http://avc.com/2015/12/contextual-runtimes/</link>
-            <guid isPermaLink="false">de7adc03-ed51-41a9-8f42-7cfdf312296e</guid>
-            <pubDate>Sun, 06 Mar 2016 16:33:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
