@@ -4,7 +4,7 @@
         <description><![CDATA[thehumanweb]]></description>
         <link>https://thegrid.ai/the-human-web/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 13 Mar 2016 19:00:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Mar 2016 19:41:37 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-human-web/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[thehumanweb/notes]]></title>
@@ -12,6 +12,13 @@
             <link>https://github.com/thehumanweb/notes/wiki/InfoPackage</link>
             <guid isPermaLink="false">d567b2fe-b470-460c-aa79-ec5b5ae63788</guid>
             <pubDate>Sun, 06 Mar 2016 16:40:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cicadian]]></title>
+            <description><![CDATA[<article><h1>Cicadian</h1><p>Cicada 3301 left a series of clues in major cities around the world, and referenced books harkening back to ancient occult mystery schools and connecting it to modern day technologies and existentialism. While these obscure references and clues seem disconnected at first glance, they are anything but.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d2356a389497a6b2bd541f489ad497c139d1b24d.png"></article>]]></description>
+            <link>http://cicada3301.org/</link>
+            <guid isPermaLink="false">7d184d0b-2e6e-4b33-ad47-1c45424b3d4c</guid>
+            <pubDate>Sun, 13 Mar 2016 19:40:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Resetting the score]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/the-human-web/the-possibility-of-a-better-internet-tor-smart-contracts/index.html</link>
             <guid isPermaLink="false">c9f6aa03-8bfa-4d00-82cc-4c38e30b458e</guid>
             <pubDate>Wed, 09 Mar 2016 17:57:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Starter guide: (almost) all the links you'll need to start understanding ethereum. * /r/ethereum]]></title>
-            <description><![CDATA[<article><h1>Starter guide: (almost) all the links you'll need to start understanding ethereum. * /r/ethereum</h1><p>Welcome to our community. Ethereum is a smart computing platform that uses the blockchain. This forum is for Ethereum tech discussions and related...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c37494a1b8a992e98d82e2f8260fe0b3514afeb9.jpg"></article>]]></description>
-            <link>https://www.reddit.com/r/ethereum/comments/3vxvlx/starter_guide_almost_all_the_links_youll_need_to/</link>
-            <guid isPermaLink="false">699bfb71-6113-4b39-af83-207840d420a1</guid>
-            <pubDate>Wed, 09 Mar 2016 11:48:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
