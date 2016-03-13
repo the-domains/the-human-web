@@ -4,7 +4,7 @@
         <description><![CDATA[thehumanweb]]></description>
         <link>https://thegrid.ai/the-human-web/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 13 Mar 2016 21:13:17 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Mar 2016 22:33:11 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-human-web/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[thehumanweb/notes]]></title>
@@ -12,6 +12,13 @@
             <link>https://github.com/thehumanweb/notes/wiki/InfoPackage</link>
             <guid isPermaLink="false">d567b2fe-b470-460c-aa79-ec5b5ae63788</guid>
             <pubDate>Sun, 06 Mar 2016 16:40:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Grid]]></title>
+            <description><![CDATA[<article><h1>The Grid</h1><p>★ Getting Activated Once You Have Your Invite URLs</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2e790b9dadfaf3ca0319fec847976baf3e002f1d.png"></article>]]></description>
+            <link>http://help.thegrid.io/</link>
+            <guid isPermaLink="false">f382d07a-d13e-475e-81b3-32285a05e2d5</guid>
+            <pubDate>Sun, 13 Mar 2016 22:33:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[cpp-ethereum - Ethereum Homestead 0.1 documentation]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Headphones use ear canals to carry out ID checks - BBC News</h1><p>NEC has announced that it is developing earbuds that can confirm an owner's identity. The Japanese firm says the technology works by playing a sound and then checking how it resonates in the wearer's ear canal. This provides a biometric check that serves as an alternative to a fingerprint sensor or eye scanner.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/09fa45cc773eceb96210e7f91ad8bc55d66e4c71.jpg"></article>]]></description>
             <link>http://www.bbc.co.uk/news/technology-35766069</link>
             <guid isPermaLink="false">120f7fd0-4114-41c8-8d84-716397f56ab8</guid>
-            <pubDate>Thu, 10 Mar 2016 17:06:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Understanding Serenity, Part I: Abstraction - Ethereum Blog]]></title>
-            <description><![CDATA[<article><h1>Understanding Serenity, Part I: Abstraction - Ethereum Blog</h1><p>Special thanks to Gavin Wood for prompting my interest into abstraction improvements, and Martin Becze, Vlad Zamfir and Dominic Williams for ongoing discussions. For a long time we have been public about our plans to continue improving the Ethereum protocol over time and our long development roadmap, learning from our mistakes that we either did ...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ab25511acc1b28e2913ec9da1bfdf68b6b5cfa20.jpg"></article>]]></description>
-            <link>https://blog.ethereum.org/2015/12/24/understanding-serenity-part-i-abstraction/</link>
-            <guid isPermaLink="false">e7d1b1ea-1578-4c5c-9ce6-89b70f2c0462</guid>
             <pubDate>Thu, 10 Mar 2016 17:06:30 GMT</pubDate>
         </item>
     </channel>
