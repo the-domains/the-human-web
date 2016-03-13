@@ -4,7 +4,7 @@
         <description><![CDATA[thehumanweb]]></description>
         <link>https://thegrid.ai/the-human-web/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 12 Mar 2016 20:24:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Mar 2016 19:00:03 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-human-web/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[thehumanweb/notes]]></title>
@@ -12,6 +12,13 @@
             <link>https://github.com/thehumanweb/notes/wiki/InfoPackage</link>
             <guid isPermaLink="false">d567b2fe-b470-460c-aa79-ec5b5ae63788</guid>
             <pubDate>Sun, 06 Mar 2016 16:40:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Resetting the score]]></title>
+            <description><![CDATA[<article><h1>Resetting the score</h1><p>Rather like the iPhone, it contained few things that were fundamentally new - most of the key features had been around for a while and considered elsewhere - but it was the first to put all of them together in one place in the right way, and, like the iPhone, this changed everything.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/285a903467d496bcde4906e8f62bc08fbd0fffcd.jpg"></article>]]></description>
+            <link>http://ben-evans.com/benedictevans/2015/1/11/resetting-the-score</link>
+            <guid isPermaLink="false">eeadfd75-8609-480d-bc66-bbae7dc2851e</guid>
+            <pubDate>Sun, 13 Mar 2016 18:58:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[First Real Estate Sale with Bitcoin Occurs in Denmark - NEWSBTC]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.reddit.com/r/ethereum/comments/3vxvlx/starter_guide_almost_all_the_links_youll_need_to/</link>
             <guid isPermaLink="false">699bfb71-6113-4b39-af83-207840d420a1</guid>
             <pubDate>Wed, 09 Mar 2016 11:48:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Aral Balkan]]></title>
-            <description><![CDATA[<article><h1>Aral Balkan</h1><p>This is the original English version of an op-ed I wrote for Zeit Online. It is the first in a new series to take a critical look at technology as part of their 20th-year celebrations. This piece is based on a talk I gave at Bucerius Lab in Hamburg last month titled Digital Emancipation: Ownership of the Self in the Digital Age.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9ff9d0818ed7480d13bd1e424c9e2e0ea92c8c88.png"></article>]]></description>
-            <link>https://ar.al/notes/the-nature-of-the-self-in-the-digital-age/</link>
-            <guid isPermaLink="false">a87450fe-6a7e-42c2-b97f-d362595a15a4</guid>
-            <pubDate>Tue, 08 Mar 2016 10:32:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
