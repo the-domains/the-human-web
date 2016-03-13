@@ -4,7 +4,7 @@
         <description><![CDATA[thehumanweb]]></description>
         <link>https://thegrid.ai/the-human-web/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 13 Mar 2016 19:41:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Mar 2016 19:41:40 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-human-web/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[thehumanweb/notes]]></title>
@@ -12,6 +12,13 @@
             <link>https://github.com/thehumanweb/notes/wiki/InfoPackage</link>
             <guid isPermaLink="false">d567b2fe-b470-460c-aa79-ec5b5ae63788</guid>
             <pubDate>Sun, 06 Mar 2016 16:40:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Jane McGonigal: Gaming can make a better world]]></title>
+            <description><![CDATA[<article><h1>Jane McGonigal: Gaming can make a better world</h1><p>Games like World of Warcraft give players the means to save worlds, and incentive to learn the habits of heroes. What if we could harness this gamer power to solve real-world problems? Jane McGonigal says we can, and explains how.</p></article>]]></description>
+            <link>https://www.ted.com/talks/jane_mcgonigal_gaming_can_make_a_better_world</link>
+            <guid isPermaLink="false">3f617d44-910b-4ee9-8e7c-8a1164ad6d12</guid>
+            <pubDate>Sun, 13 Mar 2016 19:40:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Cicadian]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/the-human-web/the-ultimate-guide-to-estonian-e-residency-banking-and-taxe/index.html</link>
             <guid isPermaLink="false">3dacf2a4-b37a-4f5c-a5bb-6bfd660ed750</guid>
             <pubDate>Wed, 09 Mar 2016 17:57:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Possibility of a Better Internet: Tor, Smart Contracts, and MicroPayments]]></title>
-            <description><![CDATA[<article><h1>The Possibility of a Better Internet: Tor, Smart Contracts, and MicroPayments</h1><p>The Possibility of a Better Internet: Tor, Smart Contracts, and MicroPayments I'm a user of Tor, the privacy protection software that slows the seemingly endless forces of internet data collection. This past week, Motherboard revealed that Carnegie Mellon University worked with federal agents to attack the privacy protections of the Tor network.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ca22f2b699264d9d25d618393a5553e786be3cdb.jpg"></article>]]></description>
-            <link>https://thegrid.ai/the-human-web/the-possibility-of-a-better-internet-tor-smart-contracts/index.html</link>
-            <guid isPermaLink="false">c9f6aa03-8bfa-4d00-82cc-4c38e30b458e</guid>
-            <pubDate>Wed, 09 Mar 2016 17:57:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
