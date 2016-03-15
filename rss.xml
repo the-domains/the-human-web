@@ -4,7 +4,7 @@
         <description><![CDATA[thehumanweb]]></description>
         <link>https://thegrid.ai/the-human-web/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 14 Mar 2016 22:25:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2016 09:54:48 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-human-web/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[thehumanweb/notes]]></title>
@@ -12,6 +12,13 @@
             <link>https://github.com/thehumanweb/notes/wiki/InfoPackage</link>
             <guid isPermaLink="false">d567b2fe-b470-460c-aa79-ec5b5ae63788</guid>
             <pubDate>Sun, 06 Mar 2016 16:40:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to Sue A DAO]]></title>
+            <description><![CDATA[<article><h1>How to Sue A DAO</h1><p>The term Decentralized Autonomous Association ("DAO") is often used in the same breath as "Smart Contract" or "Blockchain". They're touted as a new form of legal structure in which ownership, management and control are automated and human involvement is limited or removed, based on a pre-agreed rule set. [1].</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a969b452d151619323e0dd5bd537543e28842bde.jpg"></article>]]></description>
+            <link>https://www.linkedin.com/pulse/how-sue-dao-stephen-palley?trk=pulse-det-nav_art</link>
+            <guid isPermaLink="false">a998c311-f1dd-4cd1-b2ed-8bdc3a29c142</guid>
+            <pubDate>Tue, 15 Mar 2016 09:54:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Sony's prototype projector turns any tabletop into a touch-sensitive display]]></title>
@@ -68,13 +75,6 @@
             <link>https://t.co/j0kuuvIVTt</link>
             <guid isPermaLink="false">4a2fb178-ed72-4e17-bd73-ce8f0cc785af</guid>
             <pubDate>Sat, 12 Mar 2016 18:53:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Thinking Through Law and Code, Again - Lawrence Lessig - COALA's Blockchain Workshops - Sydney 2015]]></title>
-            <description><![CDATA[<article><h1>Thinking Through Law and Code, Again - Lawrence Lessig - COALA's Blockchain Workshops - Sydney 2015</h1><p>This talk took place at the Sydney 2015 Blockchain Workshops organised by COALA http://coala.global/ http://sydney.blockchainworkshops.org/</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0ea7ec6f2a70ae0dae253e16c612ed6ae96cf6d0.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=pcYJTIbhYF0</link>
-            <guid isPermaLink="false">0e7c1dfc-c08d-4b74-995c-1300d10170fa</guid>
-            <pubDate>Thu, 10 Mar 2016 18:47:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
