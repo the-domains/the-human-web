@@ -4,7 +4,7 @@
         <description><![CDATA[thehumanweb]]></description>
         <link>https://thegrid.ai/the-human-web/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 16 Mar 2016 21:24:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2016 21:25:26 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-human-web/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[thehumanweb/notes]]></title>
@@ -12,6 +12,13 @@
             <link>https://github.com/thehumanweb/notes/wiki/InfoPackage</link>
             <guid isPermaLink="false">d567b2fe-b470-460c-aa79-ec5b5ae63788</guid>
             <pubDate>Sun, 06 Mar 2016 16:40:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Liquid Democracy: True Democracy for the 21st Century]]></title>
+            <description><![CDATA[<article><h1>Liquid Democracy: True Democracy for the 21st Century</h1><p>Liquid Democracy, a subset of Delegative Democracy, is a powerful voting model for collective decision making in large communities. Liquid Democracy combines the advantages of Direct Democracy and Representative Democracy and creates a truly democratic voting system that empowers voters to either vote on issues directly, or to delegate ones voting power to a trusted party.</p><img src="https://cdn-images-1.medium.com/max/800/0*Qev_LxQYu9KsNAQt."></article>]]></description>
+            <link>https://thegrid.ai/the-human-web/liquid-democracy-true-democracy-for-the-21st-century/index.html</link>
+            <guid isPermaLink="false">6525e88a-2400-4847-b70b-cea265dafc0a</guid>
+            <pubDate>Wed, 16 Mar 2016 21:24:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Blockchain-Based Voting Could Fix Election Security in the United States - Bitcoinist.net]]></title>
@@ -68,13 +75,6 @@
             <link>http://cicada3301.org/</link>
             <guid isPermaLink="false">7d184d0b-2e6e-4b33-ad47-1c45424b3d4c</guid>
             <pubDate>Sun, 13 Mar 2016 19:40:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Resetting the score]]></title>
-            <description><![CDATA[<article><h1>Resetting the score</h1><p>Rather like the iPhone, it contained few things that were fundamentally new - most of the key features had been around for a while and considered elsewhere - but it was the first to put all of them together in one place in the right way, and, like the iPhone, this changed everything.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/285a903467d496bcde4906e8f62bc08fbd0fffcd.jpg"></article>]]></description>
-            <link>http://ben-evans.com/benedictevans/2015/1/11/resetting-the-score</link>
-            <guid isPermaLink="false">eeadfd75-8609-480d-bc66-bbae7dc2851e</guid>
-            <pubDate>Sun, 13 Mar 2016 18:58:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
