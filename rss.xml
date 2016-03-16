@@ -4,7 +4,7 @@
         <description><![CDATA[thehumanweb]]></description>
         <link>https://thegrid.ai/the-human-web/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 15 Mar 2016 19:33:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2016 21:24:18 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-human-web/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[thehumanweb/notes]]></title>
@@ -12,6 +12,13 @@
             <link>https://github.com/thehumanweb/notes/wiki/InfoPackage</link>
             <guid isPermaLink="false">d567b2fe-b470-460c-aa79-ec5b5ae63788</guid>
             <pubDate>Sun, 06 Mar 2016 16:40:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Blockchain-Based Voting Could Fix Election Security in the United States - Bitcoinist.net]]></title>
+            <description><![CDATA[<article><h1>Blockchain-Based Voting Could Fix Election Security in the United States - Bitcoinist.net</h1><p>15 March 2016 - There's been a lot of contentious events surrounding privacy, encryption, and data security in the past few weeks covered in the media. With the US Presidential Primaries in full swing, and the presidential election looming closer on the horizon, few seem to be concerned with securing that most basic of civil liberties enjoyed in democratic nations: the right to vote.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3550774519603ad7eea8e5dbec546cd8526d5a44.jpg"></article>]]></description>
+            <link>http://bitcoinist.net/blockchain-based-voting-could-fix-us-election-security/</link>
+            <guid isPermaLink="false">09395810-ae81-4227-8b8e-e72f8f23c50c</guid>
+            <pubDate>Wed, 16 Mar 2016 21:24:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A Typical Day in a Blockchain-Enabled World Circa 2030]]></title>
@@ -68,13 +75,6 @@
             <link>http://ben-evans.com/benedictevans/2015/1/11/resetting-the-score</link>
             <guid isPermaLink="false">eeadfd75-8609-480d-bc66-bbae7dc2851e</guid>
             <pubDate>Sun, 13 Mar 2016 18:58:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[First Real Estate Sale with Bitcoin Occurs in Denmark - NEWSBTC]]></title>
-            <description><![CDATA[<article><h1>First Real Estate Sale with Bitcoin Occurs in Denmark - NEWSBTC</h1><p>The first property purchase using bitcoin has happened in Denmark. A real estate portal is responsible for facilitating the transaction along with Coinify. Read more... Bitcoin and blockchain technology are being increasingly used for purposes other than peer-to-peer transactions for which it was originally created.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/43c2949e68518e1507df1017564f34b093fd8733.png"></article>]]></description>
-            <link>https://t.co/MAGmy7ANqk</link>
-            <guid isPermaLink="false">b5fddd35-e571-489c-9258-3a8d8a611093</guid>
-            <pubDate>Sat, 12 Mar 2016 20:24:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
