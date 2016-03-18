@@ -4,7 +4,7 @@
         <description><![CDATA[thehumanweb]]></description>
         <link>https://thegrid.ai/the-human-web/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 16 Mar 2016 21:25:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Mar 2016 13:12:56 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-human-web/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[thehumanweb/notes]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Sun, 06 Mar 2016 16:40:54 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Bitcoin and Cryptocurrency Technologies - Princeton Üniversitesi | Coursera]]></title>
+            <description><![CDATA[<article><h1>Bitcoin and Cryptocurrency Technologies - Princeton Üniversitesi | Coursera</h1><p>Bitcoin and Cryptocurrency Technologies from Princeton Üniversitesi. There's a lot of excitement about Bitcoin, but also a lot of confusion about what Bitcoin is and how it works. We're offering this course focusing on the computer science behind Bitcoin to help cut through the hype and get to the core of what makes Bitcoin unique.</p><img src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/0f/e2bef0ed1211e49ef82329f96bb44a/Bitcoin-logo.png"></article>]]></description>
+            <link>https://tr.coursera.org/course/bitcointech</link>
+            <guid isPermaLink="false">c0908199-c7c1-4ba6-97f8-155c51f348e8</guid>
+            <pubDate>Fri, 18 Mar 2016 13:12:50 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Liquid Democracy: True Democracy for the 21st Century]]></title>
-            <description><![CDATA[<article><h1>Liquid Democracy: True Democracy for the 21st Century</h1><p>Liquid Democracy, a subset of Delegative Democracy, is a powerful voting model for collective decision making in large communities. Liquid Democracy combines the advantages of Direct Democracy and Representative Democracy and creates a truly democratic voting system that empowers voters to either vote on issues directly, or to delegate ones voting power to a trusted party.</p><img src="https://cdn-images-1.medium.com/max/800/0*Qev_LxQYu9KsNAQt."></article>]]></description>
+            <description><![CDATA[<article><h1>Liquid Democracy: True Democracy for the 21st Century</h1><p>Liquid Democracy, a subset of Delegative Democracy, is a powerful voting model for collective decision making in large communities. Liquid Democracy combines the advantages of Direct Democracy and Representative Democracy and creates a truly democratic voting system that empowers voters to either vote on issues directly, or to delegate ones voting power to a trusted party.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/35baa16fa026c461135c1ce941d3d762388d7f8d.jpg"></article>]]></description>
             <link>https://thegrid.ai/the-human-web/liquid-democracy-true-democracy-for-the-21st-century/index.html</link>
             <guid isPermaLink="false">6525e88a-2400-4847-b70b-cea265dafc0a</guid>
             <pubDate>Wed, 16 Mar 2016 21:24:15 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://www.ted.com/talks/jane_mcgonigal_gaming_can_make_a_better_world</link>
             <guid isPermaLink="false">3f617d44-910b-4ee9-8e7c-8a1164ad6d12</guid>
             <pubDate>Sun, 13 Mar 2016 19:40:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cicadian]]></title>
-            <description><![CDATA[<article><h1>Cicadian</h1><p>Cicada 3301 left a series of clues in major cities around the world, and referenced books harkening back to ancient occult mystery schools and connecting it to modern day technologies and existentialism. While these obscure references and clues seem disconnected at first glance, they are anything but.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d2356a389497a6b2bd541f489ad497c139d1b24d.png"></article>]]></description>
-            <link>http://cicada3301.org/</link>
-            <guid isPermaLink="false">7d184d0b-2e6e-4b33-ad47-1c45424b3d4c</guid>
-            <pubDate>Sun, 13 Mar 2016 19:40:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
