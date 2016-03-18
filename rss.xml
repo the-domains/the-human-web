@@ -4,7 +4,7 @@
         <description><![CDATA[thehumanweb]]></description>
         <link>https://thegrid.ai/the-human-web/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 18 Mar 2016 13:12:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Mar 2016 13:13:23 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-human-web/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[thehumanweb/notes]]></title>
@@ -12,6 +12,13 @@
             <link>https://github.com/thehumanweb/notes/wiki/InfoPackage</link>
             <guid isPermaLink="false">d567b2fe-b470-460c-aa79-ec5b5ae63788</guid>
             <pubDate>Sun, 06 Mar 2016 16:40:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Slock.it]]></title>
+            <description><![CDATA[<article><h1>Slock.it</h1><p>Standardization through Abstraction Today's IoT is fragmented and heterogeneous, with each manufacturer attempting to impose their own standards. Because each additional Ethereum Computer deployed benefits the DAO participants collectively (in the form of incremental revenue), the DAO model encourages our community to leverage and promote a common, interoperable network, regardless of manufacturer.</p><img src="https://slock.it/img/dao.jpg"></article>]]></description>
+            <link>https://slock.it/dao.html</link>
+            <guid isPermaLink="false">2f7abfc1-4066-404d-88df-1c52a7455d91</guid>
+            <pubDate>Fri, 18 Mar 2016 13:12:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bitcoin and Cryptocurrency Technologies - Princeton Üniversitesi | Coursera]]></title>
@@ -68,13 +75,6 @@
             <link>http://docs.ethereum.org/en/latest/ethereum-clients/cpp-ethereum/index.html#cpp-ethereum</link>
             <guid isPermaLink="false">33d3724e-decb-4735-8cda-110ea7159433</guid>
             <pubDate>Sun, 13 Mar 2016 21:13:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Jane McGonigal: Gaming can make a better world]]></title>
-            <description><![CDATA[<article><h1>Jane McGonigal: Gaming can make a better world</h1><p>Games like World of Warcraft give players the means to save worlds, and incentive to learn the habits of heroes. What if we could harness this gamer power to solve real-world problems? Jane McGonigal says we can, and explains how.</p></article>]]></description>
-            <link>https://www.ted.com/talks/jane_mcgonigal_gaming_can_make_a_better_world</link>
-            <guid isPermaLink="false">3f617d44-910b-4ee9-8e7c-8a1164ad6d12</guid>
-            <pubDate>Sun, 13 Mar 2016 19:40:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
