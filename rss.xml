@@ -4,7 +4,7 @@
         <description><![CDATA[thehumanweb]]></description>
         <link>https://thegrid.ai/the-human-web/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 19 Mar 2016 12:08:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Mar 2016 12:07:57 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-human-web/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[thehumanweb/notes]]></title>
@@ -12,13 +12,6 @@
             <link>https://github.com/thehumanweb/notes/wiki/InfoPackage</link>
             <guid isPermaLink="false">d567b2fe-b470-460c-aa79-ec5b5ae63788</guid>
             <pubDate>Sun, 06 Mar 2016 16:40:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Blockchain's Disintermediation of Payment Processors in Fintech]]></title>
-            <description><![CDATA[<article><h1>Blockchain's Disintermediation of Payment Processors in Fintech</h1><p>Blockchain's Disintermediation of Payment Processors in Fintech The bitcoin blockchain has recently emerged as a powerful tool for disintermediation that despite interest from major financial players still has lots of unused potential especially in the B2C industry.</p><img src="https://cdn-images-2.medium.com/max/2000/1*NKkTD25L5dhjIhjGjJIukQ.jpeg"></article>]]></description>
-            <link>https://thegrid.ai/the-human-web/blockchains-disintermediation-of-payment-processors-in-fint/index.html</link>
-            <guid isPermaLink="false">f788ec7b-53a6-45fa-ab71-f2afd71e20f7</guid>
-            <pubDate>Sat, 19 Mar 2016 12:07:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Achievements and White Paper Pre-ann]]></title>
@@ -29,7 +22,7 @@
         </item>
         <item>
             <title><![CDATA[The Fifth Protocol]]></title>
-            <description><![CDATA[<article><h1>The Fifth Protocol</h1><p>"Wait a minute... Make up your mind. This Snow Crash thing-is it a virus, a drug, or a religion?" Juanita shrugs. "What's the difference?" - Snow Crash Cryptocurrencies will create a fifth protocol layer powering the next generation of the Internet. Humans don't *need* math-based cryptocurrencies when dealing with other humans.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6775644edf10075b41fb84e0f1de6c0d1d3bcf18.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>The Fifth Protocol</h1><p>"Wait a minute... Make up your mind. This Snow Crash thing-is it a virus, a drug, or a religion?" Juanita shrugs. "What's the difference?" - Snow Crash Cryptocurrencies will create a fifth protocol layer powering the next generation of the Internet. Humans don't *need* math-based cryptocurrencies when dealing with other humans.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dac125ca709c7d748483baa47755001c94e0f9b3.jpg"></article>]]></description>
             <link>http://startupboy.com/2014/04/01/the-fifth-protocol/</link>
             <guid isPermaLink="false">4a147b4a-4183-4771-8f93-61be8210b1ee</guid>
             <pubDate>Sat, 19 Mar 2016 12:07:07 GMT</pubDate>
@@ -75,6 +68,13 @@
             <link>https://www.linkedin.com/pulse/how-sue-dao-stephen-palley?trk=pulse-det-nav_art</link>
             <guid isPermaLink="false">a998c311-f1dd-4cd1-b2ed-8bdc3a29c142</guid>
             <pubDate>Tue, 15 Mar 2016 09:54:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sony's prototype projector turns any tabletop into a touch-sensitive display]]></title>
+            <description><![CDATA[<article><h1>Sony's prototype projector turns any tabletop into a touch-sensitive display</h1><p>Sony's Future Lab is a R&D group responsible for taking crazy ideas into the prototype phase, and one impressive vision shown here at SXSW in Austin this week is a projector that turns any flat surface into a screen for light to play on.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dcf13415b5f4878c33a48f8848b046919c16b60c.jpg"></article>]]></description>
+            <link>http://www.theverge.com/2016/3/13/11215454/sony-interactive-projector-future-lab-sxsw-2016/in/10980317</link>
+            <guid isPermaLink="false">9c62e64d-f8c1-40ff-9c6e-d8476c1bfa66</guid>
+            <pubDate>Mon, 14 Mar 2016 22:25:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
