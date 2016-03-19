@@ -4,7 +4,7 @@
         <description><![CDATA[thehumanweb]]></description>
         <link>https://thegrid.ai/the-human-web/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 18 Mar 2016 13:13:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Mar 2016 12:07:47 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-human-web/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[thehumanweb/notes]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Sun, 06 Mar 2016 16:40:54 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[The Fifth Protocol]]></title>
+            <description><![CDATA[<article><h1>The Fifth Protocol</h1><p>"Wait a minute... Make up your mind. This Snow Crash thing-is it a virus, a drug, or a religion?" Juanita shrugs. "What's the difference?" - Snow Crash Cryptocurrencies will create a fifth protocol layer powering the next generation of the Internet. Humans don't *need* math-based cryptocurrencies when dealing with other humans.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a6c741cd275b6b8ca876682b52e75db7/croprotate.jpg?cropheight=200&cropwidth=200&degrees=0&input=https%3A%2F%2Fs0.wp.com%2Fi%2Fblank.jpg&x=0&y=0"></article>]]></description>
+            <link>http://startupboy.com/2014/04/01/the-fifth-protocol/</link>
+            <guid isPermaLink="false">4a147b4a-4183-4771-8f93-61be8210b1ee</guid>
+            <pubDate>Sat, 19 Mar 2016 12:07:07 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Slock.it]]></title>
-            <description><![CDATA[<article><h1>Slock.it</h1><p>Standardization through Abstraction Today's IoT is fragmented and heterogeneous, with each manufacturer attempting to impose their own standards. Because each additional Ethereum Computer deployed benefits the DAO participants collectively (in the form of incremental revenue), the DAO model encourages our community to leverage and promote a common, interoperable network, regardless of manufacturer.</p><img src="https://slock.it/img/dao.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Slock.it</h1><p>Standardization through Abstraction Today's IoT is fragmented and heterogeneous, with each manufacturer attempting to impose their own standards. Because each additional Ethereum Computer deployed benefits the DAO participants collectively (in the form of incremental revenue), the DAO model encourages our community to leverage and promote a common, interoperable network, regardless of manufacturer.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6dd03fa48256c2d3045e2f378a397bb1cc3c2f16.jpg"></article>]]></description>
             <link>https://slock.it/dao.html</link>
             <guid isPermaLink="false">2f7abfc1-4066-404d-88df-1c52a7455d91</guid>
             <pubDate>Fri, 18 Mar 2016 13:12:49 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://help.thegrid.io/</link>
             <guid isPermaLink="false">f382d07a-d13e-475e-81b3-32285a05e2d5</guid>
             <pubDate>Sun, 13 Mar 2016 22:33:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[cpp-ethereum - Ethereum Homestead 0.1 documentation]]></title>
-            <description><![CDATA[<article><h1>cpp-ethereum - Ethereum Homestead 0.1 documentation</h1><p>Many of the original C++ developers moved on to roles at Slock.it and Ethcore in late 2015 and early 2016 following a 75% cut in funding for C++ development. Those cuts were part of a broader effort to bring Foundation costs under control, and they happened prior to the recent spike in ETH value which has put the Foundation in a much more comfortable financial position.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a6fddf8b3d2cd225ac27c0ec94c6b38a2e15948e.png"></article>]]></description>
-            <link>http://docs.ethereum.org/en/latest/ethereum-clients/cpp-ethereum/index.html#cpp-ethereum</link>
-            <guid isPermaLink="false">33d3724e-decb-4735-8cda-110ea7159433</guid>
-            <pubDate>Sun, 13 Mar 2016 21:13:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
