@@ -4,7 +4,7 @@
         <description><![CDATA[thehumanweb]]></description>
         <link>https://thegrid.ai/the-human-web/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 19 Mar 2016 12:07:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Mar 2016 12:08:33 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-human-web/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[thehumanweb/notes]]></title>
@@ -14,8 +14,22 @@
             <pubDate>Sun, 06 Mar 2016 16:40:54 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Blockchain's Disintermediation of Payment Processors in Fintech]]></title>
+            <description><![CDATA[<article><h1>Blockchain's Disintermediation of Payment Processors in Fintech</h1><p>Blockchain's Disintermediation of Payment Processors in Fintech The bitcoin blockchain has recently emerged as a powerful tool for disintermediation that despite interest from major financial players still has lots of unused potential especially in the B2C industry.</p><img src="https://cdn-images-2.medium.com/max/2000/1*NKkTD25L5dhjIhjGjJIukQ.jpeg"></article>]]></description>
+            <link>https://thegrid.ai/the-human-web/blockchains-disintermediation-of-payment-processors-in-fint/index.html</link>
+            <guid isPermaLink="false">f788ec7b-53a6-45fa-ab71-f2afd71e20f7</guid>
+            <pubDate>Sat, 19 Mar 2016 12:07:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Achievements and White Paper Pre-ann]]></title>
+            <description><![CDATA[<article><h1>Achievements and White Paper Pre-ann</h1><p>This week, the Plutus Team is excited to announce several developments! Within the next month, we will be releasing the Plutus White Paper, along with a detailed project timeline in order to show our development so far as well as upcoming updates. The White Paper itself will provide a comprehensive resource that explains.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f569352bfa012280eec1b34d8d34fa9266f5935e.png"></article>]]></description>
+            <link>https://thegrid.ai/the-human-web/achievements-and-white-paper-pre-ann/index.html</link>
+            <guid isPermaLink="false">d38d3a66-dba7-4306-9957-86357088c5af</guid>
+            <pubDate>Sat, 19 Mar 2016 12:07:36 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The Fifth Protocol]]></title>
-            <description><![CDATA[<article><h1>The Fifth Protocol</h1><p>"Wait a minute... Make up your mind. This Snow Crash thing-is it a virus, a drug, or a religion?" Juanita shrugs. "What's the difference?" - Snow Crash Cryptocurrencies will create a fifth protocol layer powering the next generation of the Internet. Humans don't *need* math-based cryptocurrencies when dealing with other humans.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a6c741cd275b6b8ca876682b52e75db7/croprotate.jpg?cropheight=200&cropwidth=200&degrees=0&input=https%3A%2F%2Fs0.wp.com%2Fi%2Fblank.jpg&x=0&y=0"></article>]]></description>
+            <description><![CDATA[<article><h1>The Fifth Protocol</h1><p>"Wait a minute... Make up your mind. This Snow Crash thing-is it a virus, a drug, or a religion?" Juanita shrugs. "What's the difference?" - Snow Crash Cryptocurrencies will create a fifth protocol layer powering the next generation of the Internet. Humans don't *need* math-based cryptocurrencies when dealing with other humans.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6775644edf10075b41fb84e0f1de6c0d1d3bcf18.jpg"></article>]]></description>
             <link>http://startupboy.com/2014/04/01/the-fifth-protocol/</link>
             <guid isPermaLink="false">4a147b4a-4183-4771-8f93-61be8210b1ee</guid>
             <pubDate>Sat, 19 Mar 2016 12:07:07 GMT</pubDate>
@@ -61,20 +75,6 @@
             <link>https://www.linkedin.com/pulse/how-sue-dao-stephen-palley?trk=pulse-det-nav_art</link>
             <guid isPermaLink="false">a998c311-f1dd-4cd1-b2ed-8bdc3a29c142</guid>
             <pubDate>Tue, 15 Mar 2016 09:54:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sony's prototype projector turns any tabletop into a touch-sensitive display]]></title>
-            <description><![CDATA[<article><h1>Sony's prototype projector turns any tabletop into a touch-sensitive display</h1><p>Sony's Future Lab is a R&D group responsible for taking crazy ideas into the prototype phase, and one impressive vision shown here at SXSW in Austin this week is a projector that turns any flat surface into a screen for light to play on.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dcf13415b5f4878c33a48f8848b046919c16b60c.jpg"></article>]]></description>
-            <link>http://www.theverge.com/2016/3/13/11215454/sony-interactive-projector-future-lab-sxsw-2016/in/10980317</link>
-            <guid isPermaLink="false">9c62e64d-f8c1-40ff-9c6e-d8476c1bfa66</guid>
-            <pubDate>Mon, 14 Mar 2016 22:25:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Grid]]></title>
-            <description><![CDATA[<article><h1>The Grid</h1><p>★ Getting Activated Once You Have Your Invite URLs</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2e790b9dadfaf3ca0319fec847976baf3e002f1d.png"></article>]]></description>
-            <link>http://help.thegrid.io/</link>
-            <guid isPermaLink="false">f382d07a-d13e-475e-81b3-32285a05e2d5</guid>
-            <pubDate>Sun, 13 Mar 2016 22:33:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
