@@ -4,7 +4,7 @@
         <description><![CDATA[thehumanweb]]></description>
         <link>https://thegrid.ai/the-human-web/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 23 Mar 2016 19:12:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2016 19:16:17 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-human-web/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[thehumanweb/notes]]></title>
@@ -14,15 +14,22 @@
             <pubDate>Sun, 06 Mar 2016 16:40:54 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[A Lifestyle Revolution: Enabling Professional Self-Determination]]></title>
+            <description><![CDATA[<article><h1>A Lifestyle Revolution: Enabling Professional Self-Determination</h1><p>A Lifestyle Revolution: Enabling Professional Self-Determination While decentralized technology will have a fundamental impact on society and on our daily lives, I am not going to tell you that the Web 3.0 revolution is here. No predicting the demise of those privacy-infringing tech giants either. Take a deep breath and de-hype for a moment.</p><img src="https://cdn-images-1.medium.com/max/1200/1*RGmaeujPHc2U5lYxLpV92A.jpeg"></article>]]></description>
+            <link>https://thegrid.ai/the-human-web/a-lifestyle-revolution-enabling-professional-self-determina/index.html</link>
+            <guid isPermaLink="false">a81e4c91-34a5-45b7-b798-df0c96eabfe6</guid>
+            <pubDate>Wed, 23 Mar 2016 19:16:13 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[FAQ - Etherli]]></title>
-            <description><![CDATA[<article><h1>FAQ - Etherli</h1><p>EtherLi is the worlds first multi-signature Ethereum web wallet. This is the first Ethereum wallet that allows you to access your funds from anywhere on the web while taking advantage of multi-signature security layered with two-factor authentication for outgoing transactions. In addition our wallet supports a trustless model where only the user has full control of their funds.</p><img src="https://www.ether.li/images/logo-long.png"></article>]]></description>
+            <description><![CDATA[<article><h1>FAQ - Etherli</h1><p>EtherLi is the worlds first multi-signature Ethereum web wallet. This is the first Ethereum wallet that allows you to access your funds from anywhere on the web while taking advantage of multi-signature security layered with two-factor authentication for outgoing transactions. In addition our wallet supports a trustless model where only the user has full control of their funds.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bd69d22d0dabdbd3e82494d53a115ebe8a2feaae.png"></article>]]></description>
             <link>https://www.ether.li/faq</link>
             <guid isPermaLink="false">457158b0-1926-45c7-bbc4-5b1bd1fbefe9</guid>
             <pubDate>Wed, 23 Mar 2016 19:10:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Work is solving problems and learning is answering questions]]></title>
-            <description><![CDATA[<article><h1>Work is solving problems and learning is answering questions</h1><p>Studies predict that nearly half of all jobs and over 70% of low-skill jobs could be susceptible to computerization over the next two decades. Our chances of creating work for human beings in this new, demanding environment will be very limited if old and unjustified assumptions about what people can or can't do are not...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dac125ca709c7d748483baa47755001c94e0f9b3.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Work is solving problems and learning is answering questions</h1><p>Studies predict that nearly half of all jobs and over 70% of low-skill jobs could be susceptible to computerization over the next two decades. Our chances of creating work for human beings in this new, demanding environment will be very limited if old and unjustified assumptions about what people can or can't do are not...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6775644edf10075b41fb84e0f1de6c0d1d3bcf18.jpg"></article>]]></description>
             <link>https://eskokilpi.wordpress.com/2015/08/31/work-is-solving-problems-and-learning-is-answering-questions/</link>
             <guid isPermaLink="false">ed613a31-455e-45a1-9e0b-e670720a710d</guid>
             <pubDate>Wed, 23 Mar 2016 17:13:19 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://slock.it/dao.html</link>
             <guid isPermaLink="false">2f7abfc1-4066-404d-88df-1c52a7455d91</guid>
             <pubDate>Fri, 18 Mar 2016 13:12:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin and Cryptocurrency Technologies - Princeton Üniversitesi | Coursera]]></title>
-            <description><![CDATA[<article><h1>Bitcoin and Cryptocurrency Technologies - Princeton Üniversitesi | Coursera</h1><p>Bitcoin and Cryptocurrency Technologies from Princeton Üniversitesi. There's a lot of excitement about Bitcoin, but also a lot of confusion about what Bitcoin is and how it works. We're offering this course focusing on the computer science behind Bitcoin to help cut through the hype and get to the core of what makes Bitcoin unique.</p><img src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/0f/e2bef0ed1211e49ef82329f96bb44a/Bitcoin-logo.png"></article>]]></description>
-            <link>https://tr.coursera.org/course/bitcointech</link>
-            <guid isPermaLink="false">c0908199-c7c1-4ba6-97f8-155c51f348e8</guid>
-            <pubDate>Fri, 18 Mar 2016 13:12:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
