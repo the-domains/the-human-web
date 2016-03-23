@@ -4,7 +4,7 @@
         <description><![CDATA[thehumanweb]]></description>
         <link>https://thegrid.ai/the-human-web/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 23 Mar 2016 17:13:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2016 19:12:04 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-human-web/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[thehumanweb/notes]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Sun, 06 Mar 2016 16:40:54 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[FAQ - Etherli]]></title>
+            <description><![CDATA[<article><h1>FAQ - Etherli</h1><p>EtherLi is the worlds first multi-signature Ethereum web wallet. This is the first Ethereum wallet that allows you to access your funds from anywhere on the web while taking advantage of multi-signature security layered with two-factor authentication for outgoing transactions. In addition our wallet supports a trustless model where only the user has full control of their funds.</p><img src="https://www.ether.li/images/logo-long.png"></article>]]></description>
+            <link>https://www.ether.li/faq</link>
+            <guid isPermaLink="false">457158b0-1926-45c7-bbc4-5b1bd1fbefe9</guid>
+            <pubDate>Wed, 23 Mar 2016 19:10:53 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Work is solving problems and learning is answering questions]]></title>
-            <description><![CDATA[<article><h1>Work is solving problems and learning is answering questions</h1><p>Studies predict that nearly half of all jobs and over 70% of low-skill jobs could be susceptible to computerization over the next two decades. Our chances of creating work for human beings in this new, demanding environment will be very limited if old and unjustified assumptions about what people can or can't do are not...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a6c741cd275b6b8ca876682b52e75db7/croprotate.jpg?cropheight=200&cropwidth=200&degrees=0&input=https%3A%2F%2Fs0.wp.com%2Fi%2Fblank.jpg&x=0&y=0"></article>]]></description>
+            <description><![CDATA[<article><h1>Work is solving problems and learning is answering questions</h1><p>Studies predict that nearly half of all jobs and over 70% of low-skill jobs could be susceptible to computerization over the next two decades. Our chances of creating work for human beings in this new, demanding environment will be very limited if old and unjustified assumptions about what people can or can't do are not...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dac125ca709c7d748483baa47755001c94e0f9b3.jpg"></article>]]></description>
             <link>https://eskokilpi.wordpress.com/2015/08/31/work-is-solving-problems-and-learning-is-answering-questions/</link>
             <guid isPermaLink="false">ed613a31-455e-45a1-9e0b-e670720a710d</guid>
             <pubDate>Wed, 23 Mar 2016 17:13:19 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://tr.coursera.org/course/bitcointech</link>
             <guid isPermaLink="false">c0908199-c7c1-4ba6-97f8-155c51f348e8</guid>
             <pubDate>Fri, 18 Mar 2016 13:12:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Liquid Democracy: True Democracy for the 21st Century]]></title>
-            <description><![CDATA[<article><h1>Liquid Democracy: True Democracy for the 21st Century</h1><p>Liquid Democracy, a subset of Delegative Democracy, is a powerful voting model for collective decision making in large communities. Liquid Democracy combines the advantages of Direct Democracy and Representative Democracy and creates a truly democratic voting system that empowers voters to either vote on issues directly, or to delegate ones voting power to a trusted party.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/35baa16fa026c461135c1ce941d3d762388d7f8d.jpg"></article>]]></description>
-            <link>https://thegrid.ai/the-human-web/liquid-democracy-true-democracy-for-the-21st-century/index.html</link>
-            <guid isPermaLink="false">6525e88a-2400-4847-b70b-cea265dafc0a</guid>
-            <pubDate>Wed, 16 Mar 2016 21:24:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
