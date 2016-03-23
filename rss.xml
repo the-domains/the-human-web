@@ -4,7 +4,7 @@
         <description><![CDATA[thehumanweb]]></description>
         <link>https://thegrid.ai/the-human-web/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 19 Mar 2016 23:06:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2016 17:13:22 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-human-web/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[thehumanweb/notes]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Sun, 06 Mar 2016 16:40:54 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Work is solving problems and learning is answering questions]]></title>
+            <description><![CDATA[<article><h1>Work is solving problems and learning is answering questions</h1><p>Studies predict that nearly half of all jobs and over 70% of low-skill jobs could be susceptible to computerization over the next two decades. Our chances of creating work for human beings in this new, demanding environment will be very limited if old and unjustified assumptions about what people can or can't do are not...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a6c741cd275b6b8ca876682b52e75db7/croprotate.jpg?cropheight=200&cropwidth=200&degrees=0&input=https%3A%2F%2Fs0.wp.com%2Fi%2Fblank.jpg&x=0&y=0"></article>]]></description>
+            <link>https://eskokilpi.wordpress.com/2015/08/31/work-is-solving-problems-and-learning-is-answering-questions/</link>
+            <guid isPermaLink="false">ed613a31-455e-45a1-9e0b-e670720a710d</guid>
+            <pubDate>Wed, 23 Mar 2016 17:13:19 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Real crypto-anarchy]]></title>
-            <description><![CDATA[<article><h1>Real crypto-anarchy</h1><p>По-русски: http://bitnovosti.com/2014/01/02/cryptoanarchy-and-anonymity/ Crypto-anarchy is not some crazy utopian ideology, but a very viable thing that unfolds in front of our eyes this very moment.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e08aa34da8e23ac9192d66c1bade470bb4649f6c.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Real crypto-anarchy</h1><p>По-русски: http://bitnovosti.com/2014/01/02/cryptoanarchy-and-anonymity/ Crypto-anarchy is not some crazy utopian ideology, but a very viable thing that unfolds in front of our eyes this very moment.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ffd6d5029ccc38cf2df467ec5c25282470f5f5f1.png"></article>]]></description>
             <link>http://blog.oleganza.com/post/71410377996/real-crypto-anarchy</link>
             <guid isPermaLink="false">a562b5d7-c649-4cca-8912-e59d9438d2df</guid>
             <pubDate>Sat, 19 Mar 2016 23:06:22 GMT</pubDate>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Liquid Democracy: True Democracy for the 21st Century</h1><p>Liquid Democracy, a subset of Delegative Democracy, is a powerful voting model for collective decision making in large communities. Liquid Democracy combines the advantages of Direct Democracy and Representative Democracy and creates a truly democratic voting system that empowers voters to either vote on issues directly, or to delegate ones voting power to a trusted party.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/35baa16fa026c461135c1ce941d3d762388d7f8d.jpg"></article>]]></description>
             <link>https://thegrid.ai/the-human-web/liquid-democracy-true-democracy-for-the-21st-century/index.html</link>
             <guid isPermaLink="false">6525e88a-2400-4847-b70b-cea265dafc0a</guid>
-            <pubDate>Wed, 16 Mar 2016 21:24:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Blockchain-Based Voting Could Fix Election Security in the United States - Bitcoinist.net]]></title>
-            <description><![CDATA[<article><h1>Blockchain-Based Voting Could Fix Election Security in the United States - Bitcoinist.net</h1><p>15 March 2016 - There's been a lot of contentious events surrounding privacy, encryption, and data security in the past few weeks covered in the media. With the US Presidential Primaries in full swing, and the presidential election looming closer on the horizon, few seem to be concerned with securing that most basic of civil liberties enjoyed in democratic nations: the right to vote.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3550774519603ad7eea8e5dbec546cd8526d5a44.jpg"></article>]]></description>
-            <link>http://bitcoinist.net/blockchain-based-voting-could-fix-us-election-security/</link>
-            <guid isPermaLink="false">09395810-ae81-4227-8b8e-e72f8f23c50c</guid>
             <pubDate>Wed, 16 Mar 2016 21:24:15 GMT</pubDate>
         </item>
     </channel>
