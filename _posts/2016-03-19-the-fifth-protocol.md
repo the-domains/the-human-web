@@ -17,8 +17,8 @@ keywords:
   - anonymously
   - exchange
 description: "\"Wait a minute... Make up your mind. This Snow Crash thing-is it a virus, a drug, or a religion?\" Juanita shrugs. \"What's the difference?\" - Snow Crash Cryptocurrencies will create a fifth protocol layer powering the next generation of the Internet. Humans don't *need* math-based cryptocurrencies when dealing with other humans."
-datePublished: '2016-03-25T21:11:47.147Z'
-dateModified: '2016-03-25T21:11:39.358Z'
+datePublished: '2016-03-25T22:10:14.349Z'
+dateModified: '2016-03-25T22:09:15.407Z'
 author:
   - name: naval
     url: 'http://startupboy.com/author/naval/'
@@ -39,5 +39,3 @@ _type: MediaObject
 
 ---
 <article style=""><h1>The Fifth Protocol</h1><p>"Wait a minute... Make up your mind. This Snow Crash thing-is it a virus, a drug, or a religion?" Juanita shrugs. "What's the difference?" - Snow Crash Cryptocurrencies will create a fifth protocol layer powering the next generation of the Internet. Humans don't *need* math-based cryptocurrencies when dealing with other humans.</p><img src="https://s0.wp.com/i/blank.jpg" /></article>
-
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6600b240-7d90-402b-801c-ad7f50995b92.jpg)
