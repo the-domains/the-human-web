@@ -4,7 +4,7 @@
         <description><![CDATA[thehumanweb]]></description>
         <link>https://thegrid.ai/the-human-web/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 25 Mar 2016 19:30:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2016 21:13:28 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-human-web/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[thehumanweb/notes]]></title>
@@ -12,6 +12,13 @@
             <link>https://github.com/thehumanweb/notes/wiki/InfoPackage</link>
             <guid isPermaLink="false">d567b2fe-b470-460c-aa79-ec5b5ae63788</guid>
             <pubDate>Sun, 06 Mar 2016 16:40:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Fifth Protocol]]></title>
+            <description><![CDATA[<article><h1>The Fifth Protocol</h1><p>"Wait a minute... Make up your mind. This Snow Crash thing-is it a virus, a drug, or a religion?" Juanita shrugs. "What's the difference?" - Snow Crash Cryptocurrencies will create a fifth protocol layer powering the next generation of the Internet. Humans don't *need* math-based cryptocurrencies when dealing with other humans.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6775644edf10075b41fb84e0f1de6c0d1d3bcf18.jpg"></article>]]></description>
+            <link>http://startupboy.com/2014/04/01/the-fifth-protocol/</link>
+            <guid isPermaLink="false">4a147b4a-4183-4771-8f93-61be8210b1ee</guid>
+            <pubDate>Fri, 25 Mar 2016 21:11:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Parity]]></title>
@@ -32,7 +39,7 @@
             <description><![CDATA[<article><h1>Virtual Desktop on Steam</h1><p>Virtual Desktop is an application developed for the Oculus Rift and HTC Vive that let's you use your computer in VR. You can browse the web, watch movies, Netflix or even play games on a giant virtual screen.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/27740174ecc36436184cb949ffaceec32091a2c8.jpg"></article>]]></description>
             <link>http://store.steampowered.com/app/382110/?snr=1_5_9__205</link>
             <guid isPermaLink="false">d1c07aa6-e4d3-4816-a1d2-5637f20f0b60</guid>
-            <pubDate>Fri, 25 Mar 2016 17:27:23 GMT</pubDate>
+            <pubDate>Fri, 25 Mar 2016 21:12:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Proof of Physical Address]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/the-human-web/a-lifestyle-revolution-enabling-professional-self-determina/index.html</link>
             <guid isPermaLink="false">a81e4c91-34a5-45b7-b798-df0c96eabfe6</guid>
             <pubDate>Wed, 23 Mar 2016 19:16:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[FAQ - Etherli]]></title>
-            <description><![CDATA[<article><h1>FAQ - Etherli</h1><p>EtherLi is the worlds first multi-signature Ethereum web wallet. This is the first Ethereum wallet that allows you to access your funds from anywhere on the web while taking advantage of multi-signature security layered with two-factor authentication for outgoing transactions. In addition our wallet supports a trustless model where only the user has full control of their funds.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bd69d22d0dabdbd3e82494d53a115ebe8a2feaae.png"></article>]]></description>
-            <link>https://www.ether.li/faq</link>
-            <guid isPermaLink="false">457158b0-1926-45c7-bbc4-5b1bd1fbefe9</guid>
-            <pubDate>Wed, 23 Mar 2016 19:10:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
