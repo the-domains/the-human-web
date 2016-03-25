@@ -4,7 +4,7 @@
         <description><![CDATA[thehumanweb]]></description>
         <link>https://thegrid.ai/the-human-web/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 25 Mar 2016 21:19:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2016 21:20:29 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-human-web/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[thehumanweb/notes]]></title>
@@ -12,6 +12,13 @@
             <link>https://github.com/thehumanweb/notes/wiki/InfoPackage</link>
             <guid isPermaLink="false">d567b2fe-b470-460c-aa79-ec5b5ae63788</guid>
             <pubDate>Sun, 06 Mar 2016 16:40:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d080eebb-6073-4c46-8ba6-c6f54072bc12.jpg">]]></description>
+            <link>http://consc.net/papers/extended.html</link>
+            <guid isPermaLink="false">141e8824-48d7-43e9-b7b6-eab9e9c75346</guid>
+            <pubDate>Fri, 25 Mar 2016 21:19:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Conflict-free replicated data type]]></title>
@@ -68,13 +75,6 @@
             <link>https://digitalbitbox.com/index</link>
             <guid isPermaLink="false">07adada2-7c6d-41cd-9eb9-86069ef9375a</guid>
             <pubDate>Fri, 25 Mar 2016 17:30:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Virtual Desktop on Steam]]></title>
-            <description><![CDATA[<article><h1>Virtual Desktop on Steam</h1><p>Virtual Desktop is an application developed for the Oculus Rift and HTC Vive that let's you use your computer in VR. You can browse the web, watch movies, Netflix or even play games on a giant virtual screen.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/27740174ecc36436184cb949ffaceec32091a2c8.jpg"></article>]]></description>
-            <link>http://store.steampowered.com/app/382110/?snr=1_5_9__205</link>
-            <guid isPermaLink="false">d1c07aa6-e4d3-4816-a1d2-5637f20f0b60</guid>
-            <pubDate>Fri, 25 Mar 2016 21:12:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
