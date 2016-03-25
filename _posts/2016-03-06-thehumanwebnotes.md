@@ -17,8 +17,8 @@ keywords:
   - technologies
   - idea
 description: 'We believe that a number of industry disrupting technologies are at our doorstep, exciting technologies that will allow us to connect in more effective and meaningful ways. We believe that with this comes an opportunity to rethink our technological path, to examine our way of life, and what it means to be a human in the 21st century.'
-datePublished: '2016-03-25T21:26:43.254Z'
-dateModified: '2016-03-25T21:26:34.902Z'
+datePublished: '2016-03-25T21:36:33.486Z'
+dateModified: '2016-03-25T21:36:17.662Z'
 author:
   - name: thehumanweb
     url: 'https://github.com/thehumanweb'
@@ -38,6 +38,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>thehumanweb&amp;sol;notes</h1><p>We believe that a number of industry disrupting technologies are at our doorstep&amp;comma; exciting technologies that will allow us to connect in more effective and meaningful ways&amp;period; We believe that with this comes an opportunity to rethink our technological path&amp;comma; to examine our way of life&amp;comma; and what it means to be a human in the 21st century&amp;period;</p><img src="https://avatars2.githubusercontent.com/u/15554340?v=3&amp;s=400" /></article>
-
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/54477380-a4ca-4ea8-92ed-7cb82a28174b.jpg)
