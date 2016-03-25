@@ -1,11 +1,10 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://dapps.ethercasts.com'
-  name: Ethercasts
-  favicon: 'http://dapps.ethercasts.com/favicon.ico'
-  domain: dapps.ethercasts.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://dapps.ethercasts.com/'
+inLanguage: en
+starred: false
 keywords:
   - dapps
   - ethereum
@@ -18,19 +17,24 @@ keywords:
   - contracts
   - pyramid
 description: A Curated Collection of Decentralized Apps
-inLanguage: en
+datePublished: '2016-03-25T17:19:10.059Z'
+dateModified: '2016-03-25T17:16:46.801Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://dapps.ethercasts.com/'
 title: State of the Dapps
-datePublished: '2016-03-25T17:02:52.900Z'
-dateModified: '2016-03-25T08:43:33.489Z'
 sourcePath: _posts/2016-03-25-state-of-the-dapps.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Ethercasts
+  domain: dapps.ethercasts.com
+  url: 'http://dapps.ethercasts.com'
+  favicon: 'http://dapps.ethercasts.com/favicon.ico'
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
 <article style=""><h1>State of the Dapps</h1><p>A Curated Collection of Decentralized Apps</p></article>
+
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c27261d6-9685-4b4a-9269-43a3243d5223.png)
