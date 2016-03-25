@@ -4,7 +4,7 @@
         <description><![CDATA[thehumanweb]]></description>
         <link>https://thegrid.ai/the-human-web/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 25 Mar 2016 21:14:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2016 21:15:19 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-human-web/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[thehumanweb/notes]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Sun, 06 Mar 2016 16:40:54 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Disrupting mobile]]></title>
+            <description><![CDATA[<article><h1>Disrupting mobile</h1><p>Until pretty recently, the PC ecosystem was the centre of gravity of the tech industry: it was where the investment and innovation was centred. It took that role away from mainframes, minicomputers and workstations slowly and in stages over the previous 30 years or so.</p></article>]]></description>
+            <link>https://t.co/j0kuuvIVTt</link>
+            <guid isPermaLink="false">4a2fb178-ed72-4e17-bd73-ce8f0cc785af</guid>
+            <pubDate>Fri, 25 Mar 2016 21:15:17 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Work is solving problems and learning is answering questions]]></title>
-            <description><![CDATA[<article><h1>Work is solving problems and learning is answering questions</h1><p>Studies predict that nearly half of all jobs and over 70% of low-skill jobs could be susceptible to computerization over the next two decades. Our chances of creating work for human beings in this new, demanding environment will be very limited if old and unjustified assumptions about what people can or can't do are not...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/db1cbb2d86a964aca0ec063bace356c039438f82.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Work is solving problems and learning is answering questions</h1><p>Studies predict that nearly half of all jobs and over 70% of low-skill jobs could be susceptible to computerization over the next two decades. Our chances of creating work for human beings in this new, demanding environment will be very limited if old and unjustified assumptions about what people can or can't do are not...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6775644edf10075b41fb84e0f1de6c0d1d3bcf18.jpg"></article>]]></description>
             <link>https://eskokilpi.wordpress.com/2015/08/31/work-is-solving-problems-and-learning-is-answering-questions/</link>
             <guid isPermaLink="false">ed613a31-455e-45a1-9e0b-e670720a710d</guid>
             <pubDate>Fri, 25 Mar 2016 21:13:34 GMT</pubDate>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>How does one test a DAO? - Slock.it Blog</h1><p>All of the DAO concepts introduced in the DAO white paper are indeed fascinating. Token holders making decisions, proposal deposits, DAO splits are all scenarios that can get quite complicated. Defining them and coding them up is one thing but how does one go about testing them?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/230236d0a1436530c36464c9b2e7aafb655d82fe.jpg"></article>]]></description>
             <link>https://blog.slock.it/how-does-one-test-a-dao-58edb53e8885#.jkpsfoc8g</link>
             <guid isPermaLink="false">abfc042e-d7e9-4d75-9a5c-03d3931f7055</guid>
-            <pubDate>Fri, 25 Mar 2016 17:02:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Turning your Raspberry PI Zero into a USB Gadget]]></title>
-            <description><![CDATA[<article><h1>Turning your Raspberry PI Zero into a USB Gadget</h1><p>When the Pi Zero came out, one of the downsides (!) of the low-cost design was swapping the 'standard' USB A-port for a micro-B port. Now you have to use an 'OTG' cable instead of just plugging in a device.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e5a222c3d7f79cd1dab08bb5165f4345750822d5.jpg"></article>]]></description>
-            <link>https://learn.adafruit.com/turning-your-raspberry-pi-zero-into-a-usb-gadget</link>
-            <guid isPermaLink="false">53b68c75-bd20-4df7-99d2-76b1f0c31bd1</guid>
             <pubDate>Fri, 25 Mar 2016 17:02:52 GMT</pubDate>
         </item>
     </channel>
