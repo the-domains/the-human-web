@@ -1,5 +1,19 @@
+name: thehumanweb
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.1597323624882847
+cta:
+  domain: null
+  bucket: null
+  version: null
 analytics:
   google: UA-75042725-1
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#ffffff'
@@ -9,11 +23,6 @@ color:
     - '#d7b0ca'
   brandStrength: 0.5625
   lightness: 0.991638
-  rhythmicContrast: 0.52661
   saturation: 0.14692
-cta: {}
-layout_spectrum: 0.74593
-name: thehumanweb
-opengraph: {}
+  rhythmicContrast: 0.52661
 purpose: []
-typography_spectrum: 0.1597323624882847
