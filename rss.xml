@@ -4,7 +4,7 @@
         <description><![CDATA[thehumanweb]]></description>
         <link>https://thegrid.ai/the-human-web/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 25 Mar 2016 21:15:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2016 21:16:52 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-human-web/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[thehumanweb/notes]]></title>
@@ -12,6 +12,13 @@
             <link>https://github.com/thehumanweb/notes/wiki/InfoPackage</link>
             <guid isPermaLink="false">d567b2fe-b470-460c-aa79-ec5b5ae63788</guid>
             <pubDate>Sun, 06 Mar 2016 16:40:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Contextual Runtimes]]></title>
+            <description><![CDATA[<article><h1>Contextual Runtimes</h1><p>Benedict Evans is such a great analyst and his insight into the web>mobile transition has been consistently prescient and helpful to investors, including USV and me personally. A couple days ago, he penned " 16 mobile thesis " which is a must read for anyone building a mobile/internet company or investing in that sector.</p></article>]]></description>
+            <link>http://avc.com/2015/12/contextual-runtimes/</link>
+            <guid isPermaLink="false">de7adc03-ed51-41a9-8f42-7cfdf312296e</guid>
+            <pubDate>Fri, 25 Mar 2016 21:16:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Disrupting mobile]]></title>
@@ -68,13 +75,6 @@
             <link>http://dapps.ethercasts.com/</link>
             <guid isPermaLink="false">f68e1946-68dd-44ba-ae19-5440d8d612c7</guid>
             <pubDate>Fri, 25 Mar 2016 17:19:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How does one test a DAO? - Slock.it Blog]]></title>
-            <description><![CDATA[<article><h1>How does one test a DAO? - Slock.it Blog</h1><p>All of the DAO concepts introduced in the DAO white paper are indeed fascinating. Token holders making decisions, proposal deposits, DAO splits are all scenarios that can get quite complicated. Defining them and coding them up is one thing but how does one go about testing them?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/230236d0a1436530c36464c9b2e7aafb655d82fe.jpg"></article>]]></description>
-            <link>https://blog.slock.it/how-does-one-test-a-dao-58edb53e8885#.jkpsfoc8g</link>
-            <guid isPermaLink="false">abfc042e-d7e9-4d75-9a5c-03d3931f7055</guid>
-            <pubDate>Fri, 25 Mar 2016 17:02:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
