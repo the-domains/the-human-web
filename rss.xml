@@ -4,7 +4,7 @@
         <description><![CDATA[thehumanweb]]></description>
         <link>https://thegrid.ai/the-human-web/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 25 Mar 2016 17:03:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2016 17:03:29 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-human-web/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[thehumanweb/notes]]></title>
@@ -12,13 +12,6 @@
             <link>https://github.com/thehumanweb/notes/wiki/InfoPackage</link>
             <guid isPermaLink="false">d567b2fe-b470-460c-aa79-ec5b5ae63788</guid>
             <pubDate>Sun, 06 Mar 2016 16:40:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[State of the Dapps]]></title>
-            <description><![CDATA[<article><h1>State of the Dapps</h1><p>A Curated Collection of Decentralized Apps</p></article>]]></description>
-            <link>http://dapps.ethercasts.com/</link>
-            <guid isPermaLink="false">f68e1946-68dd-44ba-ae19-5440d8d612c7</guid>
-            <pubDate>Fri, 25 Mar 2016 17:02:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How does one test a DAO? - Slock.it Blog]]></title>
@@ -75,6 +68,13 @@
             <link>https://thegrid.ai/the-human-web/blockchains-disintermediation-of-payment-processors-in-fint/index.html</link>
             <guid isPermaLink="false">f788ec7b-53a6-45fa-ab71-f2afd71e20f7</guid>
             <pubDate>Sat, 19 Mar 2016 12:07:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Achievements and White Paper Pre-ann]]></title>
+            <description><![CDATA[<article><h1>Achievements and White Paper Pre-ann</h1><p>This week, the Plutus Team is excited to announce several developments! Within the next month, we will be releasing the Plutus White Paper, along with a detailed project timeline in order to show our development so far as well as upcoming updates. The White Paper itself will provide a comprehensive resource that explains.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f569352bfa012280eec1b34d8d34fa9266f5935e.png"></article>]]></description>
+            <link>https://thegrid.ai/the-human-web/achievements-and-white-paper-pre-ann/index.html</link>
+            <guid isPermaLink="false">d38d3a66-dba7-4306-9957-86357088c5af</guid>
+            <pubDate>Sat, 19 Mar 2016 12:07:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
