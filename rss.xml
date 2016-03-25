@@ -4,7 +4,7 @@
         <description><![CDATA[thehumanweb]]></description>
         <link>https://thegrid.ai/the-human-web/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 25 Mar 2016 17:27:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2016 17:30:24 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-human-web/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[thehumanweb/notes]]></title>
@@ -12,6 +12,13 @@
             <link>https://github.com/thehumanweb/notes/wiki/InfoPackage</link>
             <guid isPermaLink="false">d567b2fe-b470-460c-aa79-ec5b5ae63788</guid>
             <pubDate>Sun, 06 Mar 2016 16:40:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Digital Bitbox | Minimalist Bitcoin hardware wallet]]></title>
+            <description><![CDATA[<article><h1>Digital Bitbox | Minimalist Bitcoin hardware wallet</h1><p>Digital Bitbox is a Bitcoin hardware wallet packed with security in a minimalist design. Safely hold and spend your coins with peace of mind. Learn more Video intro Buy now</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3f88fc3bbe2316f2846516e8df7688043d041347.png"></article>]]></description>
+            <link>https://digitalbitbox.com/index</link>
+            <guid isPermaLink="false">07adada2-7c6d-41cd-9eb9-86069ef9375a</guid>
+            <pubDate>Fri, 25 Mar 2016 17:30:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Virtual Desktop on Steam]]></title>
@@ -68,13 +75,6 @@
             <link>https://eskokilpi.wordpress.com/2015/08/31/work-is-solving-problems-and-learning-is-answering-questions/</link>
             <guid isPermaLink="false">ed613a31-455e-45a1-9e0b-e670720a710d</guid>
             <pubDate>Wed, 23 Mar 2016 17:13:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Real crypto-anarchy]]></title>
-            <description><![CDATA[<article><h1>Real crypto-anarchy</h1><p>По-русски: http://bitnovosti.com/2014/01/02/cryptoanarchy-and-anonymity/ Crypto-anarchy is not some crazy utopian ideology, but a very viable thing that unfolds in front of our eyes this very moment.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ffd6d5029ccc38cf2df467ec5c25282470f5f5f1.png"></article>]]></description>
-            <link>http://blog.oleganza.com/post/71410377996/real-crypto-anarchy</link>
-            <guid isPermaLink="false">a562b5d7-c649-4cca-8912-e59d9438d2df</guid>
-            <pubDate>Sat, 19 Mar 2016 23:06:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
