@@ -4,7 +4,7 @@
         <description><![CDATA[thehumanweb]]></description>
         <link>https://thegrid.ai/the-human-web/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 25 Mar 2016 17:30:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2016 19:30:28 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-human-web/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[thehumanweb/notes]]></title>
@@ -12,6 +12,13 @@
             <link>https://github.com/thehumanweb/notes/wiki/InfoPackage</link>
             <guid isPermaLink="false">d567b2fe-b470-460c-aa79-ec5b5ae63788</guid>
             <pubDate>Sun, 06 Mar 2016 16:40:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Parity]]></title>
+            <description><![CDATA[<article><h1>Parity</h1><p>To allow you to get our latest improvements as soon as possible, we aim to make our releases at a roughly 6-week cycle. We maintain three different releases at any one time; the stable release which is our most mature and tested software.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4a9175b6d838a4c999366a8bf6be658b67c58548.jpg"></article>]]></description>
+            <link>https://ethcore.io/parity.html</link>
+            <guid isPermaLink="false">439f556c-6691-4aee-893e-83a5413fa037</guid>
+            <pubDate>Fri, 25 Mar 2016 19:29:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Digital Bitbox | Minimalist Bitcoin hardware wallet]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.ether.li/faq</link>
             <guid isPermaLink="false">457158b0-1926-45c7-bbc4-5b1bd1fbefe9</guid>
             <pubDate>Wed, 23 Mar 2016 19:10:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Work is solving problems and learning is answering questions]]></title>
-            <description><![CDATA[<article><h1>Work is solving problems and learning is answering questions</h1><p>Studies predict that nearly half of all jobs and over 70% of low-skill jobs could be susceptible to computerization over the next two decades. Our chances of creating work for human beings in this new, demanding environment will be very limited if old and unjustified assumptions about what people can or can't do are not...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6775644edf10075b41fb84e0f1de6c0d1d3bcf18.jpg"></article>]]></description>
-            <link>https://eskokilpi.wordpress.com/2015/08/31/work-is-solving-problems-and-learning-is-answering-questions/</link>
-            <guid isPermaLink="false">ed613a31-455e-45a1-9e0b-e670720a710d</guid>
-            <pubDate>Wed, 23 Mar 2016 17:13:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
