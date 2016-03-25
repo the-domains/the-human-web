@@ -1,7 +1,7 @@
 name: thehumanweb
 favicon: null
 layout_spectrum: 0.6736
-typography_spectrum: 0.28824
+typography_spectrum: 0.57414
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#aa6858'
     - '#bb9b75'
     - '#262431'
-  brandStrength: 0
+  brandStrength: 0.3125
   lightness: 0.1875
   saturation: 0.25
   rhythmicContrast: 0.52661
