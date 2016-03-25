@@ -17,8 +17,8 @@ keywords:
   - genes
   - social
 description: "Studies predict that nearly half of all jobs and over 70% of low-skill jobs could be susceptible to computerization over the next two decades. Our chances of creating work for human beings in this new, demanding environment will be very limited if old and unjustified assumptions about what people can or can't do are not..."
-datePublished: '2016-03-25T21:13:34.690Z'
-dateModified: '2016-03-25T21:13:34.047Z'
+datePublished: '2016-03-25T21:28:47.306Z'
+dateModified: '2016-03-25T21:28:28.754Z'
 author:
   - name: eskokilpi
     url: null
@@ -45,6 +45,6 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Work is solving problems and learning is answering questions</h1><p>Studies predict that nearly half of all jobs and over 70% of low-skill jobs could be susceptible to computerization over the next two decades. Our chances of creating work for human beings in this new, demanding environment will be very limited if old and unjustified assumptions about what people can or can't do are not...</p><img src="https://s0.wp.com/i/blank.jpg" /></article>
-
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7230290f-684b-4b28-b4ac-947990933b48.jpg)
+
+<article style=""><h1>Work is solving problems and learning is answering questions</h1><p>Studies predict that nearly half of all jobs and over 70% of low-skill jobs could be susceptible to computerization over the next two decades. Our chances of creating work for human beings in this new, demanding environment will be very limited if old and unjustified assumptions about what people can or can't do are not...</p><img src="https://s0.wp.com/i/blank.jpg" /></article>
