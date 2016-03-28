@@ -4,7 +4,7 @@
         <description><![CDATA[thehumanweb]]></description>
         <link>https://thegrid.ai/the-human-web/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 25 Mar 2016 22:10:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2016 16:55:35 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-human-web/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[thehumanweb/notes]]></title>
@@ -12,6 +12,13 @@
             <link>https://github.com/thehumanweb/notes/wiki/InfoPackage</link>
             <guid isPermaLink="false">d567b2fe-b470-460c-aa79-ec5b5ae63788</guid>
             <pubDate>Fri, 25 Mar 2016 21:36:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Learn How to Build Your Own Open Source Hardware ESP8266 Smartwatch]]></title>
+            <description><![CDATA[<article><h1>Learn How to Build Your Own Open Source Hardware ESP8266 Smartwatch</h1><p>ESP8266 might be the cheapest WiFi SoC for IoT application available, but it's not really renowned for its power efficiency, and is often not considered the best choice for battery powered applications.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8e394a30f8ee419b90daa7333cae468550fe3326.jpg"></article>]]></description>
+            <link>http://www.cnx-software.com/2016/03/28/open-source-hardware-esp8266-smartwatch/</link>
+            <guid isPermaLink="false">2a67809a-e41f-4248-9678-77d21b62593b</guid>
+            <pubDate>Mon, 28 Mar 2016 16:55:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Fifth Protocol]]></title>
@@ -68,13 +75,6 @@
             <link>http://avc.com/2015/12/contextual-runtimes/</link>
             <guid isPermaLink="false">de7adc03-ed51-41a9-8f42-7cfdf312296e</guid>
             <pubDate>Fri, 25 Mar 2016 21:16:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Disrupting mobile]]></title>
-            <description><![CDATA[<article><h1>Disrupting mobile</h1><p>Until pretty recently, the PC ecosystem was the centre of gravity of the tech industry: it was where the investment and innovation was centred. It took that role away from mainframes, minicomputers and workstations slowly and in stages over the previous 30 years or so.</p></article>]]></description>
-            <link>https://t.co/j0kuuvIVTt</link>
-            <guid isPermaLink="false">4a2fb178-ed72-4e17-bd73-ce8f0cc785af</guid>
-            <pubDate>Fri, 25 Mar 2016 21:15:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
