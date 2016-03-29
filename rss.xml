@@ -4,7 +4,7 @@
         <description><![CDATA[thehumanweb]]></description>
         <link>https://thegrid.ai/the-human-web/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 28 Mar 2016 16:55:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2016 17:05:32 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-human-web/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[thehumanweb/notes]]></title>
@@ -12,6 +12,13 @@
             <link>https://github.com/thehumanweb/notes/wiki/InfoPackage</link>
             <guid isPermaLink="false">d567b2fe-b470-460c-aa79-ec5b5ae63788</guid>
             <pubDate>Fri, 25 Mar 2016 21:36:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Mastermind]]></title>
+            <description><![CDATA[<article><h1>The Mastermind</h1><p>A seven-part look at how a brilliant programmer and criminal kingpin became a prized U.S. government asset.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f414e4e0978a5dfe00cd110b1a471ccac095d604.jpg"></article>]]></description>
+            <link>https://mastermind.atavist.com/</link>
+            <guid isPermaLink="false">58afdba7-79ec-442e-b3bb-e1a8b3bb8c3a</guid>
+            <pubDate>Tue, 29 Mar 2016 17:05:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Learn How to Build Your Own Open Source Hardware ESP8266 Smartwatch]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.lukew.com/ff/entry.asp?1958</link>
             <guid isPermaLink="false">5ccdb0a4-bd59-4fd3-939b-13a2a72ca9de</guid>
             <pubDate>Fri, 25 Mar 2016 21:17:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Contextual Runtimes]]></title>
-            <description><![CDATA[<article><h1>Contextual Runtimes</h1><p>Benedict Evans is such a great analyst and his insight into the web>mobile transition has been consistently prescient and helpful to investors, including USV and me personally. A couple days ago, he penned " 16 mobile thesis " which is a must read for anyone building a mobile/internet company or investing in that sector.</p></article>]]></description>
-            <link>http://avc.com/2015/12/contextual-runtimes/</link>
-            <guid isPermaLink="false">de7adc03-ed51-41a9-8f42-7cfdf312296e</guid>
-            <pubDate>Fri, 25 Mar 2016 21:16:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
