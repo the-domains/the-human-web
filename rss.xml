@@ -4,7 +4,7 @@
         <description><![CDATA[thehumanweb]]></description>
         <link>https://thegrid.ai/the-human-web/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 29 Mar 2016 20:25:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2016 14:43:31 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-human-web/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[thehumanweb/notes]]></title>
@@ -12,6 +12,20 @@
             <link>https://github.com/thehumanweb/notes/wiki/InfoPackage</link>
             <guid isPermaLink="false">d567b2fe-b470-460c-aa79-ec5b5ae63788</guid>
             <pubDate>Fri, 25 Mar 2016 21:36:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why we should fear a cashless world | Dominic Frisby]]></title>
+            <description><![CDATA[<article><h1>Why we should fear a cashless world | Dominic Frisby</h1><p>The health food chain Tossed has just opened the UK's first cashless cafe. It's another step towards the death of cash. This is nothing new. Money is tech. The casting of coins made shells, whales' teeth and other such primitive forms of money redundant.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/391b10850b1ca256325c3afb7446effce1ac958b.jpg"></article>]]></description>
+            <link>https://t.co/HNmT0L0Q0Y</link>
+            <guid isPermaLink="false">928d92a1-a89b-4b6c-9301-ec8dd8d0ae13</guid>
+            <pubDate>Wed, 30 Mar 2016 14:42:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Publishing ATM source code]]></title>
+            <description><![CDATA[<article><h1>Publishing ATM source code</h1><p>Our friend Kobi decided to open the source code of the first ever Ethereum ATM : here is his update: The github repository contains the Trofa Lamassu modifications required to support Ether. This code...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/79928f0c2493496383b3472a236b4cfcdab4e0a5.png"></article>]]></description>
+            <link>http://blog.ether.camp/post/141951115648/publishing-atm-source-code</link>
+            <guid isPermaLink="false">4f8f5ab6-ae97-46b9-9178-582dd7ec427e</guid>
+            <pubDate>Wed, 30 Mar 2016 14:42:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Intensions Study: The Future of Work]]></title>
@@ -61,20 +75,6 @@
             <link>http://tools.ietf.org/search/draft-grothoff-iesg-special-use-p2p-names-01</link>
             <guid isPermaLink="false">88acd6f2-3b62-4c99-8f59-4897f8d84563</guid>
             <pubDate>Fri, 25 Mar 2016 21:22:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d080eebb-6073-4c46-8ba6-c6f54072bc12.jpg">]]></description>
-            <link>http://consc.net/papers/extended.html</link>
-            <guid isPermaLink="false">141e8824-48d7-43e9-b7b6-eab9e9c75346</guid>
-            <pubDate>Fri, 25 Mar 2016 21:19:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Conflict-free replicated data type]]></title>
-            <description><![CDATA[<article><h1>Conflict-free replicated data type</h1><p>In distributed computing, a conflict-free replicated data type (abbreviated CRDT) is a type of specially-designed data structure used to achieve strong eventual consistency (SEC) and monotonicity (absence of rollbacks). There are two alternative routes to ensuring SEC: operation-based CRDTs and state-based CRDTs.</p></article>]]></description>
-            <link>https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type</link>
-            <guid isPermaLink="false">a2e6cc44-d99c-4ffb-908a-134538ea71cb</guid>
-            <pubDate>Fri, 25 Mar 2016 21:18:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
