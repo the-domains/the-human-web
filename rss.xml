@@ -4,7 +4,7 @@
         <description><![CDATA[thehumanweb]]></description>
         <link>https://thegrid.ai/the-human-web/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 31 Mar 2016 16:27:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2016 16:27:56 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-human-web/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[thehumanweb/notes]]></title>
@@ -12,6 +12,13 @@
             <link>https://github.com/thehumanweb/notes/wiki/InfoPackage</link>
             <guid isPermaLink="false">d567b2fe-b470-460c-aa79-ec5b5ae63788</guid>
             <pubDate>Fri, 25 Mar 2016 21:36:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Proving Your Bitcoin Reserves]]></title>
+            <description><![CDATA[<article><h1>Proving Your Bitcoin Reserves</h1><p>Posted: 2014-02-27 Seeing as Coindesk are pointing to this with the link text "Greg Maxwell", I'd like to make clear from the outset: this page is just Zak Wilcox (me) describing Greg's idea using more words and diagrams. I also wrote one of the implementations of it, and helped develop an informal standard for it.</p></article>]]></description>
+            <link>https://iwilcox.me.uk/2014/proving-bitcoin-reserves</link>
+            <guid isPermaLink="false">27eb1cd9-f64d-41f9-a105-6b281ade5237</guid>
+            <pubDate>Thu, 31 Mar 2016 16:27:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How to avoid simplistic conversations on disruption?]]></title>
@@ -68,13 +75,6 @@
             <link>http://store.steampowered.com/app/382110/?snr=1_5_9__205</link>
             <guid isPermaLink="false">d1c07aa6-e4d3-4816-a1d2-5637f20f0b60</guid>
             <pubDate>Fri, 25 Mar 2016 21:30:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Accelerando]]></title>
-            <description><![CDATA[<article><h1>Accelerando</h1><p>This free ebook edition is made available by kind consent of my publishers, Ace and Orbit, under a Creative Commons license with certain restrictions attached. In particular, you may not create derivative works or use the work for commercial gain.</p></article>]]></description>
-            <link>http://www.antipope.org/charlie/blog-static/fiction/accelerando/accelerando-intro.html</link>
-            <guid isPermaLink="false">3273ad20-b7d5-449d-b628-262753ea5f57</guid>
-            <pubDate>Fri, 25 Mar 2016 21:25:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
