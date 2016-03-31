@@ -4,7 +4,7 @@
         <description><![CDATA[thehumanweb]]></description>
         <link>https://thegrid.ai/the-human-web/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 31 Mar 2016 16:32:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2016 20:09:41 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-human-web/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[thehumanweb/notes]]></title>
@@ -12,6 +12,13 @@
             <link>https://github.com/thehumanweb/notes/wiki/InfoPackage</link>
             <guid isPermaLink="false">d567b2fe-b470-460c-aa79-ec5b5ae63788</guid>
             <pubDate>Fri, 25 Mar 2016 21:36:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why Greeks are ditching the euro for digital barter systems]]></title>
+            <description><![CDATA[<article><h1>Why Greeks are ditching the euro for digital barter systems</h1><p>By When Makis Gounaris, a financial consultant based in Athens, decided to hire Spartan Security Ltd. to protect his apartment in September, he was told to choose from three payment options: cash, credit, or barter. Gounaris paid his entire bill in "TradePoints" using Greek barter network TradeNow.</p><img src="http://ei.marketwatch.com//Multimedia/2016/03/03/Photos/NS/MW-EH106_Sparta_20160303171402_NS.jpg?uuid=3cac9f58-e18d-11e5-8efe-0015c588e0f6"></article>]]></description>
+            <link>http://www.marketwatch.com/story/a-lab-for-cashless-living-has-grown-out-of-greeces-financial-crisis-2016-03-29</link>
+            <guid isPermaLink="false">668d035b-b555-4c97-a773-4e93fdb0c8a9</guid>
+            <pubDate>Thu, 31 Mar 2016 20:08:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Proving Your Bitcoin Reserves]]></title>
@@ -68,13 +75,6 @@
             <link>http://startupboy.com/2014/04/01/the-fifth-protocol/</link>
             <guid isPermaLink="false">4a147b4a-4183-4771-8f93-61be8210b1ee</guid>
             <pubDate>Fri, 25 Mar 2016 22:10:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Virtual Desktop on Steam]]></title>
-            <description><![CDATA[<article><h1>Virtual Desktop on Steam</h1><p>Virtual Desktop is an application developed for the Oculus Rift and HTC Vive that let's you use your computer in VR. You can browse the web, watch movies, Netflix or even play games on a giant virtual screen.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7528336d-a907-43b6-9093-559ff669e525.jpg"></article>]]></description>
-            <link>http://store.steampowered.com/app/382110/?snr=1_5_9__205</link>
-            <guid isPermaLink="false">d1c07aa6-e4d3-4816-a1d2-5637f20f0b60</guid>
-            <pubDate>Fri, 25 Mar 2016 21:30:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
