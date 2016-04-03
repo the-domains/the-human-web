@@ -4,7 +4,7 @@
         <description><![CDATA[thehumanweb]]></description>
         <link>https://thegrid.ai/the-human-web/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 31 Mar 2016 20:09:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Apr 2016 16:47:50 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-human-web/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[thehumanweb/notes]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Fri, 25 Mar 2016 21:36:33 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Anti-Sybil Protocol using virtual Pseudonym Parties]]></title>
+            <description><![CDATA[<article><h1>Anti-Sybil Protocol using virtual Pseudonym Parties</h1><p>The Proof-of-Individuality (POI) protocol is an anti-sybil protocol based on Bryan Ford's pseudonym parties (2008) Global meet-up events happen simultaneously across the world, continuously throughout the year. The proof is based on the fact that you cannot be in two places at once.</p><img src="https://cdn-images-1.medium.com/max/800/1*cQp5WnA6aX-n7sXBklxDgA.png"></article>]]></description>
+            <link>https://thegrid.ai/the-human-web/anti-sybil-protocol-using-virtual-pseudonym-parties/index.html</link>
+            <guid isPermaLink="false">5eb0badf-2fa0-4220-8595-0f77089ab332</guid>
+            <pubDate>Sun, 03 Apr 2016 16:46:43 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Why Greeks are ditching the euro for digital barter systems]]></title>
-            <description><![CDATA[<article><h1>Why Greeks are ditching the euro for digital barter systems</h1><p>By When Makis Gounaris, a financial consultant based in Athens, decided to hire Spartan Security Ltd. to protect his apartment in September, he was told to choose from three payment options: cash, credit, or barter. Gounaris paid his entire bill in "TradePoints" using Greek barter network TradeNow.</p><img src="http://ei.marketwatch.com//Multimedia/2016/03/03/Photos/NS/MW-EH106_Sparta_20160303171402_NS.jpg?uuid=3cac9f58-e18d-11e5-8efe-0015c588e0f6"></article>]]></description>
+            <description><![CDATA[<article><h1>Why Greeks are ditching the euro for digital barter systems</h1><p>By When Makis Gounaris, a financial consultant based in Athens, decided to hire Spartan Security Ltd. to protect his apartment in September, he was told to choose from three payment options: cash, credit, or barter. Gounaris paid his entire bill in "TradePoints" using Greek barter network TradeNow.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e35446363ee6db31954927c954ef976744e2946b.jpg"></article>]]></description>
             <link>http://www.marketwatch.com/story/a-lab-for-cashless-living-has-grown-out-of-greeces-financial-crisis-2016-03-29</link>
             <guid isPermaLink="false">668d035b-b555-4c97-a773-4e93fdb0c8a9</guid>
             <pubDate>Thu, 31 Mar 2016 20:08:52 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://www.cnx-software.com/2016/03/28/open-source-hardware-esp8266-smartwatch/</link>
             <guid isPermaLink="false">2a67809a-e41f-4248-9678-77d21b62593b</guid>
             <pubDate>Mon, 28 Mar 2016 16:55:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Fifth Protocol]]></title>
-            <description><![CDATA[<article><h1>The Fifth Protocol</h1><p>"Wait a minute... Make up your mind. This Snow Crash thing-is it a virus, a drug, or a religion?" Juanita shrugs. "What's the difference?" - Snow Crash Cryptocurrencies will create a fifth protocol layer powering the next generation of the Internet. Humans don't *need* math-based cryptocurrencies when dealing with other humans.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/334e6f26a27868da2d99258bfceb234c0b2f1842.jpg"></article>]]></description>
-            <link>http://startupboy.com/2014/04/01/the-fifth-protocol/</link>
-            <guid isPermaLink="false">4a147b4a-4183-4771-8f93-61be8210b1ee</guid>
-            <pubDate>Fri, 25 Mar 2016 22:10:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
