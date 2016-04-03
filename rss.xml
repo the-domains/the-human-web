@@ -4,7 +4,7 @@
         <description><![CDATA[thehumanweb]]></description>
         <link>https://thegrid.ai/the-human-web/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 03 Apr 2016 16:47:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Apr 2016 16:48:58 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-human-web/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[thehumanweb/notes]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Fri, 25 Mar 2016 21:36:33 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[New Indoor Positioning System Tracks Your Phone Using Sound Waves]]></title>
+            <description><![CDATA[<article><h1>New Indoor Positioning System Tracks Your Phone Using Sound Waves</h1><p>As impressive as GPS and other radio signal-based positioning technologies are, they pretty much all crap out once the device-to-be-localised is inside. This is just a fundamental property of radio waves-put something solid enough, such as most building materials, in front of them and they will attenuate.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/50ed43c71271b434e7d7107e1a1df8bc0f3d1184.jpg"></article>]]></description>
+            <link>http://motherboard.vice.com/read/guoguo-is-a-new-indoor-smart-phone-localization-acoustic-gps</link>
+            <guid isPermaLink="false">964c26e6-0385-45d4-a7f6-f228da0085e6</guid>
+            <pubDate>Sun, 03 Apr 2016 16:48:57 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Anti-Sybil Protocol using virtual Pseudonym Parties]]></title>
-            <description><![CDATA[<article><h1>Anti-Sybil Protocol using virtual Pseudonym Parties</h1><p>The Proof-of-Individuality (POI) protocol is an anti-sybil protocol based on Bryan Ford's pseudonym parties (2008) Global meet-up events happen simultaneously across the world, continuously throughout the year. The proof is based on the fact that you cannot be in two places at once.</p><img src="https://cdn-images-1.medium.com/max/800/1*cQp5WnA6aX-n7sXBklxDgA.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Anti-Sybil Protocol using virtual Pseudonym Parties</h1><p>The Proof-of-Individuality (POI) protocol is an anti-sybil protocol based on Bryan Ford's pseudonym parties (2008) Global meet-up events happen simultaneously across the world, continuously throughout the year. The proof is based on the fact that you cannot be in two places at once.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3f94e7840cdb90056bcf0ec30841022b435151fd.png"></article>]]></description>
             <link>https://thegrid.ai/the-human-web/anti-sybil-protocol-using-virtual-pseudonym-parties/index.html</link>
             <guid isPermaLink="false">5eb0badf-2fa0-4220-8595-0f77089ab332</guid>
             <pubDate>Sun, 03 Apr 2016 16:46:43 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://mastermind.atavist.com/</link>
             <guid isPermaLink="false">58afdba7-79ec-442e-b3bb-e1a8b3bb8c3a</guid>
             <pubDate>Tue, 29 Mar 2016 17:05:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Learn How to Build Your Own Open Source Hardware ESP8266 Smartwatch]]></title>
-            <description><![CDATA[<article><h1>Learn How to Build Your Own Open Source Hardware ESP8266 Smartwatch</h1><p>ESP8266 might be the cheapest WiFi SoC for IoT application available, but it's not really renowned for its power efficiency, and is often not considered the best choice for battery powered applications.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8e394a30f8ee419b90daa7333cae468550fe3326.jpg"></article>]]></description>
-            <link>http://www.cnx-software.com/2016/03/28/open-source-hardware-esp8266-smartwatch/</link>
-            <guid isPermaLink="false">2a67809a-e41f-4248-9678-77d21b62593b</guid>
-            <pubDate>Mon, 28 Mar 2016 16:55:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
