@@ -4,7 +4,7 @@
         <description><![CDATA[thehumanweb]]></description>
         <link>https://thegrid.ai/the-human-web/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Apr 2016 13:01:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Apr 2016 13:04:38 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-human-web/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[thehumanweb/notes]]></title>
@@ -12,6 +12,13 @@
             <link>https://github.com/thehumanweb/notes/wiki/InfoPackage</link>
             <guid isPermaLink="false">d567b2fe-b470-460c-aa79-ec5b5ae63788</guid>
             <pubDate>Fri, 25 Mar 2016 21:36:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Stored Value Facilities]]></title>
+            <description><![CDATA[<article><h1>Stored Value Facilities</h1><p>A Stored Value Facility (SVF) is a form of prepaid electronic cash or card that can be used within the system of the SVF issuer. The SVF issuer is known as the holder of the stored value. Some electronic SVFs are also known as e-money.</p><img src="http://www.mas.gov.sg/~/media/Images/logo_sgs.ashx"></article>]]></description>
+            <link>http://www.mas.gov.sg/singapore-financial-centre/payment-and-settlement-systems/payment-media/stored-value-facilities.aspx</link>
+            <guid isPermaLink="false">f32275c2-2b2a-4de4-a1c4-9b680870c26a</guid>
+            <pubDate>Sat, 09 Apr 2016 13:04:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Programmable blockchains in context: Ethereum's Future]]></title>
@@ -68,13 +75,6 @@
             <link>http://blog.ether.camp/post/141951115648/publishing-atm-source-code</link>
             <guid isPermaLink="false">4f8f5ab6-ae97-46b9-9178-582dd7ec427e</guid>
             <pubDate>Wed, 30 Mar 2016 14:42:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Intensions Study: The Future of Work]]></title>
-            <description><![CDATA[<article><h1>Intensions Study: The Future of Work</h1><p>A new study by Intensions Consulting and Nikolas Badminton has examined the future of work across Canada - and the findings suggest some challenges ahead. The study, which surveyed 2299 adults across Canada, found that a quarter (26%) of Canadian adults believe an unbiased computer program would be more trustworthy and ethical than their workplace leaders and managers.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/579d1b7b61aa26b51ba82f9b182b92b0cb0e7086.jpg"></article>]]></description>
-            <link>http://www.intensions.co/news/2016/3/29/intensions-future-of-work</link>
-            <guid isPermaLink="false">fb12cf76-b377-47de-a2ce-f9324602f02e</guid>
-            <pubDate>Tue, 29 Mar 2016 20:25:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
