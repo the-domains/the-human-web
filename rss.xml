@@ -4,7 +4,7 @@
         <description><![CDATA[thehumanweb]]></description>
         <link>https://thegrid.ai/the-human-web/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 03 Apr 2016 16:48:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Apr 2016 13:01:48 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-human-web/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[thehumanweb/notes]]></title>
@@ -12,6 +12,13 @@
             <link>https://github.com/thehumanweb/notes/wiki/InfoPackage</link>
             <guid isPermaLink="false">d567b2fe-b470-460c-aa79-ec5b5ae63788</guid>
             <pubDate>Fri, 25 Mar 2016 21:36:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Programmable blockchains in context: Ethereum's Future]]></title>
+            <description><![CDATA[<article><h1>Programmable blockchains in context: Ethereum's Future</h1><p>Spanish version By the end of this article, you're going to understand blockchains in general (and Ethereum, a next-generation blockchain platform, in particular) well enough to decide what they mean to your life. Ethereum brings up strong emotions. Some have compared it to SkyNet, the distributed artificial intelligence of the Terminator movies.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/32bb104c9f2e515174cb9b5370e252885df954d6.png"></article>]]></description>
+            <link>https://thegrid.ai/the-human-web/programmable-blockchains-in-context-ethereums-future/index.html</link>
+            <guid isPermaLink="false">f1a70845-8c27-45f9-9e0f-1889832776f3</guid>
+            <pubDate>Sat, 09 Apr 2016 13:01:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[New Indoor Positioning System Tracks Your Phone Using Sound Waves]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.intensions.co/news/2016/3/29/intensions-future-of-work</link>
             <guid isPermaLink="false">fb12cf76-b377-47de-a2ce-f9324602f02e</guid>
             <pubDate>Tue, 29 Mar 2016 20:25:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Mastermind]]></title>
-            <description><![CDATA[<article><h1>The Mastermind</h1><p>A seven-part look at how a brilliant programmer and criminal kingpin became a prized U.S. government asset.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f414e4e0978a5dfe00cd110b1a471ccac095d604.jpg"></article>]]></description>
-            <link>https://mastermind.atavist.com/</link>
-            <guid isPermaLink="false">58afdba7-79ec-442e-b3bb-e1a8b3bb8c3a</guid>
-            <pubDate>Tue, 29 Mar 2016 17:05:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
