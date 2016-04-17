@@ -4,7 +4,7 @@
         <description><![CDATA[thehumanweb]]></description>
         <link>https://thegrid.ai/the-human-web/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Apr 2016 13:13:10 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Apr 2016 11:47:22 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-human-web/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[thehumanweb/notes]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Fri, 25 Mar 2016 21:36:33 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[LRB · John Lanchester · When Bitcoin Grows Up: What is Money?]]></title>
+            <description><![CDATA[<article><h1>LRB · John Lanchester · When Bitcoin Grows Up: What is Money?</h1><p>It's impossible to discuss new developments in money without thinking for a moment about what money is. The best place to start thinking about that is with money itself. Consider the UK's most common paper money, the English five or ten or twenty quid note. On one side we have a famous .</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2bf3a15d3daa695d14581bf73262849b20c644a4.jpg"></article>]]></description>
+            <link>http://www.lrb.stfi.re/v38/n08/john-lanchester/when-bitcoin-grows-up?sf=jnzgga</link>
+            <guid isPermaLink="false">02ea56ba-1d1c-47f9-9b94-2b3eac87e677</guid>
+            <pubDate>Sun, 17 Apr 2016 11:46:34 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Programmable blockchains in context: Ethereum's Future]]></title>
-            <description><![CDATA[<article><h1>Programmable blockchains in context: Ethereum's Future</h1><p>Spanish version By the end of this article, you're going to understand blockchains in general (and Ethereum, a next-generation blockchain platform, in particular) well enough to decide what they mean to your life. Ethereum brings up strong emotions. Some have compared it to SkyNet, the distributed artificial intelligence of the Terminator movies.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/32bb104c9f2e515174cb9b5370e252885df954d6.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Programmable blockchains in context: Ethereum's Future</h1><p>Spanish version By the end of this article, you're going to understand blockchains in general (and Ethereum, a next-generation blockchain platform, in particular) well enough to decide what they mean to your life. Ethereum brings up strong emotions. Some have compared it to SkyNet, the distributed artificial intelligence of the Terminator movies.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dc3322c7009b85435a1aff1550fa55df06135f21.png"></article>]]></description>
             <link>https://thegrid.ai/the-human-web/programmable-blockchains-in-context-ethereums-future/index.html</link>
             <guid isPermaLink="false">f1a70845-8c27-45f9-9e0f-1889832776f3</guid>
             <pubDate>Sat, 09 Apr 2016 13:01:46 GMT</pubDate>
