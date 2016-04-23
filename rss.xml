@@ -4,7 +4,7 @@
         <description><![CDATA[thehumanweb]]></description>
         <link>https://thegrid.ai/the-human-web/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Apr 2016 16:41:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Apr 2016 16:41:54 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-human-web/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[thehumanweb/notes]]></title>
@@ -12,6 +12,13 @@
             <link>https://github.com/thehumanweb/notes/wiki/InfoPackage</link>
             <guid isPermaLink="false">d567b2fe-b470-460c-aa79-ec5b5ae63788</guid>
             <pubDate>Fri, 25 Mar 2016 21:36:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[OpenLedger - Welcome]]></title>
+            <description><![CDATA[<article><h1>OpenLedger - Welcome</h1><p>Loading... The most powerful decentralized financial crypto-platform in the entire world. Provided by BitShares Powered by Graphene OpenLedger allows you to convert bitcoin to fiat-pegged SmartCoins instantly or by limit order. SmartCoins can be withdrawn directly to cash via NanoCard, PayPal, Ripple gateway or money transfer. Only those you authorize can see your accounts.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e241cf56fddfffb59532c3fb0900729651d61f29.png"></article>]]></description>
+            <link>https://www.openledger.info/</link>
+            <guid isPermaLink="false">e906f79f-b9a7-4ebd-aeca-077c43813174</guid>
+            <pubDate>Sat, 23 Apr 2016 16:41:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Digital Gold 'Done Right' With DigixDAO Crypto-Trading On OpenLedger]]></title>
@@ -68,13 +75,6 @@
             <link>https://iwilcox.me.uk/2014/proving-bitcoin-reserves</link>
             <guid isPermaLink="false">27eb1cd9-f64d-41f9-a105-6b281ade5237</guid>
             <pubDate>Thu, 31 Mar 2016 16:32:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to avoid simplistic conversations on disruption?]]></title>
-            <description><![CDATA[<article><h1>How to avoid simplistic conversations on disruption?</h1><p>This post is about some of the myopic views on disruption in financial services (or any other vertical for that argument), and why I am getting a bit tired of FinTech, RegTech, InsurTech, or whatever AbcTech you may come up with. Disrupted - Petervan Artwork - Acryl on Paper format A1 Most of the...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4dd350a8e0744fa29835f495b3529c699b9862ca.jpg"></article>]]></description>
-            <link>https://petervan.wordpress.com/2016/03/21/forward-compatibility/</link>
-            <guid isPermaLink="false">8cc5177b-5277-43cd-a119-f7ee601a087d</guid>
-            <pubDate>Thu, 31 Mar 2016 16:27:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
