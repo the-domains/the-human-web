@@ -4,7 +4,7 @@
         <description><![CDATA[thehumanweb]]></description>
         <link>https://thegrid.ai/the-human-web/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Apr 2016 19:44:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Apr 2016 16:41:21 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-human-web/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[thehumanweb/notes]]></title>
@@ -12,6 +12,13 @@
             <link>https://github.com/thehumanweb/notes/wiki/InfoPackage</link>
             <guid isPermaLink="false">d567b2fe-b470-460c-aa79-ec5b5ae63788</guid>
             <pubDate>Fri, 25 Mar 2016 21:36:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Digital Gold 'Done Right' With DigixDAO Crypto-Trading On OpenLedger]]></title>
+            <description><![CDATA[<article><h1>Digital Gold 'Done Right' With DigixDAO Crypto-Trading On OpenLedger</h1><p>The idea of digital gold is nothing new. Essentially it's a development of representative money back in the days of the gold standard. Instead of handing over pieces of gold, which are cumbersome to transact and risky to transport and store, instead one would hand over a piece of paper [...]</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c9bf526a2d2444c969f4ce02b88e398907063301.jpg"></article>]]></description>
+            <link>http://www.forbes.com/sites/rogeraitken/2016/04/23/digital-gold-done-right-with-digixdao-crypto-trading-on-openledger/#7ad291194cf6</link>
+            <guid isPermaLink="false">c881a07f-838c-485f-8339-4cb85d402c2a</guid>
+            <pubDate>Sat, 23 Apr 2016 16:41:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Universal Payment Channels]]></title>
@@ -68,13 +75,6 @@
             <link>https://petervan.wordpress.com/2016/03/21/forward-compatibility/</link>
             <guid isPermaLink="false">8cc5177b-5277-43cd-a119-f7ee601a087d</guid>
             <pubDate>Thu, 31 Mar 2016 16:27:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why we should fear a cashless world | Dominic Frisby]]></title>
-            <description><![CDATA[<article><h1>Why we should fear a cashless world | Dominic Frisby</h1><p>The health food chain Tossed has just opened the UK's first cashless cafe. It's another step towards the death of cash. This is nothing new. Money is tech. The casting of coins made shells, whales' teeth and other such primitive forms of money redundant.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/391b10850b1ca256325c3afb7446effce1ac958b.jpg"></article>]]></description>
-            <link>https://t.co/HNmT0L0Q0Y</link>
-            <guid isPermaLink="false">928d92a1-a89b-4b6c-9301-ec8dd8d0ae13</guid>
-            <pubDate>Wed, 30 Mar 2016 14:42:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
