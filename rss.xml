@@ -4,7 +4,7 @@
         <description><![CDATA[thehumanweb]]></description>
         <link>https://thegrid.ai/the-human-web/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Apr 2016 16:41:54 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2016 08:41:37 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-human-web/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[thehumanweb/notes]]></title>
@@ -12,6 +12,13 @@
             <link>https://github.com/thehumanweb/notes/wiki/InfoPackage</link>
             <guid isPermaLink="false">d567b2fe-b470-460c-aa79-ec5b5ae63788</guid>
             <pubDate>Fri, 25 Mar 2016 21:36:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rights and Obligations in and out of blockchains - Stake Ventures]]></title>
+            <description><![CDATA[<article><h1>Rights and Obligations in and out of blockchains - Stake Ventures</h1><p>Rights and Obligations are the 2 most fundamental building blocks of trade and finance. Contracts exist to protect rights and enforce obligations. Trade consists of trading one right or obligation for another.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e232a62969b671393e5fa1e7b459d9721eb84c53.jpg"></article>]]></description>
+            <link>https://blog.stakeventures.com/articles/rights-and-obligations-in-blockchains</link>
+            <guid isPermaLink="false">d20564d2-e884-4584-add7-1e7c6c899d6b</guid>
+            <pubDate>Sun, 24 Apr 2016 08:41:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[OpenLedger - Welcome]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.marketwatch.com/story/a-lab-for-cashless-living-has-grown-out-of-greeces-financial-crisis-2016-03-29</link>
             <guid isPermaLink="false">668d035b-b555-4c97-a773-4e93fdb0c8a9</guid>
             <pubDate>Thu, 31 Mar 2016 20:08:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Proving Your Bitcoin Reserves]]></title>
-            <description><![CDATA[<article><h1>Proving Your Bitcoin Reserves</h1><p>Posted: 2014-02-27 Seeing as Coindesk are pointing to this with the link text "Greg Maxwell", I'd like to make clear from the outset: this page is just Zak Wilcox (me) describing Greg's idea using more words and diagrams. I also wrote one of the implementations of it, and helped develop an informal standard for it.</p></article>]]></description>
-            <link>https://iwilcox.me.uk/2014/proving-bitcoin-reserves</link>
-            <guid isPermaLink="false">27eb1cd9-f64d-41f9-a105-6b281ade5237</guid>
-            <pubDate>Thu, 31 Mar 2016 16:32:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
