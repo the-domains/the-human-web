@@ -4,7 +4,7 @@
         <description><![CDATA[thehumanweb]]></description>
         <link>https://thegrid.ai/the-human-web/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 30 Apr 2016 13:44:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Apr 2016 13:45:04 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-human-web/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[thehumanweb/notes]]></title>
@@ -12,6 +12,13 @@
             <link>https://github.com/thehumanweb/notes/wiki/InfoPackage</link>
             <guid isPermaLink="false">d567b2fe-b470-460c-aa79-ec5b5ae63788</guid>
             <pubDate>Fri, 25 Mar 2016 21:36:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The DAO - Home]]></title>
+            <description><![CDATA[<article><h1>The DAO - Home</h1><p>The DAO - the first Decentralized Autonomous Organization on the Ethereum blockchain</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/af4b84ea9462c43c9214e586bfa387f940e6e171.png"></article>]]></description>
+            <link>https://daohub.org/index.html</link>
+            <guid isPermaLink="false">15435752-03c0-413e-9783-71c747cdf1c1</guid>
+            <pubDate>Sat, 30 Apr 2016 13:44:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[UK Government Awards £248k for Ethereum Prototype - CoinDesk]]></title>
@@ -68,13 +75,6 @@
             <link>http://motherboard.vice.com/read/guoguo-is-a-new-indoor-smart-phone-localization-acoustic-gps</link>
             <guid isPermaLink="false">964c26e6-0385-45d4-a7f6-f228da0085e6</guid>
             <pubDate>Sun, 03 Apr 2016 16:48:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Anti-Sybil Protocol using virtual Pseudonym Parties]]></title>
-            <description><![CDATA[<article><h1>Anti-Sybil Protocol using virtual Pseudonym Parties</h1><p>The Proof-of-Individuality (POI) protocol is an anti-sybil protocol based on Bryan Ford's pseudonym parties (2008) Global meet-up events happen simultaneously across the world, continuously throughout the year. The proof is based on the fact that you cannot be in two places at once.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3f94e7840cdb90056bcf0ec30841022b435151fd.png"></article>]]></description>
-            <link>https://thegrid.ai/the-human-web/anti-sybil-protocol-using-virtual-pseudonym-parties/index.html</link>
-            <guid isPermaLink="false">5eb0badf-2fa0-4220-8595-0f77089ab332</guid>
-            <pubDate>Sun, 03 Apr 2016 16:46:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
