@@ -4,7 +4,7 @@
         <description><![CDATA[thehumanweb]]></description>
         <link>https://thegrid.ai/the-human-web/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Apr 2016 08:41:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Apr 2016 13:44:32 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-human-web/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[thehumanweb/notes]]></title>
@@ -12,6 +12,13 @@
             <link>https://github.com/thehumanweb/notes/wiki/InfoPackage</link>
             <guid isPermaLink="false">d567b2fe-b470-460c-aa79-ec5b5ae63788</guid>
             <pubDate>Fri, 25 Mar 2016 21:36:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[UK Government Awards £248k for Ethereum Prototype - CoinDesk]]></title>
+            <description><![CDATA[<article><h1>UK Government Awards £248k for Ethereum Prototype - CoinDesk</h1><p>The UK government has awarded £248k to a startup that is building a cross-border payments tool using Ethereum. Founded in 2007, Innovate UK is a nondepartmental public office dedicated to fostering innovation through grants and investments. In interview, Tramonex co-founder and CEO Amine Berraoui said his company will use the money to further develop its cross-border blockchain tool.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/47d8a0c064c459e4d44575f8edcc065bcf0b3983.jpg"></article>]]></description>
+            <link>http://www.coindesk.com/uk-government-awards-250000-develop-cross-border-blockchain-prototype/?utm_content=bufferad26f&amp;utm_medium=social&amp;utm_source=twitter.com&amp;utm_campaign=buffer</link>
+            <guid isPermaLink="false">98579c9d-cbba-4215-988a-22463543e5d0</guid>
+            <pubDate>Sat, 30 Apr 2016 13:44:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Rights and Obligations in and out of blockchains - Stake Ventures]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/the-human-web/anti-sybil-protocol-using-virtual-pseudonym-parties/index.html</link>
             <guid isPermaLink="false">5eb0badf-2fa0-4220-8595-0f77089ab332</guid>
             <pubDate>Sun, 03 Apr 2016 16:46:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why Greeks are ditching the euro for digital barter systems]]></title>
-            <description><![CDATA[<article><h1>Why Greeks are ditching the euro for digital barter systems</h1><p>By When Makis Gounaris, a financial consultant based in Athens, decided to hire Spartan Security Ltd. to protect his apartment in September, he was told to choose from three payment options: cash, credit, or barter. Gounaris paid his entire bill in "TradePoints" using Greek barter network TradeNow.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e35446363ee6db31954927c954ef976744e2946b.jpg"></article>]]></description>
-            <link>http://www.marketwatch.com/story/a-lab-for-cashless-living-has-grown-out-of-greeces-financial-crisis-2016-03-29</link>
-            <guid isPermaLink="false">668d035b-b555-4c97-a773-4e93fdb0c8a9</guid>
-            <pubDate>Thu, 31 Mar 2016 20:08:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
