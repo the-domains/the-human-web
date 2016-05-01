@@ -4,7 +4,7 @@
         <description><![CDATA[thehumanweb]]></description>
         <link>https://thegrid.ai/the-human-web/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 01 May 2016 10:45:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 May 2016 12:55:19 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-human-web/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[thehumanweb/notes]]></title>
@@ -12,6 +12,13 @@
             <link>https://github.com/thehumanweb/notes/wiki/InfoPackage</link>
             <guid isPermaLink="false">d567b2fe-b470-460c-aa79-ec5b5ae63788</guid>
             <pubDate>Fri, 25 Mar 2016 21:36:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Africa in Transition " M-Akiba: Kenya's Revolutionary Mobile Phone Bond Offering]]></title>
+            <description><![CDATA[<article><h1>Africa in Transition " M-Akiba: Kenya's Revolutionary Mobile Phone Bond Offering</h1><p>The government of Kenya is tapping the country's digital finance prowess to raise critical infrastructure funds. The National Treasury has teamed up with a local mobile money pioneer, Safaricom, to launch the so-called M-Akiba bond. It is the first government security carried exclusively on mobile phones.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/376780e4b751753365e059c235610e51c77ba0c4.jpg"></article>]]></description>
+            <link>http://blogs.cfr.org/campbell/2015/11/06/m-akiba-kenyas-revolutionary-mobile-phone-bond-offering/</link>
+            <guid isPermaLink="false">96e94896-4402-43e7-be35-e84bc59dfb47</guid>
+            <pubDate>Sun, 01 May 2016 12:55:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hackers' $81 Million Sneak Attack on World Banking]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.lrb.stfi.re/v38/n08/john-lanchester/when-bitcoin-grows-up?sf=jnzgga</link>
             <guid isPermaLink="false">02ea56ba-1d1c-47f9-9b94-2b3eac87e677</guid>
             <pubDate>Sun, 17 Apr 2016 11:46:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Programmable blockchains in context: Ethereum's Future]]></title>
-            <description><![CDATA[<article><h1>Programmable blockchains in context: Ethereum's Future</h1><p>Spanish version By the end of this article, you're going to understand blockchains in general (and Ethereum, a next-generation blockchain platform, in particular) well enough to decide what they mean to your life. Ethereum brings up strong emotions. Some have compared it to SkyNet, the distributed artificial intelligence of the Terminator movies.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dc3322c7009b85435a1aff1550fa55df06135f21.png"></article>]]></description>
-            <link>https://thegrid.ai/the-human-web/programmable-blockchains-in-context-ethereums-future/index.html</link>
-            <guid isPermaLink="false">f1a70845-8c27-45f9-9e0f-1889832776f3</guid>
-            <pubDate>Sat, 09 Apr 2016 13:01:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
