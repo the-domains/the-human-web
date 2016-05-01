@@ -4,7 +4,7 @@
         <description><![CDATA[thehumanweb]]></description>
         <link>https://thegrid.ai/the-human-web/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 30 Apr 2016 13:45:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 May 2016 10:45:42 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-human-web/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[thehumanweb/notes]]></title>
@@ -12,6 +12,13 @@
             <link>https://github.com/thehumanweb/notes/wiki/InfoPackage</link>
             <guid isPermaLink="false">d567b2fe-b470-460c-aa79-ec5b5ae63788</guid>
             <pubDate>Fri, 25 Mar 2016 21:36:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hackers' $81 Million Sneak Attack on World Banking]]></title>
+            <description><![CDATA[<article><h1>Hackers' $81 Million Sneak Attack on World Banking</h1><p>"The trend is moving from opportunistic crime to Hollywood-scale attacks," said Mr. Nish, whose firm has analyzed the malware believed to have been used in the Bangladesh breach. In the United States, most banks take special precautions with their Swift computers, building multiple firewalls to isolate the system from the bank's other networks and keeping the machines physically isolated in a separate locked room.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f2637394aee46af33e13c9148ce0ae1f942c2c46.jpg"></article>]]></description>
+            <link>http://www.nytimes.com/2016/05/01/business/dealbook/hackers-81-million-sneak-attack-on-world-banking.html</link>
+            <guid isPermaLink="false">02b7ec80-8239-4ac9-9777-67f469a807b4</guid>
+            <pubDate>Sun, 01 May 2016 10:45:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The DAO - Home]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/the-human-web/programmable-blockchains-in-context-ethereums-future/index.html</link>
             <guid isPermaLink="false">f1a70845-8c27-45f9-9e0f-1889832776f3</guid>
             <pubDate>Sat, 09 Apr 2016 13:01:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[New Indoor Positioning System Tracks Your Phone Using Sound Waves]]></title>
-            <description><![CDATA[<article><h1>New Indoor Positioning System Tracks Your Phone Using Sound Waves</h1><p>As impressive as GPS and other radio signal-based positioning technologies are, they pretty much all crap out once the device-to-be-localised is inside. This is just a fundamental property of radio waves-put something solid enough, such as most building materials, in front of them and they will attenuate.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/50ed43c71271b434e7d7107e1a1df8bc0f3d1184.jpg"></article>]]></description>
-            <link>http://motherboard.vice.com/read/guoguo-is-a-new-indoor-smart-phone-localization-acoustic-gps</link>
-            <guid isPermaLink="false">964c26e6-0385-45d4-a7f6-f228da0085e6</guid>
-            <pubDate>Sun, 03 Apr 2016 16:48:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
