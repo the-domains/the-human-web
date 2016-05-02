@@ -4,7 +4,7 @@
         <description><![CDATA[thehumanweb]]></description>
         <link>https://thegrid.ai/the-human-web/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 02 May 2016 11:44:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2016 11:44:35 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-human-web/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[thehumanweb/notes]]></title>
@@ -12,6 +12,13 @@
             <link>https://github.com/thehumanweb/notes/wiki/InfoPackage</link>
             <guid isPermaLink="false">d567b2fe-b470-460c-aa79-ec5b5ae63788</guid>
             <pubDate>Fri, 25 Mar 2016 21:36:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Social Policy Bonds]]></title>
+            <description><![CDATA[<article><h1>Social Policy Bonds</h1><p>Social Policy Bonds: Policy as if outcomes mattered</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/172688b1b89d0311b84657dba757acc6430511ef.jpg"></article>]]></description>
+            <link>http://socialgoals.com/</link>
+            <guid isPermaLink="false">e8991705-d85d-4aff-9959-329ed0377ab4</guid>
+            <pubDate>Mon, 02 May 2016 11:43:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[UBS Donates Blockchain Code to HIV Research]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.forbes.com/sites/rogeraitken/2016/04/23/digital-gold-done-right-with-digixdao-crypto-trading-on-openledger/#7ad291194cf6</link>
             <guid isPermaLink="false">c881a07f-838c-485f-8339-4cb85d402c2a</guid>
             <pubDate>Sat, 23 Apr 2016 16:41:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Universal Payment Channels]]></title>
-            <description><![CDATA[<article><h1>Universal Payment Channels</h1><p>Costless, instantaneous payments let us use money in a completely new way. Conventional payment processors impose arbitrary fees and delays, and cryptocurrencies can function only with inevitable confirmation times and blockchain bloat. Free from these constraints, we can create a new class of applications. For instance, incentivized mesh networks.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/140b4f6399bba23dbf4c7b773c2a3d76c7e76cac.png"></article>]]></description>
-            <link>http://altheamesh.com/blog/universal-payment-channels</link>
-            <guid isPermaLink="false">fbb08b27-7bcc-4fb5-bb42-f029255602fb</guid>
-            <pubDate>Mon, 18 Apr 2016 19:44:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
