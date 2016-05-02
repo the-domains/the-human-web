@@ -4,7 +4,7 @@
         <description><![CDATA[thehumanweb]]></description>
         <link>https://thegrid.ai/the-human-web/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 01 May 2016 12:55:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2016 11:44:27 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-human-web/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[thehumanweb/notes]]></title>
@@ -12,6 +12,13 @@
             <link>https://github.com/thehumanweb/notes/wiki/InfoPackage</link>
             <guid isPermaLink="false">d567b2fe-b470-460c-aa79-ec5b5ae63788</guid>
             <pubDate>Fri, 25 Mar 2016 21:36:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[UBS Donates Blockchain Code to HIV Research]]></title>
+            <description><![CDATA[<article><h1>UBS Donates Blockchain Code to HIV Research</h1><p>UBS has donated the code for its experimental trading platform powered by blockchain technology to an organisation that wants to issue bonds to raise money for HIV research. Financial News reports. Finclusion, a London-based fintech firm, has developed a blockchain platform for HEAL Alliance, a non-profit organisation looking into a cure for HIV that wants to issue social impact bonds.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/db847d0ffb92a92c5cb7901fd2cc7ad1c1161d7b.jpg"></article>]]></description>
+            <link>https://city.wsj.com/stories/fe6b7359-baf8-42ed-a069-2dc145786ccc.html</link>
+            <guid isPermaLink="false">78f5acc2-75d0-41b7-abda-cb419b627e47</guid>
+            <pubDate>Mon, 02 May 2016 11:43:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Africa in Transition " M-Akiba: Kenya's Revolutionary Mobile Phone Bond Offering]]></title>
@@ -68,13 +75,6 @@
             <link>http://altheamesh.com/blog/universal-payment-channels</link>
             <guid isPermaLink="false">fbb08b27-7bcc-4fb5-bb42-f029255602fb</guid>
             <pubDate>Mon, 18 Apr 2016 19:44:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[LRB · John Lanchester · When Bitcoin Grows Up: What is Money?]]></title>
-            <description><![CDATA[<article><h1>LRB · John Lanchester · When Bitcoin Grows Up: What is Money?</h1><p>It's impossible to discuss new developments in money without thinking for a moment about what money is. The best place to start thinking about that is with money itself. Consider the UK's most common paper money, the English five or ten or twenty quid note. On one side we have a famous .</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2bf3a15d3daa695d14581bf73262849b20c644a4.jpg"></article>]]></description>
-            <link>http://www.lrb.stfi.re/v38/n08/john-lanchester/when-bitcoin-grows-up?sf=jnzgga</link>
-            <guid isPermaLink="false">02ea56ba-1d1c-47f9-9b94-2b3eac87e677</guid>
-            <pubDate>Sun, 17 Apr 2016 11:46:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
