@@ -4,7 +4,7 @@
         <description><![CDATA[thehumanweb]]></description>
         <link>https://thegrid.ai/the-human-web/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 21 May 2016 12:48:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 May 2016 12:48:36 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-human-web/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[thehumanweb/notes]]></title>
@@ -12,13 +12,6 @@
             <link>https://github.com/thehumanweb/notes/wiki/InfoPackage</link>
             <guid isPermaLink="false">d567b2fe-b470-460c-aa79-ec5b5ae63788</guid>
             <pubDate>Fri, 25 Mar 2016 21:36:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[GOV.UK Verify]]></title>
-            <description><![CDATA[<article><h1>GOV.UK Verify</h1><p>GOV.UK Verify is the new way to prove who you are online. It gives safer, simpler and faster access to government services like filing your tax or checking the information on your driving licence. It takes about 10 minutes to verify your identity the first time you use GOV.UK Verify, and a couple of minutes any time after that.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6ed2db70cbd0b2b142db641e93b92cef2df93e91.png"></article>]]></description>
-            <link>https://www.gov.uk/government/publications/introducing-govuk-verify/introducing-govuk-verify</link>
-            <guid isPermaLink="false">51e11156-a235-4979-8a8c-c91d289427d7</guid>
-            <pubDate>Sat, 21 May 2016 12:48:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Vinay Gupta - Transparent Society - Crowdfunding on Blockchains / Ethereum]]></title>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>The DAO - Home</h1><p>The DAO - the first Decentralized Autonomous Organization on the Ethereum blockchain</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/258124bbd647a06ce6f8ec2be06f6203687112e9.png"></article>]]></description>
             <link>https://daohub.org/index.html</link>
             <guid isPermaLink="false">15435752-03c0-413e-9783-71c747cdf1c1</guid>
+            <pubDate>Sat, 30 Apr 2016 13:44:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[UK Government Awards £248k for Ethereum Prototype - CoinDesk]]></title>
+            <description><![CDATA[<article><h1>UK Government Awards £248k for Ethereum Prototype - CoinDesk</h1><p>The UK government has awarded £248k to a startup that is building a cross-border payments tool using Ethereum. Founded in 2007, Innovate UK is a nondepartmental public office dedicated to fostering innovation through grants and investments. In interview, Tramonex co-founder and CEO Amine Berraoui said his company will use the money to further develop its cross-border blockchain tool.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/47d8a0c064c459e4d44575f8edcc065bcf0b3983.jpg"></article>]]></description>
+            <link>http://www.coindesk.com/uk-government-awards-250000-develop-cross-border-blockchain-prototype/?utm_content=bufferad26f&amp;utm_medium=social&amp;utm_source=twitter.com&amp;utm_campaign=buffer</link>
+            <guid isPermaLink="false">98579c9d-cbba-4215-988a-22463543e5d0</guid>
             <pubDate>Sat, 30 Apr 2016 13:44:27 GMT</pubDate>
         </item>
     </channel>
