@@ -4,7 +4,7 @@
         <description><![CDATA[thehumanweb]]></description>
         <link>https://thegrid.ai/the-human-web/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 21 May 2016 12:48:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 May 2016 12:48:38 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-human-web/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[thehumanweb/notes]]></title>
@@ -14,10 +14,24 @@
             <pubDate>Fri, 25 Mar 2016 21:36:33 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[GOV.UK Verify]]></title>
+            <description><![CDATA[<article><h1>GOV.UK Verify</h1><p>GOV.UK Verify is the new way to prove who you are online. It gives safer, simpler and faster access to government services like filing your tax or checking the information on your driving licence. It takes about 10 minutes to verify your identity the first time you use GOV.UK Verify, and a couple of minutes any time after that.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6ed2db70cbd0b2b142db641e93b92cef2df93e91.png"></article>]]></description>
+            <link>https://www.gov.uk/government/publications/introducing-govuk-verify/introducing-govuk-verify</link>
+            <guid isPermaLink="false">51e11156-a235-4979-8a8c-c91d289427d7</guid>
+            <pubDate>Sat, 21 May 2016 12:48:01 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Vinay Gupta - Transparent Society - Crowdfunding on Blockchains / Ethereum]]></title>
             <description><![CDATA[<article><h1>Vinay Gupta - Transparent Society - Crowdfunding on Blockchains / Ethereum</h1><p>Wales, Digital 2015 Slides at https://docs.google.com/presentation/d/1li6Q4KKBdLi3r26uWxQvf3TwmS_qvesTAS44227xyxk/edit?usp=sharing Help us caption & translate this video! http://amara.org/v/GhOL/</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bcfc85c9727737505277e533fef8b4d6644bc723.jpg"></article>]]></description>
             <link>https://www.youtube.com/watch?v=6gVri8wVGPc</link>
             <guid isPermaLink="false">4dfb64f3-dafe-4e20-b70d-2932c65a378a</guid>
+            <pubDate>Sat, 21 May 2016 12:48:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cryptography, Blockchain, and International Arbitration: How Fintech Revolution Influences Jurisprudence]]></title>
+            <description><![CDATA[<article><h1>Cryptography, Blockchain, and International Arbitration: How Fintech Revolution Influences Jurisprudence</h1><p>Over the course of the last year, blockchain has become a buzzword not only for startuppers, banks, and technology companies, but also for public entities. It draws more and more attention from lawyers, both as a part of discussions on digital currency's legal status, and in the search of the technology's applications in legal operations.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/921f7af47cb77c9bb92ed6a1d98b221eb989f100.png"></article>]]></description>
+            <link>http://forklog.net/cryptography-blockchain-and-international-arbitration-how-fintech-revolution-influences-jurisprudence/</link>
+            <guid isPermaLink="false">71d8a364-6875-4382-b494-20790e2a9c37</guid>
             <pubDate>Sat, 21 May 2016 12:48:01 GMT</pubDate>
         </item>
         <item>
@@ -61,20 +75,6 @@
             <link>https://daohub.org/index.html</link>
             <guid isPermaLink="false">15435752-03c0-413e-9783-71c747cdf1c1</guid>
             <pubDate>Sat, 30 Apr 2016 13:44:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[UK Government Awards £248k for Ethereum Prototype - CoinDesk]]></title>
-            <description><![CDATA[<article><h1>UK Government Awards £248k for Ethereum Prototype - CoinDesk</h1><p>The UK government has awarded £248k to a startup that is building a cross-border payments tool using Ethereum. Founded in 2007, Innovate UK is a nondepartmental public office dedicated to fostering innovation through grants and investments. In interview, Tramonex co-founder and CEO Amine Berraoui said his company will use the money to further develop its cross-border blockchain tool.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/47d8a0c064c459e4d44575f8edcc065bcf0b3983.jpg"></article>]]></description>
-            <link>http://www.coindesk.com/uk-government-awards-250000-develop-cross-border-blockchain-prototype/?utm_content=bufferad26f&amp;utm_medium=social&amp;utm_source=twitter.com&amp;utm_campaign=buffer</link>
-            <guid isPermaLink="false">98579c9d-cbba-4215-988a-22463543e5d0</guid>
-            <pubDate>Sat, 30 Apr 2016 13:44:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rights and Obligations in and out of blockchains - Stake Ventures]]></title>
-            <description><![CDATA[<article><h1>Rights and Obligations in and out of blockchains - Stake Ventures</h1><p>Rights and Obligations are the 2 most fundamental building blocks of trade and finance. Contracts exist to protect rights and enforce obligations. Trade consists of trading one right or obligation for another.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e232a62969b671393e5fa1e7b459d9721eb84c53.jpg"></article>]]></description>
-            <link>https://blog.stakeventures.com/articles/rights-and-obligations-in-blockchains</link>
-            <guid isPermaLink="false">d20564d2-e884-4584-add7-1e7c6c899d6b</guid>
-            <pubDate>Sun, 24 Apr 2016 08:41:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
