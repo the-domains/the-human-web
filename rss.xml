@@ -4,7 +4,7 @@
         <description><![CDATA[thehumanweb]]></description>
         <link>https://thegrid.ai/the-human-web/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 02 May 2016 12:57:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 May 2016 12:48:32 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-human-web/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[thehumanweb/notes]]></title>
@@ -12,6 +12,13 @@
             <link>https://github.com/thehumanweb/notes/wiki/InfoPackage</link>
             <guid isPermaLink="false">d567b2fe-b470-460c-aa79-ec5b5ae63788</guid>
             <pubDate>Fri, 25 Mar 2016 21:36:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Vinay Gupta - Transparent Society - Crowdfunding on Blockchains / Ethereum]]></title>
+            <description><![CDATA[<article><h1>Vinay Gupta - Transparent Society - Crowdfunding on Blockchains / Ethereum</h1><p>Wales, Digital 2015 Slides at https://docs.google.com/presentation/d/1li6Q4KKBdLi3r26uWxQvf3TwmS_qvesTAS44227xyxk/edit?usp=sharing Help us caption & translate this video! http://amara.org/v/GhOL/</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bcfc85c9727737505277e533fef8b4d6644bc723.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=6gVri8wVGPc</link>
+            <guid isPermaLink="false">4dfb64f3-dafe-4e20-b70d-2932c65a378a</guid>
+            <pubDate>Sat, 21 May 2016 12:48:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[MacroMania]]></title>
@@ -50,7 +57,7 @@
         </item>
         <item>
             <title><![CDATA[The DAO - Home]]></title>
-            <description><![CDATA[<article><h1>The DAO - Home</h1><p>The DAO - the first Decentralized Autonomous Organization on the Ethereum blockchain</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/af4b84ea9462c43c9214e586bfa387f940e6e171.png"></article>]]></description>
+            <description><![CDATA[<article><h1>The DAO - Home</h1><p>The DAO - the first Decentralized Autonomous Organization on the Ethereum blockchain</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/258124bbd647a06ce6f8ec2be06f6203687112e9.png"></article>]]></description>
             <link>https://daohub.org/index.html</link>
             <guid isPermaLink="false">15435752-03c0-413e-9783-71c747cdf1c1</guid>
             <pubDate>Sat, 30 Apr 2016 13:44:27 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://blog.stakeventures.com/articles/rights-and-obligations-in-blockchains</link>
             <guid isPermaLink="false">d20564d2-e884-4584-add7-1e7c6c899d6b</guid>
             <pubDate>Sun, 24 Apr 2016 08:41:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[OpenLedger - Welcome]]></title>
-            <description><![CDATA[<article><h1>OpenLedger - Welcome</h1><p>Loading... The most powerful decentralized financial crypto-platform in the entire world. Provided by BitShares Powered by Graphene OpenLedger allows you to convert bitcoin to fiat-pegged SmartCoins instantly or by limit order. SmartCoins can be withdrawn directly to cash via NanoCard, PayPal, Ripple gateway or money transfer. Only those you authorize can see your accounts.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e241cf56fddfffb59532c3fb0900729651d61f29.png"></article>]]></description>
-            <link>https://www.openledger.info/</link>
-            <guid isPermaLink="false">e906f79f-b9a7-4ebd-aeca-077c43813174</guid>
-            <pubDate>Sat, 23 Apr 2016 16:41:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
