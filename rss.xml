@@ -4,7 +4,7 @@
         <description><![CDATA[thehumanweb]]></description>
         <link>https://thegrid.ai/the-human-web/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 18 Jun 2016 18:13:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Jun 2016 18:16:34 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-human-web/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[thehumanweb/notes]]></title>
@@ -12,6 +12,13 @@
             <link>https://github.com/thehumanweb/notes/wiki/InfoPackage</link>
             <guid isPermaLink="false">d567b2fe-b470-460c-aa79-ec5b5ae63788</guid>
             <pubDate>Fri, 25 Mar 2016 21:36:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[LRB · Andrew O'Hagan · The Satoshi Affair]]></title>
+            <description><![CDATA[<article><h1>LRB · Andrew O'Hagan · The Satoshi Affair</h1><p>The Raid Ten men raided a house in Gordon, a north shore suburb of Sydney, at 1.30 p.m. on Wednesday, 9 December 2015. Some of the federal agents wore shirts that said 'Computer Forensics'; one carried a search warrant issued under the Australian Crimes Act 1914. They were looking for .</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ab7b3ed9caa879dfeeb9d9e9751472bd/noop.jpg?input=http%3A%2F%2Fcdn.lrb.co.uk%2Fassets%2Fedillus%2Fohag01_3813_04.jpg"></article>]]></description>
+            <link>http://www.lrb.co.uk/v38/n13/andrew-ohagan/the-satoshi-affair</link>
+            <guid isPermaLink="false">8390789c-9c6c-4a75-9538-bd8c4897cf8f</guid>
+            <pubDate>Sat, 18 Jun 2016 18:16:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Simple Contracts are Better Contracts: What We Can Learn from the Meltdown of The DAO - Blockstack Blog]]></title>
@@ -68,13 +75,6 @@
             <link>https://city.wsj.com/stories/fe6b7359-baf8-42ed-a069-2dc145786ccc.html</link>
             <guid isPermaLink="false">78f5acc2-75d0-41b7-abda-cb419b627e47</guid>
             <pubDate>Mon, 02 May 2016 11:43:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Africa in Transition " M-Akiba: Kenya's Revolutionary Mobile Phone Bond Offering]]></title>
-            <description><![CDATA[<article><h1>Africa in Transition " M-Akiba: Kenya's Revolutionary Mobile Phone Bond Offering</h1><p>The government of Kenya is tapping the country's digital finance prowess to raise critical infrastructure funds. The National Treasury has teamed up with a local mobile money pioneer, Safaricom, to launch the so-called M-Akiba bond. It is the first government security carried exclusively on mobile phones.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/376780e4b751753365e059c235610e51c77ba0c4.jpg"></article>]]></description>
-            <link>http://blogs.cfr.org/campbell/2015/11/06/m-akiba-kenyas-revolutionary-mobile-phone-bond-offering/</link>
-            <guid isPermaLink="false">96e94896-4402-43e7-be35-e84bc59dfb47</guid>
-            <pubDate>Sun, 01 May 2016 12:55:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
