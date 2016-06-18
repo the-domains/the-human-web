@@ -4,7 +4,7 @@
         <description><![CDATA[thehumanweb]]></description>
         <link>https://thegrid.ai/the-human-web/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 22 May 2016 14:00:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Jun 2016 18:13:40 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-human-web/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[thehumanweb/notes]]></title>
@@ -12,6 +12,13 @@
             <link>https://github.com/thehumanweb/notes/wiki/InfoPackage</link>
             <guid isPermaLink="false">d567b2fe-b470-460c-aa79-ec5b5ae63788</guid>
             <pubDate>Fri, 25 Mar 2016 21:36:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Simple Contracts are Better Contracts: What We Can Learn from the Meltdown of The DAO - Blockstack Blog]]></title>
+            <description><![CDATA[<article><h1>Simple Contracts are Better Contracts: What We Can Learn from the Meltdown of The DAO - Blockstack Blog</h1><p>50 million were "stolen" from a project called "The DAO" and now the Ethereum community is deciding how to move forward and recover from the disaster. But each crisis presents a learning opportunity, so let's take a deeper dive into the matter and see how we can do better.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/167ddee7124afbc346890b3385084c59/noop.jpeg?input=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F1200%2F1*u7gy7coSRTDIOXOV6crMHw.jpeg"></article>]]></description>
+            <link>https://blog.blockstack.org/simple-contracts-are-better-contracts-what-we-can-learn-from-the-dao-6293214bad3a#.e4px6nxtc</link>
+            <guid isPermaLink="false">d7b62660-bef1-47a2-9890-8a89a4cd7c0e</guid>
+            <pubDate>Sat, 18 Jun 2016 18:13:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Cashless economics: The new wave of mobile money]]></title>
@@ -68,13 +75,6 @@
             <link>http://blogs.cfr.org/campbell/2015/11/06/m-akiba-kenyas-revolutionary-mobile-phone-bond-offering/</link>
             <guid isPermaLink="false">96e94896-4402-43e7-be35-e84bc59dfb47</guid>
             <pubDate>Sun, 01 May 2016 12:55:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hackers' $81 Million Sneak Attack on World Banking]]></title>
-            <description><![CDATA[<article><h1>Hackers' $81 Million Sneak Attack on World Banking</h1><p>"The trend is moving from opportunistic crime to Hollywood-scale attacks," said Mr. Nish, whose firm has analyzed the malware believed to have been used in the Bangladesh breach. In the United States, most banks take special precautions with their Swift computers, building multiple firewalls to isolate the system from the bank's other networks and keeping the machines physically isolated in a separate locked room.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f2637394aee46af33e13c9148ce0ae1f942c2c46.jpg"></article>]]></description>
-            <link>http://www.nytimes.com/2016/05/01/business/dealbook/hackers-81-million-sneak-attack-on-world-banking.html</link>
-            <guid isPermaLink="false">02b7ec80-8239-4ac9-9777-67f469a807b4</guid>
-            <pubDate>Sun, 01 May 2016 10:45:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
