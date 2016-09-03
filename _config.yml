@@ -1,7 +1,18 @@
+layout_spectrum: 0.29278897517360747
+typography_spectrum: 0.15781447989866138
+color:
+  brandColors:
+    - '#225378'
+    - '#1695A3'
+    - '#ACF0F2'
+    - '#F3FFE2'
+    - '#EB7F00'
+  brandStrength: 0.3298892572056502
+  lightness: 0.7755025352817029
+  saturation: 0.3095340661238879
+  rhythmicContrast: 0.9407417988404632
 name: thehumanweb
 favicon: null
-layout_spectrum: 0.6736
-typography_spectrum: 0.57414
 cta:
   domain: null
   bucket: null
@@ -14,15 +25,4 @@ opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#e3cba9'
-    - '#5b5964'
-    - '#aa6858'
-    - '#bb9b75'
-    - '#262431'
-  brandStrength: 0.3125
-  lightness: 0.5
-  saturation: 0.25
-  rhythmicContrast: 0.52661
 purpose: []
